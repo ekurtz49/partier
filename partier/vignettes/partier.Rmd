@@ -1,0 +1,263 @@
+---
+title: "partier"
+author: "Emily Kurtz"
+date: "December 2020"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{partier}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+## Purpose of Package
+
+The partier package was designed with one goal in mind: to offer a tool to analyze party policy positions via the L1, or cityblock, metric. According to Benoit and Laver (2005), the cityblock metric performs better than the Euclidean metric in psychological, political choice contexts (p 32). The L1 norm's superiority in evaluating individuals' political choices is especially evident when the underlying dimensions being analyzed are separable, meaning that one dimension can be evaluated more or less independently of another (p 35). On the other hand, the Euclidean metric performs better when the dimensions are integral, or relatively dependent, though in these cases the best option may be to reduce the dimensionality by condensing all integral dimensions down to one, where the L1 and Euclidean metrics become identical. Despite the cityblock metric's superior predictive power and modelling fit though, political scientists more often use the Euclidean metric because, as Benoit and Laver found, it is "tractable given current analytical techniques" (p 32). Thus, this package seeks out a way to make the cityblock metric more "tractable."
+
+The partier package provides tools for calcuating party "territories," or set of possible policy positions for which that party's own position is closer than any other party's position, given a user-specified matrix of parties' policy positions. Any number of parties can be analyzed, as well as any number of policy dimensions, though of course larger numbers on both fronts requires more computational time. The package also includes one dataset, democracies, which offers clean example data with which to get accustomed to the package's functions. Finally, the package includes some voter simulation functions which generates a set of voters' opinions on the dimensions of interests based on the user's inputted underlying distributions of the policy dimensions.
+
+The bulk of the theoretical inspiration for this package comes from Benoit and Laver's 2005 book Party Policy in Modern Democracies. One thing to note is that this package does not seek to determine parties' best strategic positions or encourage any policy tweaking for the purposes of winning more elections. For a multitude of reasons, such a goal is very optimistic, and thus the scope of this package is limited to visualization and summarization and offering a theoretical situation to which empirical data can be compared.
+
+## Installation and Use
+
+Save the partier file to your working directory and repeat the below lines of code (uncomment the first line) to access and use the partier package.
+
+```{r,tidy=TRUE}
+#install("partier")
+library(partier)
+```
+
+An older version of the partier file is available at https://github.umn.edu/kurtz217/partier, and the updated package will soon be available there and through CRAN.
+
+## Functions
+
+The partier package contains a number of functions, many of which are simple helper functions that, while not intended for use in typical workflows, can be useful in a number of contexts extending beyond visual models of party competition. At the moment, the package includes the following main functions:
+
+coordinate_distances
+
+plot.PartyMatrix
+
+summary.PartyMatrix
+
+sim_vote
+
+sim_voter_positions
+
+The following helper functions are also included:
+
+cityblock
+
+duplicate_minima
+
+plot1d
+
+plot2d
+
+plot_matrix
+
+More information for all functions can be found in the help text (accessed, among other ways, using the help function or preceding the function name with a question mark, i.e. "help(plot2d)" or "?plot2d").
+
+## Dataset - democracies
+
+This data set is an edited version of data collected by Kenneth Benoit and Michael Laver and presented in their book Party Policy in Modern Democracies (2005). A complete description of all variables and items from the original data set can be found at the following site: https://www.tcd.ie/Political_Science/ppmd/PPMD_summary_data_GUIDE.pdf.
+
+The democracies data set is just a subset of the original data. Certain factors thought to be less useful to the main intent of the package have been removed in order to make the data set easier to use when learning the package. The version included in this package contains all rows of the original set, but only four columns: Country, Party, Dimension, and Mean. There are 47 countries represented, and a total of 100 parties in these 47 countries. These parties are rated on a scale from 1 to 20 on some number of policy dimensions. There are 38 total policy dimensions, but some, such as "Quebec," which measures the party's support of Quebec sovereignty, are country-specific. The Quebec dimension, for example, would only be evaluated for Canadian parties. The parties are rated by multiple political experts, and their average score for each dimension for which they are rated is recorded in the Mean column. Of course, both the choice of dimensions and the experts' opinions for the parties' rankings on these dimensions are free to be disputed, but this is not the goal of the package. That said, the accompanying paper dedicates some time to this discussion.
+
+More information on the data set can be found in the help text.
+
+```{r,tidy=TRUE}
+#help(democracies)
+```
+
+## Problem Solving Example - Analyzing Party Territories
+
+Below we illustrate the steps one could go through to get a rough sense of how a country's political parties compare on a number of dimensions of interest and what types of theoretical voters these parties would attract. In general, each process should start with creating a PartyMatrix object using the coordinate_distances function. That object can then be used to create summaries and plots in order to more concisely understand and visualize the parties positions on the policies of interest.
+
+In our example, we will analyze five main parties in 2005 German politics - a Green, Social Democratic, Liberal, Conservative, and Far Right party. These parties' ideological platforms represent a wide variety of policy views present in many western democracies (Ennser, 2012).
+
+We start by gathering the parties' views on taxes and spending, social issues, and the environment, and running coordinate_distances on those values.
+
+
+### coordinate_distances
+
+The coordinate_distances function will typically be the first function used in this workflow. It takes in a matrix of parties' positions on all policies of interest and returns the "winning" party for each theoretical position a voter could have on all policies. 
+
+An important note to reiterate when using coordinate_distances, as is also mentioned in the help text for the function, is to have parties represented by columns and policies represented by rows. In our case, as we will see, all parties' views on taxes are represented in row 1, on social issues in row 2, and on the environment in row 3. Likewise, the conservative CDU party's views are all in column 1, the liberal FDP is represented by column 2, the green GRU column 3, the far right NDP column 4, and the social democratic SPD column 5. We name the matrix we create as input for the coordinate_distances function "policies," and this means that, for example, the second row and third column of the policies matrix represents GRU's social policies dimension position.
+
+```{r,tidy=TRUE}
+# get subset of dataset for German parties
+germany<-democracies[democracies$Country=="DE",]
+
+# create a "policies" matrix to be used in coordinate_distances
+policies<-matrix(c(germany[1,4],germany[2,4],germany[3,4],
+                          germany[31,4],germany[32,4],germany[33,4],
+                          germany[41,4],germany[42,4],germany[43,4],
+                          germany[51,4],germany[52,4],germany[53,4],
+                          germany[81,4],germany[82,4],germany[83,4]),nrow=3)
+
+# create PartyMatrix object - german - for future work
+german<-coordinate_distances(policies=policies,scale.upper = 20)
+```
+
+The last row in the above code chunk creates a PartyMatrix object using the coordinate_distances function, which we name "german." Let's see what german looks like.
+
+```{r,tidy=TRUE}
+#get first six, and last six, rows of the german PartyMatrix matrix
+head(german$matrix)
+tail(german$matrix)
+#get the dimensions of the PartyMatrix matrix
+dim(german$matrix)
+#see what is created by the coordinate_distances function
+class(german)
+```
+
+First, note that the function indeed creates a PartyMatrix object (as shown by the class function's output), in order to allow the package's summary and plot functions to be accessed via their generic versions. Also note that the function creates a matrix with 8000 rows and 9 columns. There is one row for each possible ordered tuple. The three policies are measured from 1 to 20, and thus, there are $20^3 = 8000$ possible tuples. The tuples are recorded in the first columns, in as many columns as there are policies, so three in this case. The remaining columns, barring the last, contain the distances from the given policy positions (represented by the tuples) and the party's (that which corresponds to the column we are in) platform. For example, let's look at column 4, which corresponds to the first party (CDU). Rounded, this party's views are, in order, 14, 16, and 15. Thus, this party would be approximately $(14-1)+(16-1)+(15-1) = 42$ units away from the ordered tuple (1,1,1), i.e. the policy dimensions represented in the first row. We indeed see the value 41.82553, about 42, in the first row, fourth column.
+
+```{r,tidy=TRUE}
+c(germany[1,4],germany[2,4],germany[3,4])
+```
+
+Indeed, looking at row 1 of german, this is what we see. Columns 5 through 8 likewise represent the other parties' distances in the same way.
+
+Finally, the last column represents the party with the minimum distance to the given ordered tuple. Again in row 1, column 6, which represents party 3, has the minimum value of all party columns, and so a 3 appears in the last column. If two parties tie for the minimum distance, a 0 is recorded.
+
+### summary.PartyMatrix
+
+A basic question we might ask is which parties have the largest potential voter bases, i.e. which parties have the most ordered tuples which would, theoretically (if they're voting for the closest party), prefer them over other parties. The territory_totals portion of the generic summary function gives us this information.
+
+```{r,tidy=TRUE}
+summary(german)
+```
+
+Above, we see that Pary 5. SPD, has the largest number, which is one of the more successful parties. While these totals only represent the parties on three dimensions, and while other aspects of a party factor into a voter's decision, these numbers give some idea of which parties have the potential for success. That said, a major drawback (one that this part of the workflow doesn't necessarily attempt to fix, though can be somewhat addressed by the voter simulation functions) to this information is that it tells us nothing about the underlying distribution of voters. While the SPD can claim almost 30% of all possible tuples as its "territory," this does not mean 30% of voters are closest to that party. Such a conclusion would assume that voters are uniformly distributed about the tuples.
+
+The summary function also gives descriptive statistics for how far away a party's likely voters' policy opinions lie from the party's platform overall. While this package again does not seek to encourage policy movement, this information could be helpful, for example, in comparing party registration and turnout numbers, as one party may have a larger territory but more voters who are substantially farther away, and thus less likely to support their closest party.
+
+### plot.PartyMatrix
+
+This generic function works on any number of policy dimensions, as long as R doesn't throw a plotting error due to the user having too small of a screen to render the necessary pixels. On an average sized, desktop computer monitor, R seems to handle plotting 5-6 dimensions reasonably well.
+
+There are three different types of visuals, which are themselves directly created by the helper functions plot1d, plot2d, and plot_matrix. All of these plots are best created by the user through the plot function, though. If the user plots one dimension, the plot1d function creates a one-dimensional plot showing the parties' territories on that one dimension. If the user plots two dimensions, the plot2d function creates a two-dimensional plot, with one dimension on each the x and y axis, showing the parties' terriroties on those two dimensions, calculated, of course, using the L1 norm. If the user plots three or more dimensions, a plot matrix is created by the plot_matrix function. This function utilizes both of the previous plot types, with one-dimensional plots on the main diagonal and two-dimensional plots elsewhere. Exclusing main diagonal plots which only have one axis, the plots are organized in the matrix so that the dimension appearing on the x axis shows up in its corresponding column and the dimension appearing on the y axis shows up in its corresponding row. For example, if we plot three dimensions and look at the plot in the second row and third column, the plot will have Dimension 3 on the x axis and Dimension 2 on the y axis. This implies that the matrix is, effectively, reflexive across the main diagonal; the plot in the $i^th$ row and $j^th$ column conveys exactly the same information as the plot in the $j^th$ row and $i^th$ column.
+
+Keeping in mind that our example of interest contains five parties and three dimensions, let's see what happens if we plot our PartyMatrix object:
+
+```{r,tidy=TRUE}
+plot(german,scale.upper=20,col=c("grey","yellow","green","blue","red"))
+```
+
+The above visual confirms the statements of the previous paragraph; a plot matrix is created, the main diagonal contains one-dimensional graphs, other spaces are filled by appropriate two-dimensional graphs, etc.
+
+Another worthwhile note is that colors can be added in the exact same manner as is typical in R's base plot function, as an array via the col parameter, to assign descriptive colors to the parties' territories. For example, using that parameter above, the Green Party is assigned, unsurprisingly, the color green in our plot.
+
+The above visual captures the nature of Germany's party competition in the early 2000s to some extent, given the three policy dimensions, economic, social, and environmental, we are currently considering. For example, the SPD, represented in red, was quite competitive during that time, and this could be because they shared the left half of the economic spectrum only with the blue NDP, which, undoubtedly in no small part due to its ultranationalism, was not a major party at all at the time. Of course, the SPD could have been successful during those years for many other reasons, such as good compaigning, likeable nominees, international conditions favoring more leftist policies, etc. These plots are by no means intended to tell the full story, but instead to offer an easily digestible, high level view of the party dynamics.
+
+We may be less interested in environmental issues than in social and economic issues and thus wish to exclude the environmental dimension altogether. This can be done easily through the plot function by simply utilizing the dimensions parameter.
+
+```{r,tidy=TRUE}
+plot(german,scale.upper=20,col=c("grey","yellow","green","blue","red"),dimensions=c(1,2))
+```
+
+In the above plot, we see the five German parties' policy positions plotted on economic and social dimensions on the y and x axes, respectively. Visually, it appears that the red SPD and the grey CDU are quite competitive (with the already-stated caveat that we do not know how voters are distributed on these dimensions), especially considering, again, that the blue NPD was not a major party.
+
+We can similarly get just the one-dimensional plot of economic issues by specifying the dimensions to be 1.
+
+```{r,tidy=TRUE}
+plot(german,scale.upper=20,col=c("grey","yellow","green","blue","red"),dimensions=1)
+```
+
+We can also get the one-dimensional plot of social issues by specifying dimensions to be 2.
+
+```{r,tidy=TRUE}
+plot(german,scale.upper=20,col=c("grey","yellow","green","blue","red"),dimensions=2)
+```
+
+This illustrates that, to get the dimensions desired in the plot, you must input an array with numbers corresponding to the rows in the original policies matrix that represent the desired dimensions. Since the economic dimension appears in the first row of the original policies dimension, it is represented by 1 in the dimensions argument. Any array containing a 1, then, will include the economic dimension in its plotting.
+
+### sim_voter_positions
+
+Up to this point, all analysis has involved only parties. We have stated a couple of times that using the tools presented up to this point to inform party strategy is unwise for a number of reasons, not the least of which is that the underlying distribution of voters on the policy dimensions is unknown. This function and the next allow us to somewhat address that issue by simulating a set of voters and their stances on a number of policy dimensions given some user-specified information about the population's opinions on the dimensions.
+
+The sim_voter_positions function relies somewhat on the user's background knowledge about voters. Having a rough idea of how voters are distributed on the dimensions, which can be gained from surveys, is necessary to get reasonably accurate simulated voters. Furthermore, knowing how correlated the dimensions are is useful, and there are a number of studies measuring this in some contexts (see, for example, Caughey et. al., 2019).
+
+With this in mind, we simulate some early 2000s German voters based on the three dimensions we have been analyzing through the course of this vignette, noting that the proposed distributions are decidedly NOT necessarily accurate, as this example is only used to illustrate the workflow.
+
+```{r,tidy=TRUE}
+voterpos<-sim_voter_positions(num=1000,range=c(1,20),ndim=3,shape1=rep(5,3),shape2=rep(5,3),
+                    corrmat=matrix(c(1,0.6,0.5,0.6,1,0.8,0.5,0.8,1),nrow=3),rounded=FALSE)
+```
+
+The first thing worth noting is that this function, at the moment, creates only beta-distributed voter positions. The beta distribution has a number of benefits here. First, a beta random variable can only fall between 0 and 1, so this serves as a natural way to easily ensure, after required transformations, that our voters fall within our desired policy range (in this example's case, our voters fall between 1 and 20 since the German parties' positions also fall between 1 and 20). There is no need to truncate at certain points. Furthermore, the beta distribution approximates many other, better known distributions well. For example, if the shape and scale parameters are approximately equal and relatively large, the beta approximates to the normal. If both parameters are set to 1, we get a uniform random variable. The beta distributions parameters allow a lot of flexibility over the skew of policy positions as well.
+
+With this in mind, in our example, we set each of the three policies to have approximately normal distributions by setting the shape1 and shape2 parameters to 5. We set num to 1000 to get a set of 1000 voters, each of whom has opinions on each of the 3 dimensions (which is set as the ndim parameter). The range is set to 1,20 so as to match the party positions range. Finally, the corrmat parameter shows the desired correlations between all pairs of dimensions; in other words, it provides the desired correlation matrix for the three ultimately-generated random variables. We note this matrix contains 1s along the main diagonal and is positive-semidefinite.
+
+Let's see the function's output:
+
+```{r,tidy=TRUE}
+head(voterpos)
+```
+
+Each voter receives scores on all dimensions, and their scores are, visually, relatively correlated. Left voters are somewhat left on all dimensions, moderates are pretty uniformly moderate, and right voters are typically right-leaning on the whole. This is because we set relatively high correlations between all pairs of policy dimensions, and setting lower values could add more variety in views within each generated voter. Whether this is preferable depends on context (i.e. country, year, which dimensions are being compared, etc.)
+
+While we are here, we can see the ultimate correlation matrix for our generated random variables and compare to the desired correlations:
+
+```{r,tidy=TRUE}
+cor(voterpos)
+```
+
+We desired correlations between dimensions 1 and 2 to be 0.6, between 1 and 3 to be 0.5, and between 2 and 3 to be 0.8. We are ultimately quite close.
+
+Finally, we can also view the policy distributions:
+
+```{r,tidy=TRUE}
+par(mfrow=c(1,3))
+hist(voterpos[,1])
+hist(voterpos[,2])
+hist(voterpos[,3])
+```
+
+Each looks quite normal, as expected.
+
+### sim_vote
+
+Here, we somewhat bridge the gap between the party-oriented workflow and the voter simulation exercise just covered. The sim_vote function takes in the simulated voters, along with a party policies matrix following the format that the coordinate_distances function would require, and probabilistically generates votes for the parties of interest based on the voters' simulated views. Votes are generated by first calculating, for each voter, the distances between her views on all dimensions and every party's platform on those same dimensions. Once distances are calculated, the reciprocal of those distances are taken (so large distances become smaller fractions), and each fraction is standardized so that their sum is 1. We then treat these fractions as probabilities for which each party will be chosen by the voter and randomly generate their vote using the multinomial distribution. Now that the basic idea for the function has been covered, we provide a quick example:
+
+```{r,tidy=TRUE}
+finalvotes<-sim_vote(matrix=voterpos,loss="absolute",partypos=policies)
+summary(as.factor(finalvotes))
+```
+
+As shown, this function is relatively simple to use, especially if all other steps of this vignette have been done. The matrix parameter requires the output from the previous function, and the partypos parameter requires the original party positions matrix from early in the vignette. The only new concept here is the loss parameter. Currently, this parameter can take one of two arguments, "absolute" or "squared." This parameter directly relates to how the distances between the voters and party platforms are found; we either simply add up all individual dimensions' distances ("absolute") or square the distances ("squared"). The default is "absolute," which is more interpretable and more directly related to the rest of the workflows here. However, including the squared distances allows for a way to add more uncertainty to voters who are far away from all parties. Such a voter may see all parties as "the same" despite being notably closer to one than the others due to their relative far distance from all, and this voter may decide more or less by a coin flip. Squaring the distances more closely mimics this phenomenon.
+
+To illustrate this idea further, let's look again at the summary function for the German parties' territories on the three dimensions:
+
+```{r,tidy=TRUE}
+summary(german)$territory_totals/sum(summary(german)$territory_totals)
+summary(as.factor(finalvotes))/sum(summary(as.factor(finalvotes)))
+
+#compare to squared distances
+finalvotes2<-sim_vote(matrix=voterpos,loss="squared",partypos=policies)
+summary(as.factor(finalvotes2))/sum(summary(as.factor(finalvotes2)))
+```
+
+Party 5 has the largest theoretical territory, consisting of about 30% of the whole plot. In addition, its average and maximum distances to voters is the smallest too, implying a relatively well-situated and compact set of possible voters. Indeed, when we probabilistically generate votes, Party 5 comes out on top regardless of our choice in distance calculation. However, it does much better using the squared distances, where more extreme voters penalize far parties more heavily. For absolute loss, Party 5 receives 33% of the vote, still larger than its theoretical share. For squared loss, the party receives 44% of the vote. Again, this all is based off of assumptions on the distributions of voters on the dimensions of interest (assumptions which are almost surely wrong), but the process illustrates the relative advantages of both loss functions. While absolute loss is more interpretable and directly comparable to the workflows plotting and summarizing parties' theoretical territories, squared loss is likely more realistic in a world where extreme voters are not guaranteed to vote for the closest party.
+
+## Conclusions
+
+We see that the workflow for this package follows a familiar pattern for R, where an object is made that can then be used for plotting and summarizing purposes. This is the case, for example, when doing linear regression using the lm function. In our case, once a PartyMatrix object is made, the rest of the workflow is simple. By leveraging the plot and summary generic functions, the package gives the user fewer functions to remember and more control over the look of their graphs. This gives the user a tool to analyze multidimensional party policymaking using the preferable L1 norm. The package also comes with some basic voter simulation tools, which provide some context to the information learned in the party-focused workflow.
+
+## Future Functionality
+
+Future versions of this package will see a number of improvements. First and foremost, voters' preferences on discrete dimensions are currently independently generated. In the future, users will be able to specify correlations between voters' different policy views. Furthermore, graphical representations of party territories are currently a bit of an eyesore. Improvements could be made here. I would also like to incorporate Euclidean metric calculations and visualizations, though the main objective of this package is of course to offer users a L1 norm tool, so this is a lower priority goal. Finally, I will add the option of user specified weights to the dimensions in order to compare, for example, a world where social issues are more heavily considered than fiscal issues to a world where the opposite is true.
+
+While graphs look better in this iteration of the package than its first, there are a number of improvements that need to be made. The user should have more control over the look of the plots in order to more closely mimic the flexibility of base R plotting. For example, the user should be able to provide better axis labels. The color that signifies a tie in the plots is black by default, though the user should be allowed to specify a different color in the event that black is a party's color. The user should also have control over the look of the dots signifying the parties' platforms, main titles for the graphs, etc. In addition to all of these improvements to the party positions plots, I would also like to add graphical tools to analyze voter distributions as created by the voter simulation functions.
+
+Finally, I would like to add some tools to analyze theoretical voter turnout, which would likely be built into the sim_vote function. I anticipate that more extreme voters are less likely to vote via, essentially, a coin flip and instead may altogether abstain. Other voters may also abstain at some rate, so building in the possibility of no vote would be helpful.
+
+## References
+
+Benoit, K and Michael Laver. (2005). Party Policy in Modern Democracies. London: Routledge.
+
+Caughey, D., O’grady, T., & Warshaw, C. (2019). Policy Ideology in European Mass Publics, 1981–2016. American Political Science Review, 113(3), 674–693. https://doi.org/10.1017/S0003055419000157
+
+Ennser, L. (2012). The homogeneity of West European party families: The radical right in comparative perspective. Party Politics, 18(2), 151–171. https://doi.org/10.1177/1354068810382936
+
+

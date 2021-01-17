@@ -1,0 +1,4409 @@
+Country,Party,Dimension,Mean
+AL,PAD,Taxes v. Spending,12.75
+AL,PAD,Social,4.666666508
+AL,PAD,Privatization,12
+AL,PAD,EU joining,17.75
+AL,PAD,Environment,12.75
+AL,PAD,Former Communists,5.5
+AL,PAD,Foreign Land Ownership,7.75
+AL,PAD,Media Freedom,7.5
+AL,PAD,Nationalism,7.25
+AL,PAD,Religion,15.5
+AL,PAD,Urban-Rural,4.666666508
+AL,PAD,Decentralization,5
+AL,PAD,Left-Right,13
+AL,PAD,Sympathy,12
+AL,PBDNJ,Taxes v. Spending,8.466666222
+AL,PBDNJ,Social,10.60000038
+AL,PBDNJ,Privatization,10.27272701
+AL,PBDNJ,EU joining,17.7142849
+AL,PBDNJ,Environment,11.64285755
+AL,PBDNJ,Former Communists,7.571428776
+AL,PBDNJ,Foreign Land Ownership,6
+AL,PBDNJ,Media Freedom,7
+AL,PBDNJ,Nationalism,4.714285851
+AL,PBDNJ,Religion,12.76923084
+AL,PBDNJ,Urban-Rural,10.54545498
+AL,PBDNJ,Decentralization,5.666666508
+AL,PBDNJ,Left-Right,7.916666508
+AL,PBDNJ,Sympathy,15.60000038
+AL,PD,Taxes v. Spending,12
+AL,PD,Social,11.53846169
+AL,PD,Privatization,15.0666666
+AL,PD,EU joining,18.25
+AL,PD,Environment,13.60000038
+AL,PD,Former Communists,15
+AL,PD,Foreign Land Ownership,9.142857552
+AL,PD,Media Freedom,8.285714149
+AL,PD,Nationalism,11.60000038
+AL,PD,Religion,16.7857151
+AL,PD,Urban-Rural,8
+AL,PD,Decentralization,7.875
+AL,PD,Left-Right,13.26666641
+AL,PD,Sympathy,8.899999619
+AL,PDr,Taxes v. Spending,12.5714283
+AL,PDr,Social,10.27272701
+AL,PDr,Privatization,13.81818199
+AL,PDr,EU joining,18.53846169
+AL,PDr,Environment,13.07692337
+AL,PDr,Former Communists,11.78571415
+AL,PDr,Foreign Land Ownership,8.666666985
+AL,PDr,Media Freedom,7.615384579
+AL,PDr,Nationalism,9.142857552
+AL,PDr,Religion,18.07692337
+AL,PDr,Urban-Rural,7.363636494
+AL,PDr,Decentralization,8
+AL,PDr,Left-Right,12.53846169
+AL,PDr,Sympathy,10
+AL,PLL,Taxes v. Spending,16
+AL,PLL,Social,14
+AL,PLL,Privatization,17.5
+AL,PLL,EU joining,18
+AL,PLL,Environment,11
+AL,PLL,Former Communists,19
+AL,PLL,Foreign Land Ownership,12
+AL,PLL,Media Freedom,13.5
+AL,PLL,Nationalism,19
+AL,PLL,Religion,12.66666698
+AL,PLL,Urban-Rural,7
+AL,PLL,Decentralization,9
+AL,PLL,Left-Right,17.66666603
+AL,PLL,Sympathy,12
+AL,PR,Taxes v. Spending,12.86666679
+AL,PR,Social,14.25
+AL,PR,Privatization,15.84615421
+AL,PR,EU joining,17.53333282
+AL,PR,Environment,13.53846169
+AL,PR,Former Communists,17
+AL,PR,Foreign Land Ownership,13.08333302
+AL,PR,Media Freedom,9.899999619
+AL,PR,Nationalism,14.9333334
+AL,PR,Religion,15.53846169
+AL,PR,Urban-Rural,10
+AL,PR,Decentralization,9.5
+AL,PR,Left-Right,15
+AL,PR,Sympathy,10.10000038
+AL,PS,Taxes v. Spending,5.9375
+AL,PS,Social,10.30769253
+AL,PS,Privatization,11.33333302
+AL,PS,EU joining,18.13333321
+AL,PS,Environment,13.19999981
+AL,PS,Former Communists,3.9375
+AL,PS,Foreign Land Ownership,9
+AL,PS,Media Freedom,10.64285755
+AL,PS,Nationalism,5.25
+AL,PS,Religion,19
+AL,PS,Urban-Rural,12.46153831
+AL,PS,Decentralization,9.0625
+AL,PS,Left-Right,7.533333302
+AL,PS,Sympathy,14.36363602
+AL,PSD,Taxes v. Spending,6.785714149
+AL,PSD,Social,9.25
+AL,PSD,Privatization,10.08333302
+AL,PSD,EU joining,18.61538506
+AL,PSD,Environment,13.15384579
+AL,PSD,Former Communists,4.214285851
+AL,PSD,Foreign Land Ownership,8.399999619
+AL,PSD,Media Freedom,8.5
+AL,PSD,Nationalism,6.461538315
+AL,PSD,Religion,18.25
+AL,PSD,Urban-Rural,9.777777672
+AL,PSD,Decentralization,7.923077106
+AL,PSD,Left-Right,5.923077106
+AL,PSD,Sympathy,15.18181801
+BY,APB,Taxes v. Spending,8.25
+BY,APB,Privatization,10.5
+BY,APB,EU joining,12.25
+BY,APB,Environment,14
+BY,APB,Former Communists,2.75
+BY,APB,Foreign Land Ownership,13.5
+BY,APB,Media Freedom,10.75
+BY,APB,Nationalism,8
+BY,APB,Religion,11.75
+BY,APB,Urban-Rural,14.66666698
+BY,APB,Decentralization,7.25
+BY,APB,Left-Right,11
+BY,APB,Privacy,9.666666985
+BY,APB,Sympathy,12.75
+BY,BPF,Taxes v. Spending,13.39999962
+BY,BPF,Privatization,14.30000019
+BY,BPF,EU joining,18.89999962
+BY,BPF,Environment,8.300000191
+BY,BPF,Former Communists,14.19999981
+BY,BPF,Foreign Land Ownership,7.699999809
+BY,BPF,Media Freedom,4.400000095
+BY,BPF,Nationalism,18.89999962
+BY,BPF,Religion,9.399999619
+BY,BPF,Urban-Rural,7.571428776
+BY,BPF,Decentralization,6.599999905
+BY,BPF,Left-Right,15.55555534
+BY,BPF,Privacy,10.44444466
+BY,BPF,Sympathy,8.222222328
+BY,BSDH,Taxes v. Spending,13.25
+BY,BSDH,Privatization,12.75
+BY,BSDH,EU joining,18
+BY,BSDH,Environment,7
+BY,BSDH,Former Communists,11.75
+BY,BSDH,Foreign Land Ownership,9.5
+BY,BSDH,Media Freedom,4.75
+BY,BSDH,Nationalism,17.75
+BY,BSDH,Religion,11.39999962
+BY,BSDH,Urban-Rural,7.5
+BY,BSDH,Decentralization,9
+BY,BSDH,Left-Right,11.75
+BY,BSDH,Privacy,11
+BY,BSDH,Sympathy,8.666666985
+BY,BSDP-NH,Taxes v. Spending,10.11111069
+BY,BSDP-NH,Privatization,10.55555534
+BY,BSDP-NH,EU joining,16.55555534
+BY,BSDP-NH,Environment,7.888888836
+BY,BSDP-NH,Former Communists,6.111111164
+BY,BSDP-NH,Foreign Land Ownership,11.11111069
+BY,BSDP-NH,Media Freedom,6.555555344
+BY,BSDP-NH,Nationalism,12.11111069
+BY,BSDP-NH,Religion,14.55555534
+BY,BSDP-NH,Urban-Rural,8.833333015
+BY,BSDP-NH,Decentralization,10.11111069
+BY,BSDP-NH,Left-Right,8.125
+BY,BSDP-NH,Privacy,8.625
+BY,BSDP-NH,Sympathy,10.5
+BY,CCP-BPF,Taxes v. Spending,11.39999962
+BY,CCP-BPF,Privatization,11.80000019
+BY,CCP-BPF,EU joining,12.88888931
+BY,CCP-BPF,Environment,5.444444656
+BY,CCP-BPF,Former Communists,17.60000038
+BY,CCP-BPF,Foreign Land Ownership,11.19999981
+BY,CCP-BPF,Media Freedom,10.69999981
+BY,CCP-BPF,Nationalism,19.60000038
+BY,CCP-BPF,Religion,3.099999905
+BY,CCP-BPF,Urban-Rural,9.428571701
+BY,CCP-BPF,Decentralization,9.600000381
+BY,CCP-BPF,Left-Right,14.66666698
+BY,CCP-BPF,Privacy,14.55555534
+BY,CCP-BPF,Sympathy,11
+BY,KPB,Taxes v. Spending,2.599999905
+BY,KPB,Privatization,1.777777791
+BY,KPB,EU joining,2.666666746
+BY,KPB,Environment,16.88888931
+BY,KPB,Former Communists,1.222222209
+BY,KPB,Foreign Land Ownership,19.44444466
+BY,KPB,Media Freedom,18
+BY,KPB,Nationalism,2.222222328
+BY,KPB,Religion,19
+BY,KPB,Urban-Rural,13.5714283
+BY,KPB,Decentralization,16
+BY,KPB,Left-Right,1.888888836
+BY,KPB,Privacy,16.375
+BY,KPB,Sympathy,15.44444466
+BY,LDPB,Taxes v. Spending,13.25
+BY,LDPB,Privatization,12.625
+BY,LDPB,EU joining,9.25
+BY,LDPB,Environment,14.5
+BY,LDPB,Former Communists,6.125
+BY,LDPB,Foreign Land Ownership,7.625
+BY,LDPB,Media Freedom,5.5
+BY,LDPB,Nationalism,4.875
+BY,LDPB,Religion,13.875
+BY,LDPB,Urban-Rural,7.5
+BY,LDPB,Decentralization,10.5
+BY,LDPB,Left-Right,13.25
+BY,LDPB,Privacy,10
+BY,LDPB,Sympathy,17.5714283
+BY,LP,Taxes v. Spending,3
+BY,LP,Privatization,3
+BY,LP,EU joining,10
+BY,LP,Environment,15
+BY,LP,Former Communists,1
+BY,LP,Foreign Land Ownership,20
+BY,LP,Media Freedom,16
+BY,LP,Nationalism,3
+BY,LP,Religion,20
+BY,LP,Urban-Rural,7
+BY,LP,Decentralization,15
+BY,LP,Left-Right,3
+BY,LP,Privacy,11
+BY,LP,Sympathy,17
+BY,PKB,Taxes v. Spending,4.900000095
+BY,PKB,Privatization,5.300000191
+BY,PKB,EU joining,7.300000191
+BY,PKB,Environment,12.30000019
+BY,PKB,Former Communists,1.299999952
+BY,PKB,Foreign Land Ownership,17.10000038
+BY,PKB,Media Freedom,12
+BY,PKB,Nationalism,5.099999905
+BY,PKB,Religion,18.60000038
+BY,PKB,Urban-Rural,12.28571415
+BY,PKB,Decentralization,11.69999981
+BY,PKB,Left-Right,5.444444656
+BY,PKB,Privacy,12.77777767
+BY,PKB,Sympathy,12.375
+BY,UCP,Taxes v. Spending,17.66666603
+BY,UCP,Privatization,18.11111069
+BY,UCP,EU joining,17.11111069
+BY,UCP,Environment,12.44444466
+BY,UCP,Former Communists,7.444444656
+BY,UCP,Foreign Land Ownership,3.111111164
+BY,UCP,Media Freedom,1.777777791
+BY,UCP,Nationalism,7.777777672
+BY,UCP,Religion,15.44444466
+BY,UCP,Urban-Rural,3.285714388
+BY,UCP,Decentralization,3
+BY,UCP,Left-Right,17.11111069
+BY,UCP,Privacy,5.875
+BY,UCP,Sympathy,8.625
+BY,WP,Taxes v. Spending,8.5
+BY,WP,Privatization,9.5
+BY,WP,EU joining,19
+BY,WP,Environment,7
+BY,WP,Former Communists,4.5
+BY,WP,Foreign Land Ownership,9
+BY,WP,Media Freedom,6
+BY,WP,Nationalism,9.5
+BY,WP,Religion,11
+BY,WP,Urban-Rural,6.5
+BY,WP,Decentralization,10.5
+BY,WP,Left-Right,8.5
+BY,WP,Privacy,13
+BY,WP,Sympathy,13
+BA,HDZ,Taxes v. Spending,14.5
+BA,HDZ,Social,19
+BA,HDZ,Privatization,17.5
+BA,HDZ,EU joining,16
+BA,HDZ,Environment,16.5
+BA,HDZ,Former Communists,16.5
+BA,HDZ,Foreign Land Ownership,5
+BA,HDZ,Media Freedom,16.5
+BA,HDZ,Nationalism,20
+BA,HDZ,Religion,2
+BA,HDZ,Urban-Rural,15
+BA,HDZ,Decentralization,8
+BA,HDZ,Left-Right,18.5
+BA,HDZ,Sympathy,20
+BA,PDP,Taxes v. Spending,13.5
+BA,PDP,Social,14.5
+BA,PDP,Privatization,16
+BA,PDP,EU joining,17.5
+BA,PDP,Environment,13.5
+BA,PDP,Former Communists,5.5
+BA,PDP,Foreign Land Ownership,7
+BA,PDP,Media Freedom,8.5
+BA,PDP,Nationalism,13
+BA,PDP,Religion,16.5
+BA,PDP,Urban-Rural,8.5
+BA,PDP,Decentralization,9
+BA,PDP,Left-Right,12.5
+BA,PDP,Sympathy,15
+BA,SBiH,Taxes v. Spending,9
+BA,SBiH,Social,15
+BA,SBiH,Privatization,13.5
+BA,SBiH,EU joining,16
+BA,SBiH,Environment,14.5
+BA,SBiH,Former Communists,12
+BA,SBiH,Foreign Land Ownership,7
+BA,SBiH,Media Freedom,15
+BA,SBiH,Nationalism,15
+BA,SBiH,Religion,11
+BA,SBiH,Urban-Rural,11
+BA,SBiH,Decentralization,13
+BA,SBiH,Left-Right,13
+BA,SBiH,Sympathy,16.5
+BA,SDA,Taxes v. Spending,14
+BA,SDA,Social,18
+BA,SDA,Privatization,14.5
+BA,SDA,EU joining,15
+BA,SDA,Environment,16
+BA,SDA,Former Communists,16
+BA,SDA,Foreign Land Ownership,6
+BA,SDA,Media Freedom,16.5
+BA,SDA,Nationalism,19
+BA,SDA,Religion,7
+BA,SDA,Urban-Rural,16.5
+BA,SDA,Decentralization,17
+BA,SDA,Left-Right,17
+BA,SDA,Sympathy,18.5
+BA,SDP,Taxes v. Spending,9.5
+BA,SDP,Social,9
+BA,SDP,Privatization,10
+BA,SDP,EU joining,20
+BA,SDP,Environment,9
+BA,SDP,Former Communists,2
+BA,SDP,Foreign Land Ownership,10.5
+BA,SDP,Media Freedom,4.5
+BA,SDP,Nationalism,5
+BA,SDP,Religion,19.5
+BA,SDP,Urban-Rural,4
+BA,SDP,Decentralization,2
+BA,SDP,Left-Right,5.5
+BA,SDP,Sympathy,4.5
+BA,SDS,Taxes v. Spending,11
+BA,SDS,Social,18.5
+BA,SDS,Privatization,15
+BA,SDS,EU joining,14
+BA,SDS,Environment,15.5
+BA,SDS,Former Communists,11.5
+BA,SDS,Foreign Land Ownership,9.5
+BA,SDS,Media Freedom,15
+BA,SDS,Nationalism,20
+BA,SDS,Religion,2
+BA,SDS,Urban-Rural,18
+BA,SDS,Decentralization,8
+BA,SDS,Left-Right,18
+BA,SDS,Sympathy,19
+BA,SNSD,Taxes v. Spending,13
+BA,SNSD,Social,13.5
+BA,SNSD,Privatization,14
+BA,SNSD,EU joining,18.5
+BA,SNSD,Environment,12.5
+BA,SNSD,Former Communists,6.5
+BA,SNSD,Foreign Land Ownership,9.5
+BA,SNSD,Media Freedom,7.5
+BA,SNSD,Nationalism,13
+BA,SNSD,Religion,14.5
+BA,SNSD,Urban-Rural,9
+BA,SNSD,Decentralization,4
+BA,SNSD,Left-Right,10
+BA,SNSD,Sympathy,10.5
+BA,SPRS,Taxes v. Spending,8.5
+BA,SPRS,Social,14
+BA,SPRS,Privatization,10.5
+BA,SPRS,EU joining,15.5
+BA,SPRS,Environment,12.5
+BA,SPRS,Former Communists,1
+BA,SPRS,Foreign Land Ownership,12
+BA,SPRS,Media Freedom,10.5
+BA,SPRS,Nationalism,16
+BA,SPRS,Religion,14
+BA,SPRS,Urban-Rural,8
+BA,SPRS,Decentralization,5
+BA,SPRS,Left-Right,8
+BA,SPRS,Sympathy,10.5
+BG,BBB,Taxes v. Spending,14.44444466
+BG,BBB,Social,10.875
+BG,BBB,Privatization,14.11111069
+BG,BBB,EU joining,15.60000038
+BG,BBB,Environment,14
+BG,BBB,Former Communists,6.555555344
+BG,BBB,Foreign Land Ownership,13.5
+BG,BBB,Media Freedom,10.22222233
+BG,BBB,Nationalism,13.89999962
+BG,BBB,Religion,15.44444466
+BG,BBB,Urban-Rural,9.555555344
+BG,BBB,Decentralization,8.428571701
+BG,BBB,Left-Right,11.60000038
+BG,BBB,Sympathy,17
+BG,BKP,Taxes v. Spending,4.300000191
+BG,BKP,Social,15.875
+BG,BKP,Privatization,1.799999952
+BG,BKP,EU joining,6.444444656
+BG,BKP,Environment,14.19999981
+BG,BKP,Former Communists,1
+BG,BKP,Foreign Land Ownership,20
+BG,BKP,Media Freedom,17.125
+BG,BKP,Nationalism,16.77777863
+BG,BKP,Religion,17.60000038
+BG,BKP,Urban-Rural,16
+BG,BKP,Decentralization,15.80000019
+BG,BKP,Left-Right,1.555555582
+BG,BKP,Sympathy,18.22222137
+BG,BNDP,Taxes v. Spending,12.89999962
+BG,BNDP,Social,9.625
+BG,BNDP,Privatization,14.60000038
+BG,BNDP,EU joining,18.55555534
+BG,BNDP,Environment,11.69999981
+BG,BNDP,Former Communists,15.30000019
+BG,BNDP,Foreign Land Ownership,7.777777672
+BG,BNDP,Media Freedom,8.600000381
+BG,BNDP,Nationalism,8
+BG,BNDP,Religion,9.199999809
+BG,BNDP,Urban-Rural,4.599999905
+BG,BNDP,Decentralization,9.300000191
+BG,BNDP,Left-Right,14.80000019
+BG,BNDP,Sympathy,11.80000019
+BG,BSDP,Taxes v. Spending,9.800000191
+BG,BSDP,Social,7.5
+BG,BSDP,Privatization,11.60000038
+BG,BSDP,EU joining,18.10000038
+BG,BSDP,Environment,11
+BG,BSDP,Former Communists,4.699999809
+BG,BSDP,Foreign Land Ownership,10
+BG,BSDP,Media Freedom,7.099999905
+BG,BSDP,Nationalism,9.100000381
+BG,BSDP,Religion,14.30000019
+BG,BSDP,Urban-Rural,7.5
+BG,BSDP,Decentralization,7.875
+BG,BSDP,Left-Right,8.600000381
+BG,BSDP,Sympathy,12.69999981
+BG,BSP,Taxes v. Spending,6.545454502
+BG,BSP,Social,9.555555344
+BG,BSP,Privatization,9.100000381
+BG,BSP,EU joining,16.55555534
+BG,BSP,Environment,11.54545498
+BG,BSP,Former Communists,2.272727251
+BG,BSP,Foreign Land Ownership,13.63636398
+BG,BSP,Media Freedom,10.81818199
+BG,BSP,Nationalism,11.909091
+BG,BSP,Religion,16.18181801
+BG,BSP,Urban-Rural,14.45454502
+BG,BSP,Decentralization,10.54545498
+BG,BSP,Left-Right,6.090909004
+BG,BSP,Sympathy,14.36363602
+BG,BZNS,Taxes v. Spending,12
+BG,BZNS,Social,12.28571415
+BG,BZNS,Privatization,13.89999962
+BG,BZNS,EU joining,18
+BG,BZNS,Environment,11.81818199
+BG,BZNS,Former Communists,15.5
+BG,BZNS,Foreign Land Ownership,12.60000038
+BG,BZNS,Media Freedom,9.727272987
+BG,BZNS,Nationalism,10.19999981
+BG,BZNS,Religion,12.19999981
+BG,BZNS,Urban-Rural,14.89999962
+BG,BZNS,Decentralization,10.30000019
+BG,BZNS,Left-Right,12.5
+BG,BZNS,Sympathy,13.69999981
+BG,DPS,Taxes v. Spending,9.909090996
+BG,DPS,Social,11.44444466
+BG,DPS,Privatization,12.19999981
+BG,DPS,EU joining,17.89999962
+BG,DPS,Environment,13.63636398
+BG,DPS,Former Communists,6.454545498
+BG,DPS,Foreign Land Ownership,7.300000191
+BG,DPS,Media Freedom,12.10000038
+BG,DPS,Nationalism,8
+BG,DPS,Religion,15
+BG,DPS,Urban-Rural,16.63636398
+BG,DPS,Decentralization,11.5
+BG,DPS,Left-Right,9.090909004
+BG,DPS,Sympathy,15.60000038
+BG,G,Taxes v. Spending,12.60000038
+BG,G,Social,6.375
+BG,G,Privatization,14.10000038
+BG,G,EU joining,16.79999924
+BG,G,Environment,9.454545021
+BG,G,Former Communists,7.400000095
+BG,G,Foreign Land Ownership,9.699999809
+BG,G,Media Freedom,6.099999905
+BG,G,Nationalism,8.800000191
+BG,G,Religion,13.80000019
+BG,G,Urban-Rural,5.400000095
+BG,G,Decentralization,6.199999809
+BG,G,Left-Right,13
+BG,G,Sympathy,13
+BG,NDST,Taxes v. Spending,11.36363602
+BG,NDST,Social,6.555555344
+BG,NDST,Privatization,15.18181801
+BG,NDST,EU joining,19
+BG,NDST,Environment,14
+BG,NDST,Former Communists,5.090909004
+BG,NDST,Foreign Land Ownership,7.454545498
+BG,NDST,Media Freedom,11.80000019
+BG,NDST,Nationalism,6.599999905
+BG,NDST,Religion,11.45454502
+BG,NDST,Urban-Rural,11.18181801
+BG,NDST,Decentralization,12.11111069
+BG,NDST,Left-Right,11.54545498
+BG,NDST,Sympathy,16.09090996
+BG,ODS,Taxes v. Spending,12.36363602
+BG,ODS,Social,6.888888836
+BG,ODS,Privatization,16.45454597
+BG,ODS,EU joining,19.79999924
+BG,ODS,Environment,12.81818199
+BG,ODS,Former Communists,14.72727299
+BG,ODS,Foreign Land Ownership,6.454545498
+BG,ODS,Media Freedom,9.454545021
+BG,ODS,Nationalism,7.090909004
+BG,ODS,Religion,8.454545021
+BG,ODS,Urban-Rural,4.818181992
+BG,ODS,Decentralization,9.818181992
+BG,ODS,Left-Right,15.72727299
+BG,ODS,Sympathy,10.18181801
+BG,UFD,Social,11
+BG,UFD,Privatization,11
+BG,UFD,EU joining,20
+BG,UFD,Environment,15
+BG,UFD,Former Communists,11
+BG,UFD,Foreign Land Ownership,5
+BG,UFD,Media Freedom,14
+BG,UFD,Nationalism,7
+BG,UFD,Religion,7
+BG,UFD,Urban-Rural,4
+BG,UFD,Decentralization,19
+BG,UFD,Left-Right,14
+BG,UFD,Sympathy,12
+BG,VMRO,Taxes v. Spending,11.19999981
+BG,VMRO,Social,13.5
+BG,VMRO,Privatization,12
+BG,VMRO,EU joining,13.66666698
+BG,VMRO,Environment,12.80000019
+BG,VMRO,Former Communists,10.89999962
+BG,VMRO,Foreign Land Ownership,15.5
+BG,VMRO,Media Freedom,11.55555534
+BG,VMRO,Nationalism,18.60000038
+BG,VMRO,Religion,12.27272701
+BG,VMRO,Urban-Rural,10.89999962
+BG,VMRO,Decentralization,11.375
+BG,VMRO,Left-Right,13.39999962
+BG,VMRO,Sympathy,15.36363602
+HR,DC,Taxes v. Spending,10.19999981
+HR,DC,Social,13.33333302
+HR,DC,Privatization,8.5
+HR,DC,EU joining,15
+HR,DC,Environment,13
+HR,DC,Former Communists,10
+HR,DC,Foreign Land Ownership,10.83333302
+HR,DC,Media Freedom,9.833333015
+HR,DC,Nationalism,12.5
+HR,DC,Religion,5.833333492
+HR,DC,Urban-Rural,9.166666985
+HR,DC,Decentralization,12
+HR,DC,Left-Right,12.33333302
+HR,DC,Sympathy,12.16666698
+HR,HB,Taxes v. Spending,7
+HR,HB,Social,15.60000038
+HR,HB,Privatization,6.400000095
+HR,HB,EU joining,4.5
+HR,HB,Environment,11.19999981
+HR,HB,Former Communists,16
+HR,HB,Foreign Land Ownership,13.19999981
+HR,HB,Media Freedom,11.80000019
+HR,HB,Nationalism,19.16666603
+HR,HB,Religion,3.166666746
+HR,HB,Urban-Rural,15.19999981
+HR,HB,Decentralization,17.60000038
+HR,HB,Left-Right,18.83333397
+HR,HB,Sympathy,18.5
+HR,HDZ,Taxes v. Spending,11.83333302
+HR,HDZ,Social,14.16666698
+HR,HDZ,Privatization,8.833333015
+HR,HDZ,EU joining,14.5
+HR,HDZ,Environment,15.33333302
+HR,HDZ,Former Communists,12.16666698
+HR,HDZ,Foreign Land Ownership,12.16666698
+HR,HDZ,Media Freedom,11
+HR,HDZ,Nationalism,15.66666698
+HR,HDZ,Religion,3.666666746
+HR,HDZ,Urban-Rural,13.16666698
+HR,HDZ,Decentralization,16.33333397
+HR,HDZ,Left-Right,14.5
+HR,HDZ,Sympathy,14.16666698
+HR,HNS,Taxes v. Spending,13.5
+HR,HNS,Social,4.333333492
+HR,HNS,Privatization,15.33333302
+HR,HNS,EU joining,18
+HR,HNS,Environment,14.33333302
+HR,HNS,Former Communists,3.666666746
+HR,HNS,Foreign Land Ownership,7
+HR,HNS,Media Freedom,7.5
+HR,HNS,Nationalism,2.833333254
+HR,HNS,Religion,18.16666603
+HR,HNS,Urban-Rural,4.333333492
+HR,HNS,Decentralization,5.333333492
+HR,HNS,Left-Right,4.5
+HR,HNS,Sympathy,7.666666508
+HR,HSLS,Taxes v. Spending,9.833333015
+HR,HSLS,Social,11.5
+HR,HSLS,Privatization,10.66666698
+HR,HSLS,EU joining,10.66666698
+HR,HSLS,Environment,12
+HR,HSLS,Former Communists,14
+HR,HSLS,Foreign Land Ownership,11.83333302
+HR,HSLS,Media Freedom,8.5
+HR,HSLS,Nationalism,15.66666698
+HR,HSLS,Religion,8.5
+HR,HSLS,Urban-Rural,9
+HR,HSLS,Decentralization,11.5
+HR,HSLS,Left-Right,14.66666698
+HR,HSLS,Sympathy,11.16666698
+HR,HSP,Taxes v. Spending,7.666666508
+HR,HSP,Social,15
+HR,HSP,Privatization,9.666666985
+HR,HSP,EU joining,7.333333492
+HR,HSP,Environment,5.333333492
+HR,HSP,Former Communists,18
+HR,HSP,Foreign Land Ownership,16
+HR,HSP,Media Freedom,10.33333302
+HR,HSP,Nationalism,19
+HR,HSP,Religion,6
+HR,HSP,Urban-Rural,11.33333302
+HR,HSP,Decentralization,15
+HR,HSP,Left-Right,17.66666603
+HR,HSP,Sympathy,15.16666698
+HR,HSS,Taxes v. Spending,9.166666985
+HR,HSS,Social,15.83333302
+HR,HSS,Privatization,7.5
+HR,HSS,EU joining,12.83333302
+HR,HSS,Environment,8.5
+HR,HSS,Former Communists,10.66666698
+HR,HSS,Foreign Land Ownership,13.83333302
+HR,HSS,Media Freedom,10.33333302
+HR,HSS,Nationalism,15.33333302
+HR,HSS,Religion,4.166666508
+HR,HSS,Urban-Rural,18
+HR,HSS,Decentralization,11
+HR,HSS,Left-Right,12.83333302
+HR,HSS,Sympathy,13.33333302
+HR,IDS,Taxes v. Spending,12.83333302
+HR,IDS,Social,5.833333492
+HR,IDS,Privatization,10.33333302
+HR,IDS,EU joining,18.5
+HR,IDS,Environment,9.833333015
+HR,IDS,Former Communists,4.333333492
+HR,IDS,Foreign Land Ownership,9.333333015
+HR,IDS,Media Freedom,7.333333492
+HR,IDS,Nationalism,2.333333254
+HR,IDS,Religion,16.5
+HR,IDS,Urban-Rural,8.5
+HR,IDS,Decentralization,1.166666627
+HR,IDS,Left-Right,7.5
+HR,IDS,Sympathy,10
+HR,LIBRA,Taxes v. Spending,13.83333302
+HR,LIBRA,Social,7.166666508
+HR,LIBRA,Privatization,13.5
+HR,LIBRA,EU joining,17.5
+HR,LIBRA,Environment,8.199999809
+HR,LIBRA,Former Communists,4.800000191
+HR,LIBRA,Foreign Land Ownership,7.666666508
+HR,LIBRA,Media Freedom,6.5
+HR,LIBRA,Nationalism,6.166666508
+HR,LIBRA,Religion,15.16666698
+HR,LIBRA,Urban-Rural,6
+HR,LIBRA,Decentralization,5.400000095
+HR,LIBRA,Left-Right,8.166666985
+HR,LIBRA,Sympathy,8.5
+HR,LS,Taxes v. Spending,13.5
+HR,LS,Social,3.666666746
+HR,LS,Privatization,14
+HR,LS,EU joining,17.33333397
+HR,LS,Environment,3.833333254
+HR,LS,Former Communists,4.833333492
+HR,LS,Foreign Land Ownership,7.833333492
+HR,LS,Media Freedom,6
+HR,LS,Nationalism,3.666666746
+HR,LS,Religion,16.83333397
+HR,LS,Urban-Rural,4.166666508
+HR,LS,Decentralization,4.5
+HR,LS,Left-Right,6.333333492
+HR,LS,Sympathy,8.666666985
+HR,SDP,Taxes v. Spending,11.5
+HR,SDP,Social,5.5
+HR,SDP,Privatization,12.66666698
+HR,SDP,EU joining,17.66666603
+HR,SDP,Environment,12
+HR,SDP,Former Communists,2.333333254
+HR,SDP,Foreign Land Ownership,7.833333492
+HR,SDP,Media Freedom,7.833333492
+HR,SDP,Nationalism,6.333333492
+HR,SDP,Religion,16.83333397
+HR,SDP,Urban-Rural,5.166666508
+HR,SDP,Decentralization,6.666666508
+HR,SDP,Left-Right,7.166666508
+HR,SDP,Sympathy,4
+CZ,CSSD,Taxes v. Spending,6.166666508
+CZ,CSSD,Social,7.058823586
+CZ,CSSD,Privatization,8.666666985
+CZ,CSSD,EU joining,17.13888931
+CZ,CSSD,Environment,10.22857189
+CZ,CSSD,Former Communists,7.361111164
+CZ,CSSD,Foreign Land Ownership,13.02777767
+CZ,CSSD,Media Freedom,11.13888931
+CZ,CSSD,Nationalism,10.45714283
+CZ,CSSD,Religion,15.72222233
+CZ,CSSD,Urban-Rural,9.45714283
+CZ,CSSD,Decentralization,8.833333015
+CZ,CSSD,Left-Right,7.444444656
+CZ,CSSD,Sympathy,9.285714149
+CZ,KDU,Taxes v. Spending,9.75
+CZ,KDU,Social,18.11111069
+CZ,KDU,Privatization,12.69444466
+CZ,KDU,EU joining,16.91666603
+CZ,KDU,Environment,10.25714302
+CZ,KDU,Former Communists,14.47058868
+CZ,KDU,Foreign Land Ownership,9.857142448
+CZ,KDU,Media Freedom,11.48571396
+CZ,KDU,Nationalism,9.800000191
+CZ,KDU,Religion,3.111111164
+CZ,KDU,Urban-Rural,15.05714321
+CZ,KDU,Decentralization,8.942856789
+CZ,KDU,Left-Right,11.13888931
+CZ,KDU,Sympathy,12.68571472
+CZ,KSCM,Taxes v. Spending,4.444444656
+CZ,KSCM,Social,8.199999809
+CZ,KSCM,Privatization,4.028571606
+CZ,KSCM,EU joining,4.857142925
+CZ,KSCM,Environment,11.52941132
+CZ,KSCM,Former Communists,1.638888836
+CZ,KSCM,Foreign Land Ownership,18.2857151
+CZ,KSCM,Media Freedom,14.88888931
+CZ,KSCM,Nationalism,16.61111069
+CZ,KSCM,Religion,18
+CZ,KSCM,Urban-Rural,11.909091
+CZ,KSCM,Decentralization,12.86111069
+CZ,KSCM,Left-Right,2.638888836
+CZ,KSCM,Sympathy,15.17142868
+CZ,MDS,Taxes v. Spending,16
+CZ,MDS,Social,18
+CZ,MDS,Privatization,15
+CZ,MDS,EU joining,15
+CZ,MDS,Environment,11
+CZ,MDS,Former Communists,12
+CZ,MDS,Foreign Land Ownership,11
+CZ,MDS,Media Freedom,10
+CZ,MDS,Nationalism,17
+CZ,MDS,Religion,13
+CZ,MDS,Urban-Rural,11
+CZ,MDS,Decentralization,4
+CZ,MDS,Left-Right,12
+CZ,MDS,Sympathy,5
+CZ,NKL,Taxes v. Spending,6
+CZ,NKL,Social,20
+CZ,NKL,Privatization,6
+CZ,NKL,EU joining,1
+CZ,NKL,Environment,5
+CZ,NKL,Former Communists,20
+CZ,NKL,Foreign Land Ownership,20
+CZ,NKL,Media Freedom,17
+CZ,NKL,Nationalism,20
+CZ,NKL,Religion,8
+CZ,NKL,Urban-Rural,10
+CZ,NKL,Decentralization,18
+CZ,NKL,Left-Right,20
+CZ,NKL,Sympathy,1
+CZ,ODS,Taxes v. Spending,16.30555534
+CZ,ODS,Social,9.333333015
+CZ,ODS,Privatization,17.52777863
+CZ,ODS,EU joining,11.61111069
+CZ,ODS,Environment,15.86111069
+CZ,ODS,Former Communists,14.22222233
+CZ,ODS,Foreign Land Ownership,11.25714302
+CZ,ODS,Media Freedom,9.685714722
+CZ,ODS,Nationalism,15.27777767
+CZ,ODS,Religion,13.91666698
+CZ,ODS,Urban-Rural,6.027777672
+CZ,ODS,Decentralization,11.66666698
+CZ,ODS,Left-Right,15.5
+CZ,ODS,Sympathy,10.02857113
+CZ,RMS,Taxes v. Spending,11.52000046
+CZ,RMS,Social,15.92000008
+CZ,RMS,Privatization,9.319999695
+CZ,RMS,EU joining,4.400000095
+CZ,RMS,Environment,13.33333302
+CZ,RMS,Former Communists,16.47999954
+CZ,RMS,Foreign Land Ownership,18.60000038
+CZ,RMS,Media Freedom,13.347826
+CZ,RMS,Nationalism,19.19230843
+CZ,RMS,Religion,15.27999973
+CZ,RMS,Urban-Rural,9.708333015
+CZ,RMS,Decentralization,12.75
+CZ,RMS,Left-Right,15.33333302
+CZ,RMS,Sympathy,17.42307663
+CZ,SNK,Taxes v. Spending,12.375
+CZ,SNK,Social,8.960000038
+CZ,SNK,Privatization,13.5
+CZ,SNK,EU joining,15.375
+CZ,SNK,Environment,10.70833302
+CZ,SNK,Former Communists,11.20833302
+CZ,SNK,Foreign Land Ownership,9.434782982
+CZ,SNK,Media Freedom,7.75
+CZ,SNK,Nationalism,9.958333015
+CZ,SNK,Religion,12.30434799
+CZ,SNK,Urban-Rural,11.39999962
+CZ,SNK,Decentralization,3.5
+CZ,SNK,Left-Right,11.47999954
+CZ,SNK,Sympathy,11.5
+CZ,SZ,Taxes v. Spending,5.965517044
+CZ,SZ,Social,4.266666889
+CZ,SZ,Privatization,7.428571224
+CZ,SZ,EU joining,14.20689678
+CZ,SZ,Environment,4.096774101
+CZ,SZ,Former Communists,9.857142448
+CZ,SZ,Foreign Land Ownership,11.24137974
+CZ,SZ,Media Freedom,6.115384579
+CZ,SZ,Nationalism,6.13793087
+CZ,SZ,Religion,15.1785717
+CZ,SZ,Urban-Rural,9.5
+CZ,SZ,Decentralization,6.392857075
+CZ,SZ,Left-Right,7.433333397
+CZ,SZ,Sympathy,11.27586174
+CZ,SZJ,Taxes v. Spending,7
+CZ,SZJ,Social,7
+CZ,SZJ,Privatization,7
+CZ,SZJ,Environment,16
+CZ,SZJ,Former Communists,2
+CZ,SZJ,Foreign Land Ownership,12
+CZ,SZJ,Media Freedom,4
+CZ,SZJ,Nationalism,18
+CZ,SZJ,Religion,14
+CZ,SZJ,Urban-Rural,5
+CZ,SZJ,Decentralization,15
+CZ,SZJ,Left-Right,7
+CZ,SZJ,Sympathy,10
+CZ,US,Taxes v. Spending,15.32352924
+CZ,US,Social,5.138888836
+CZ,US,Privatization,17.19444466
+CZ,US,EU joining,18.38888931
+CZ,US,Environment,12.72727299
+CZ,US,Former Communists,16.66666603
+CZ,US,Foreign Land Ownership,6.166666508
+CZ,US,Media Freedom,4.833333492
+CZ,US,Nationalism,5.599999905
+CZ,US,Religion,12.19999981
+CZ,US,Urban-Rural,5.714285851
+CZ,US,Decentralization,7.057142735
+CZ,US,Left-Right,15.55555534
+CZ,US,Sympathy,13.22857189
+EE,EKRP,Taxes v. Spending,10
+EE,EKRP,Social,19.60000038
+EE,EKRP,Privatization,6
+EE,EKRP,EU joining,3
+EE,EKRP,Environment,8.666666985
+EE,EKRP,Former Communists,14.5
+EE,EKRP,Foreign Land Ownership,18
+EE,EKRP,Media Freedom,14.66666698
+EE,EKRP,Nationalism,16.66666603
+EE,EKRP,Religion,2.200000048
+EE,EKRP,Urban-Rural,10
+EE,EKRP,Decentralization,13
+EE,EKRP,Left-Right,15.39999962
+EE,EKRP,Sympathy,16.7142849
+EE,ESDTP,Taxes v. Spending,5.833333492
+EE,ESDTP,Social,13.33333302
+EE,ESDTP,Privatization,4.75
+EE,ESDTP,EU joining,4
+EE,ESDTP,Environment,10.5
+EE,ESDTP,Former Communists,2.142857075
+EE,ESDTP,Foreign Land Ownership,16.25
+EE,ESDTP,Media Freedom,14.5
+EE,ESDTP,Nationalism,9.166666985
+EE,ESDTP,Religion,17
+EE,ESDTP,Urban-Rural,8.333333015
+EE,ESDTP,Decentralization,11
+EE,ESDTP,Left-Right,4
+EE,ESDTP,Sympathy,13.71428585
+EE,EURP,Taxes v. Spending,7.75
+EE,EURP,Social,13
+EE,EURP,Privatization,6.5
+EE,EURP,EU joining,12.33333302
+EE,EURP,Environment,10.5
+EE,EURP,Former Communists,3.166666746
+EE,EURP,Foreign Land Ownership,8
+EE,EURP,Media Freedom,14
+EE,EURP,Nationalism,3.333333254
+EE,EURP,Religion,7.5
+EE,EURP,Urban-Rural,4.166666508
+EE,EURP,Decentralization,9.25
+EE,EURP,Left-Right,8.285714149
+EE,EURP,Sympathy,13.83333302
+EE,Isam,Taxes v. Spending,12.83333302
+EE,Isam,Social,14.60000038
+EE,Isam,Privatization,16.20000076
+EE,Isam,EU joining,17
+EE,Isam,Environment,13
+EE,Isam,Former Communists,17.8571434
+EE,Isam,Foreign Land Ownership,7.400000095
+EE,Isam,Media Freedom,7.599999905
+EE,Isam,Nationalism,19.1428566
+EE,Isam,Religion,6.599999905
+EE,Isam,Urban-Rural,8.428571701
+EE,Isam,Decentralization,10.5
+EE,Isam,Left-Right,14.14285755
+EE,Isam,Sympathy,11.4285717
+EE,Kesk,Taxes v. Spending,8
+EE,Kesk,Social,12
+EE,Kesk,Privatization,10.80000019
+EE,Kesk,EU joining,9.5
+EE,Kesk,Environment,12.75
+EE,Kesk,Former Communists,4.428571224
+EE,Kesk,Foreign Land Ownership,11.19999981
+EE,Kesk,Media Freedom,11.80000019
+EE,Kesk,Nationalism,11.85714245
+EE,Kesk,Religion,14.19999981
+EE,Kesk,Urban-Rural,9.714285851
+EE,Kesk,Decentralization,12.83333302
+EE,Kesk,Left-Right,8.857142448
+EE,Kesk,Sympathy,10.4285717
+EE,Mood,Taxes v. Spending,7.333333492
+EE,Mood,Social,6.599999905
+EE,Mood,Privatization,12
+EE,Mood,EU joining,18.60000038
+EE,Mood,Environment,9.75
+EE,Mood,Former Communists,10
+EE,Mood,Foreign Land Ownership,8.5
+EE,Mood,Media Freedom,6.599999905
+EE,Mood,Nationalism,10.71428585
+EE,Mood,Religion,13.19999981
+EE,Mood,Urban-Rural,9.714285851
+EE,Mood,Decentralization,6.833333492
+EE,Mood,Left-Right,9.142857552
+EE,Mood,Sympathy,5.428571224
+EE,RL,Taxes v. Spending,11.83333302
+EE,RL,Social,16
+EE,RL,Privatization,8
+EE,RL,EU joining,14
+EE,RL,Environment,8
+EE,RL,Former Communists,5
+EE,RL,Foreign Land Ownership,16.79999924
+EE,RL,Media Freedom,11.75
+EE,RL,Nationalism,17.5714283
+EE,RL,Religion,9.600000381
+EE,RL,Urban-Rural,19.1428566
+EE,RL,Decentralization,7.5
+EE,RL,Left-Right,10.4285717
+EE,RL,Sympathy,11.66666698
+EE,Ref,Taxes v. Spending,19.33333397
+EE,Ref,Social,10.39999962
+EE,Ref,Privatization,19.39999962
+EE,Ref,EU joining,17.20000076
+EE,Ref,Environment,16
+EE,Ref,Former Communists,7.166666508
+EE,Ref,Foreign Land Ownership,2.200000048
+EE,Ref,Media Freedom,3.400000095
+EE,Ref,Nationalism,9.142857552
+EE,Ref,Religion,12.60000038
+EE,Ref,Urban-Rural,1.714285731
+EE,Ref,Decentralization,12.33333302
+EE,Ref,Left-Right,19.2857151
+EE,Ref,Sympathy,16.8571434
+EE,ResP,Taxes v. Spending,16.66666603
+EE,ResP,Social,12.60000038
+EE,ResP,Privatization,16.39999962
+EE,ResP,EU joining,18.60000038
+EE,ResP,Environment,14.5
+EE,ResP,Former Communists,11
+EE,ResP,Foreign Land Ownership,4.5
+EE,ResP,Media Freedom,5.800000191
+EE,ResP,Nationalism,12.14285755
+EE,ResP,Religion,8.399999619
+EE,ResP,Urban-Rural,5.142857075
+EE,ResP,Decentralization,13.16666698
+EE,ResP,Left-Right,17.1428566
+EE,ResP,Sympathy,13.85714245
+HU,CENTRUM,Taxes v. Spending,11.19999981
+HU,CENTRUM,Social,9.833333015
+HU,CENTRUM,Privatization,11.42307663
+HU,CENTRUM,EU joining,15.79166698
+HU,CENTRUM,Environment,8.807692528
+HU,CENTRUM,Former Communists,9.279999733
+HU,CENTRUM,Foreign Land Ownership,8.600000381
+HU,CENTRUM,Media Freedom,7.559999943
+HU,CENTRUM,Nationalism,10.43999958
+HU,CENTRUM,Religion,11.590909
+HU,CENTRUM,Urban-Rural,9.5
+HU,CENTRUM,Decentralization,8.25
+HU,CENTRUM,Left-Right,9.814814568
+HU,CENTRUM,Sympathy,10.53846169
+HU,FIDESZ,Taxes v. Spending,9.292682648
+HU,FIDESZ,Social,15.1219511
+HU,FIDESZ,Privatization,9.073170662
+HU,FIDESZ,EU joining,12.92500019
+HU,FIDESZ,Environment,10.42105293
+HU,FIDESZ,Former Communists,15.04761887
+HU,FIDESZ,Foreign Land Ownership,15.80952358
+HU,FIDESZ,Media Freedom,11.39024353
+HU,FIDESZ,Nationalism,16.16666603
+HU,FIDESZ,Religion,5.550000191
+HU,FIDESZ,Urban-Rural,13.30000019
+HU,FIDESZ,Decentralization,12.60526276
+HU,FIDESZ,Left-Right,15.09523773
+HU,FIDESZ,Sympathy,11.97297287
+HU,FKGP,Taxes v. Spending,9.958333015
+HU,FKGP,Social,17.38461494
+HU,FKGP,Privatization,10.65384579
+HU,FKGP,EU joining,8.039999962
+HU,FKGP,Environment,10.13636398
+HU,FKGP,Former Communists,17.18518448
+HU,FKGP,Foreign Land Ownership,18.85185242
+HU,FKGP,Media Freedom,15.19999981
+HU,FKGP,Nationalism,18.18518448
+HU,FKGP,Religion,5.159999847
+HU,FKGP,Urban-Rural,17.8571434
+HU,FKGP,Decentralization,13
+HU,FKGP,Left-Right,17.1785717
+HU,FKGP,Sympathy,17.07407379
+HU,MDF,Taxes v. Spending,9.94594574
+HU,MDF,Social,14.92500019
+HU,MDF,Privatization,10.42500019
+HU,MDF,EU joining,16.28205109
+HU,MDF,Environment,9.5
+HU,MDF,Former Communists,12.82926846
+HU,MDF,Foreign Land Ownership,14.60000038
+HU,MDF,Media Freedom,11.18421078
+HU,MDF,Nationalism,16
+HU,MDF,Religion,4.837837696
+HU,MDF,Urban-Rural,12.89189148
+HU,MDF,Decentralization,10.72222233
+HU,MDF,Left-Right,13.625
+HU,MDF,Sympathy,10.66666698
+HU,MIEP,Taxes v. Spending,7.866666794
+HU,MIEP,Social,19.02857208
+HU,MIEP,Privatization,5.942857265
+HU,MIEP,EU joining,2.529411793
+HU,MIEP,Environment,9.103447914
+HU,MIEP,Former Communists,18.94444466
+HU,MIEP,Foreign Land Ownership,18.97222137
+HU,MIEP,Media Freedom,16.02857208
+HU,MIEP,Nationalism,19.75
+HU,MIEP,Religion,5
+HU,MIEP,Urban-Rural,10.87878799
+HU,MIEP,Decentralization,15.60714245
+HU,MIEP,Left-Right,19.05555534
+HU,MIEP,Sympathy,17.97142792
+HU,MSZP,Taxes v. Spending,10.46341419
+HU,MSZP,Social,7.439024448
+HU,MSZP,Privatization,12.97560978
+HU,MSZP,EU joining,19.02499962
+HU,MSZP,Environment,11.94594574
+HU,MSZP,Former Communists,3.571428537
+HU,MSZP,Foreign Land Ownership,6.761904716
+HU,MSZP,Media Freedom,7.146341324
+HU,MSZP,Nationalism,8.380952835
+HU,MSZP,Religion,15.82499981
+HU,MSZP,Urban-Rural,8
+HU,MSZP,Decentralization,8.368420601
+HU,MSZP,Left-Right,7.023809433
+HU,MSZP,Sympathy,8.94594574
+HU,MUNKAS,Taxes v. Spending,6.099999905
+HU,MUNKAS,Social,12.0370369
+HU,MUNKAS,Privatization,3.558823586
+HU,MUNKAS,EU joining,7.34375
+HU,MUNKAS,Environment,10.69230747
+HU,MUNKAS,Former Communists,1.6875
+HU,MUNKAS,Foreign Land Ownership,14.88888931
+HU,MUNKAS,Media Freedom,13.33333302
+HU,MUNKAS,Nationalism,8.142857552
+HU,MUNKAS,Religion,17.29032326
+HU,MUNKAS,Urban-Rural,6.14814806
+HU,MUNKAS,Decentralization,12.19999981
+HU,MUNKAS,Left-Right,2.200000048
+HU,MUNKAS,Sympathy,17.58064461
+HU,SZDSZ,Taxes v. Spending,15.17073154
+HU,SZDSZ,Social,2.299999952
+HU,SZDSZ,Privatization,17.125
+HU,SZDSZ,EU joining,19.23077011
+HU,SZDSZ,Environment,10.58333302
+HU,SZDSZ,Former Communists,8.36585331
+HU,SZDSZ,Foreign Land Ownership,4.073170662
+HU,SZDSZ,Media Freedom,3.775000095
+HU,SZDSZ,Nationalism,4.804878235
+HU,SZDSZ,Religion,17.69230843
+HU,SZDSZ,Urban-Rural,3.769230843
+HU,SZDSZ,Decentralization,5.405405521
+HU,SZDSZ,Left-Right,8.243902206
+HU,SZDSZ,Sympathy,9.638889313
+LV,JL,Taxes v. Spending,14.75
+LV,JL,Social,11.625
+LV,JL,Privatization,16.375
+LV,JL,EU joining,18.625
+LV,JL,Environment,13.125
+LV,JL,Former Communists,14.25
+LV,JL,Foreign Land Ownership,10.25
+LV,JL,Media Freedom,12.125
+LV,JL,Nationalism,13.25
+LV,JL,Religion,10.125
+LV,JL,Urban-Rural,7
+LV,JL,Decentralization,17.2857151
+LV,JL,Left-Right,16.5
+LV,JL,Sympathy,9.285714149
+LV,LPP,Taxes v. Spending,12.625
+LV,LPP,Social,18.375
+LV,LPP,Privatization,14.875
+LV,LPP,EU joining,17.25
+LV,LPP,Environment,12.25
+LV,LPP,Former Communists,13.5714283
+LV,LPP,Foreign Land Ownership,7.857142925
+LV,LPP,Media Freedom,10.14285755
+LV,LPP,Nationalism,11.625
+LV,LPP,Religion,3.25
+LV,LPP,Urban-Rural,7.285714149
+LV,LPP,Decentralization,10.71428585
+LV,LPP,Left-Right,13.375
+LV,LPP,Sympathy,12.85714245
+LV,PCTVL,Taxes v. Spending,7
+LV,PCTVL,Social,12.25
+LV,PCTVL,Privatization,4.5
+LV,PCTVL,EU joining,7.375
+LV,PCTVL,Environment,10.85714245
+LV,PCTVL,Former Communists,1.75
+LV,PCTVL,Foreign Land Ownership,9.857142448
+LV,PCTVL,Media Freedom,10.14285755
+LV,PCTVL,Nationalism,3.5
+LV,PCTVL,Religion,18
+LV,PCTVL,Urban-Rural,5.125
+LV,PCTVL,Decentralization,7.666666508
+LV,PCTVL,Left-Right,3.375
+LV,PCTVL,Sympathy,17.2857151
+LV,TB/LNNK,Taxes v. Spending,12.875
+LV,TB/LNNK,Social,14.5
+LV,TB/LNNK,Privatization,13.875
+LV,TB/LNNK,EU joining,15.625
+LV,TB/LNNK,Environment,11.125
+LV,TB/LNNK,Former Communists,17.125
+LV,TB/LNNK,Foreign Land Ownership,17.25
+LV,TB/LNNK,Media Freedom,9.25
+LV,TB/LNNK,Nationalism,19.25
+LV,TB/LNNK,Religion,12.5
+LV,TB/LNNK,Urban-Rural,11
+LV,TB/LNNK,Decentralization,12.5
+LV,TB/LNNK,Left-Right,16.25
+LV,TB/LNNK,Sympathy,13.28571415
+LV,TP,Taxes v. Spending,14.875
+LV,TP,Social,13.625
+LV,TP,Privatization,17.375
+LV,TP,EU joining,18.375
+LV,TP,Environment,14.75
+LV,TP,Former Communists,14.375
+LV,TP,Foreign Land Ownership,9.5
+LV,TP,Media Freedom,8
+LV,TP,Nationalism,16
+LV,TP,Religion,12
+LV,TP,Urban-Rural,8.375
+LV,TP,Decentralization,14.14285755
+LV,TP,Left-Right,18.125
+LV,TP,Sympathy,10.85714245
+LV,TSP,Taxes v. Spending,7.375
+LV,TSP,Social,10.5
+LV,TSP,Privatization,7.375
+LV,TSP,EU joining,12.5
+LV,TSP,Environment,11.125
+LV,TSP,Former Communists,3.5
+LV,TSP,Foreign Land Ownership,8.571428299
+LV,TSP,Media Freedom,7.285714149
+LV,TSP,Nationalism,4.375
+LV,TSP,Religion,16.625
+LV,TSP,Urban-Rural,5.75
+LV,TSP,Decentralization,7.166666508
+LV,TSP,Left-Right,6.875
+LV,TSP,Sympathy,12.4285717
+LV,ZZS,Taxes v. Spending,11.25
+LV,ZZS,Social,12.625
+LV,ZZS,Privatization,12
+LV,ZZS,EU joining,13.875
+LV,ZZS,Environment,6.5
+LV,ZZS,Former Communists,10.625
+LV,ZZS,Foreign Land Ownership,15.25
+LV,ZZS,Media Freedom,8
+LV,ZZS,Nationalism,15
+LV,ZZS,Religion,11.625
+LV,ZZS,Urban-Rural,17
+LV,ZZS,Decentralization,9.857142448
+LV,ZZS,Left-Right,11
+LV,ZZS,Sympathy,11.5714283
+LT,LDP,Taxes v. Spending,11.78947353
+LT,LDP,Social,11.68421078
+LT,LDP,Privatization,13.26315784
+LT,LDP,EU joining,13.89473724
+LT,LDP,Environment,11.5
+LT,LDP,Foreign Land Ownership,9.833333015
+LT,LDP,Media Freedom,11.10526276
+LT,LDP,Nationalism,13.57894707
+LT,LDP,Religion,11.10526276
+LT,LDP,Urban-Rural,12
+LT,LDP,Decentralization,8.947368622
+LT,LDP,Left-Right,11.88888931
+LT,LDP,Civil Liberties,14.31578922
+LT,LDP,Neighbor Relations,9.894737244
+LT,LDP,Sympathy,14.72222233
+LT,LKD,Taxes v. Spending,9.105262756
+LT,LKD,Social,18.42105293
+LT,LKD,Privatization,10.15789509
+LT,LKD,EU joining,15.57894707
+LT,LKD,Environment,10.44444466
+LT,LKD,Foreign Land Ownership,13.27777767
+LT,LKD,Media Freedom,15.83333302
+LT,LKD,Nationalism,15.89473724
+LT,LKD,Religion,3.526315689
+LT,LKD,Urban-Rural,13.23529434
+LT,LKD,Decentralization,10.6315794
+LT,LKD,Left-Right,13.21052647
+LT,LKD,Civil Liberties,14.94736862
+LT,LKD,Neighbor Relations,16.7368412
+LT,LKD,Sympathy,14.77777767
+LT,LKDS,Taxes v. Spending,13
+LT,LKDS,Social,19
+LT,LKDS,Privatization,14
+LT,LKDS,EU joining,14
+LT,LKDS,Environment,7
+LT,LKDS,Foreign Land Ownership,9
+LT,LKDS,Media Freedom,8
+LT,LKDS,Nationalism,11
+LT,LKDS,Religion,8
+LT,LKDS,Urban-Rural,15
+LT,LKDS,Decentralization,4
+LT,LKDS,Left-Right,13
+LT,LKDS,Civil Liberties,11
+LT,LKDS,Neighbor Relations,16
+LT,LKDS,Sympathy,15
+LT,LSDP,Taxes v. Spending,6.526315689
+LT,LSDP,Social,10.10000038
+LT,LSDP,Privatization,8.550000191
+LT,LSDP,EU joining,16.60000038
+LT,LSDP,Environment,11.75
+LT,LSDP,Foreign Land Ownership,9.5
+LT,LSDP,Media Freedom,9.473684311
+LT,LSDP,Nationalism,9.350000381
+LT,LSDP,Religion,15.5
+LT,LSDP,Urban-Rural,11.33333302
+LT,LSDP,Decentralization,10.57894707
+LT,LSDP,Left-Right,6.6842103
+LT,LSDP,Civil Liberties,10.19999981
+LT,LSDP,Neighbor Relations,11.94999981
+LT,LSDP,Sympathy,10.88888931
+LT,LiCS,Taxes v. Spending,16.63157845
+LT,LiCS,Social,6.421052456
+LT,LiCS,Privatization,17.89473724
+LT,LiCS,EU joining,18.52631569
+LT,LiCS,Environment,13.15789509
+LT,LiCS,Foreign Land Ownership,3.684210539
+LT,LiCS,Media Freedom,3.578947306
+LT,LiCS,Nationalism,5.631578922
+LT,LiCS,Religion,15.42105293
+LT,LiCS,Urban-Rural,4.888888836
+LT,LiCS,Decentralization,6.842105389
+LT,LiCS,Left-Right,15.73684216
+LT,LiCS,Civil Liberties,5.631578922
+LT,LiCS,Neighbor Relations,16.68420982
+LT,LiCS,Sympathy,6
+LT,NS/SL,Taxes v. Spending,8.842104912
+LT,NS/SL,Social,9.210526466
+LT,NS/SL,Privatization,11.68421078
+LT,NS/SL,EU joining,16.47368431
+LT,NS/SL,Environment,11.52631569
+LT,NS/SL,Foreign Land Ownership,8.631579399
+LT,NS/SL,Media Freedom,8.055555344
+LT,NS/SL,Nationalism,8.388889313
+LT,NS/SL,Religion,15.10526276
+LT,NS/SL,Urban-Rural,8.888889313
+LT,NS/SL,Decentralization,9.736842155
+LT,NS/SL,Left-Right,9.105262756
+LT,NS/SL,Civil Liberties,9.368420601
+LT,NS/SL,Neighbor Relations,12.21052647
+LT,NS/SL,Sympathy,10.38888931
+LT,TS,Taxes v. Spending,12.6315794
+LT,TS,Social,15.84210491
+LT,TS,Privatization,15.42105293
+LT,TS,EU joining,18.7368412
+LT,TS,Environment,10.84210491
+LT,TS,Foreign Land Ownership,6.789473534
+LT,TS,Media Freedom,13.15789509
+LT,TS,Nationalism,14.78947353
+LT,TS,Religion,6.736842155
+LT,TS,Urban-Rural,9.444444656
+LT,TS,Decentralization,9.157895088
+LT,TS,Left-Right,15.73684216
+LT,TS,Civil Liberties,12.26315784
+LT,TS,Neighbor Relations,18.63157845
+LT,TS,Sympathy,10.66666698
+LT,VNDPS,Taxes v. Spending,8.058823586
+LT,VNDPS,Social,12.11764717
+LT,VNDPS,Privatization,8.842104912
+LT,VNDPS,EU joining,11.05263138
+LT,VNDPS,Environment,10.22222233
+LT,VNDPS,Foreign Land Ownership,16.7368412
+LT,VNDPS,Media Freedom,9.833333015
+LT,VNDPS,Nationalism,13.11111069
+LT,VNDPS,Religion,12.31578922
+LT,VNDPS,Urban-Rural,16.42105293
+LT,VNDPS,Decentralization,10.47368431
+LT,VNDPS,Left-Right,7.210526466
+LT,VNDPS,Civil Liberties,13.15789509
+LT,VNDPS,Neighbor Relations,9.789473534
+LT,VNDPS,Sympathy,14.5
+MK,DA,Taxes v. Spending,12.28571415
+MK,DA,Social,9.166666985
+MK,DA,Privatization,15.55555534
+MK,DA,EU joining,16.44444466
+MK,DA,Environment,13.44444466
+MK,DA,Former Communists,4.5
+MK,DA,Foreign Land Ownership,9.111110687
+MK,DA,Media Freedom,8.222222328
+MK,DA,Nationalism,7.555555344
+MK,DA,Religion,15.33333302
+MK,DA,Urban-Rural,6
+MK,DA,Decentralization,8.555555344
+MK,DA,Left-Right,9.555555344
+MK,DA,Sympathy,11.88888931
+MK,DPA,Taxes v. Spending,14.18181801
+MK,DPA,Social,18.66666603
+MK,DPA,Privatization,14.909091
+MK,DPA,EU joining,17.09090996
+MK,DPA,Environment,15.27272701
+MK,DPA,Former Communists,11.625
+MK,DPA,Foreign Land Ownership,6.181818008
+MK,DPA,Media Freedom,13.45454502
+MK,DPA,Nationalism,15.909091
+MK,DPA,Religion,4.818181992
+MK,DPA,Urban-Rural,14.81818199
+MK,DPA,Decentralization,2.909090996
+MK,DPA,Left-Right,14.63636398
+MK,DPA,Sympathy,18.89999962
+MK,DS,Taxes v. Spending,12.16666698
+MK,DS,Social,12.19999981
+MK,DS,Privatization,12.4285717
+MK,DS,EU joining,14.625
+MK,DS,Environment,14.14285755
+MK,DS,Former Communists,6.5
+MK,DS,Foreign Land Ownership,12.875
+MK,DS,Media Freedom,9.125
+MK,DS,Nationalism,12
+MK,DS,Religion,14
+MK,DS,Urban-Rural,7.625
+MK,DS,Decentralization,10.75
+MK,DS,Left-Right,7.125
+MK,DS,Sympathy,13
+MK,DUI,Taxes v. Spending,8.818181992
+MK,DUI,Social,15.66666698
+MK,DUI,Privatization,14.81818199
+MK,DUI,EU joining,18.27272797
+MK,DUI,Environment,14.54545498
+MK,DUI,Former Communists,9.142857552
+MK,DUI,Foreign Land Ownership,5.909090996
+MK,DUI,Media Freedom,10.72727299
+MK,DUI,Nationalism,11.090909
+MK,DUI,Religion,9.727272987
+MK,DUI,Urban-Rural,13.45454502
+MK,DUI,Decentralization,2.636363745
+MK,DUI,Left-Right,9.454545021
+MK,DUI,Sympathy,15.81818199
+MK,LDP,Taxes v. Spending,8.545454979
+MK,LDP,Social,9.333333015
+MK,LDP,Privatization,14.81818199
+MK,LDP,EU joining,18.27272797
+MK,LDP,Environment,13.45454502
+MK,LDP,Former Communists,6.25
+MK,LDP,Foreign Land Ownership,9.181818008
+MK,LDP,Media Freedom,7.363636494
+MK,LDP,Nationalism,5.599999905
+MK,LDP,Religion,16.63636398
+MK,LDP,Urban-Rural,4.181818008
+MK,LDP,Decentralization,7.545454502
+MK,LDP,Left-Right,9.454545021
+MK,LDP,Sympathy,7.363636494
+MK,LP,Taxes v. Spending,12.54545498
+MK,LP,Social,8.5
+MK,LP,Privatization,16.54545403
+MK,LP,EU joining,18.54545403
+MK,LP,Environment,14.27272701
+MK,LP,Former Communists,8.625
+MK,LP,Foreign Land Ownership,9
+MK,LP,Media Freedom,9.454545021
+MK,LP,Nationalism,7.599999905
+MK,LP,Religion,14.18181801
+MK,LP,Urban-Rural,5.636363506
+MK,LP,Decentralization,10.36363602
+MK,LP,Left-Right,11.909091
+MK,LP,Sympathy,10.36363602
+MK,PDP,Taxes v. Spending,11.36363602
+MK,PDP,Social,15.5
+MK,PDP,Privatization,13.909091
+MK,PDP,EU joining,17.45454597
+MK,PDP,Environment,15.33333302
+MK,PDP,Former Communists,5.625
+MK,PDP,Foreign Land Ownership,7.090909004
+MK,PDP,Media Freedom,10.36363602
+MK,PDP,Nationalism,14.10000038
+MK,PDP,Religion,7.090909004
+MK,PDP,Urban-Rural,12.63636398
+MK,PDP,Decentralization,2.818181753
+MK,PDP,Left-Right,10.45454502
+MK,PDP,Sympathy,15.36363602
+MK,SDSM,Taxes v. Spending,7
+MK,SDSM,Social,8.666666985
+MK,SDSM,Privatization,13.72727299
+MK,SDSM,EU joining,18.54545403
+MK,SDSM,Environment,13.63636398
+MK,SDSM,Former Communists,3.75
+MK,SDSM,Foreign Land Ownership,10.63636398
+MK,SDSM,Media Freedom,11.36363602
+MK,SDSM,Nationalism,6.545454502
+MK,SDSM,Religion,18
+MK,SDSM,Urban-Rural,7.090909004
+MK,SDSM,Decentralization,6.909090996
+MK,SDSM,Left-Right,6.454545498
+MK,SDSM,Sympathy,7.272727489
+MK,SPM,Taxes v. Spending,9.181818008
+MK,SPM,Social,15.33333302
+MK,SPM,Privatization,9.727272987
+MK,SPM,EU joining,11.39999962
+MK,SPM,Environment,14.77777767
+MK,SPM,Former Communists,2.75
+MK,SPM,Foreign Land Ownership,16.27272797
+MK,SPM,Media Freedom,13.63636398
+MK,SPM,Nationalism,9.181818008
+MK,SPM,Religion,17.89999962
+MK,SPM,Urban-Rural,9
+MK,SPM,Decentralization,12.18181801
+MK,SPM,Left-Right,3.799999952
+MK,SPM,Sympathy,14.090909
+MK,VMRO-DPMNE,Taxes v. Spending,11.81818199
+MK,VMRO-DPMNE,Social,17.33333397
+MK,VMRO-DPMNE,Privatization,16.09090996
+MK,VMRO-DPMNE,EU joining,17.36363602
+MK,VMRO-DPMNE,Environment,13.45454502
+MK,VMRO-DPMNE,Former Communists,14.75
+MK,VMRO-DPMNE,Foreign Land Ownership,9.363636017
+MK,VMRO-DPMNE,Media Freedom,13.81818199
+MK,VMRO-DPMNE,Nationalism,17.54545403
+MK,VMRO-DPMNE,Religion,4.181818008
+MK,VMRO-DPMNE,Urban-Rural,14.090909
+MK,VMRO-DPMNE,Decentralization,12.10000038
+MK,VMRO-DPMNE,Left-Right,15.18181801
+MK,VMRO-DPMNE,Sympathy,12.54545498
+MD,ASLMN,Taxes v. Spending,9.727272987
+MD,ASLMN,Social,11.10000038
+MD,ASLMN,Privatization,13.69999981
+MD,ASLMN,EU joining,12.91666698
+MD,ASLMN,Environment,10.44444466
+MD,ASLMN,Former Communists,10.55555534
+MD,ASLMN,Foreign Land Ownership,7
+MD,ASLMN,Media Freedom,6.25
+MD,ASLMN,Nationalism,11.27272701
+MD,ASLMN,Religion,10.69999981
+MD,ASLMN,Urban-Rural,8.363636017
+MD,ASLMN,Decentralization,6.75
+MD,ASLMN,Left-Right,11.60000038
+MD,ASLMN,Sympathy,9.090909004
+MD,PCRM,Taxes v. Spending,4.166666508
+MD,PCRM,Social,14
+MD,PCRM,Privatization,6.599999905
+MD,PCRM,EU joining,10.16666698
+MD,PCRM,Environment,10.19999981
+MD,PCRM,Former Communists,5.454545498
+MD,PCRM,Foreign Land Ownership,13
+MD,PCRM,Media Freedom,13.5
+MD,PCRM,Nationalism,11
+MD,PCRM,Religion,14.39999962
+MD,PCRM,Urban-Rural,13.66666698
+MD,PCRM,Decentralization,13.81818199
+MD,PCRM,Left-Right,5.363636494
+MD,PCRM,Sympathy,14.45454502
+MD,PDAM,Taxes v. Spending,10.81818199
+MD,PDAM,Social,11.89999962
+MD,PDAM,Privatization,10.090909
+MD,PDAM,EU joining,9.090909004
+MD,PDAM,Environment,11.11111069
+MD,PDAM,Former Communists,7.5
+MD,PDAM,Foreign Land Ownership,14
+MD,PDAM,Media Freedom,10.45454502
+MD,PDAM,Nationalism,13
+MD,PDAM,Religion,12.11111069
+MD,PDAM,Urban-Rural,16.18181801
+MD,PDAM,Decentralization,11.89999962
+MD,PDAM,Left-Right,9.399999619
+MD,PDAM,Sympathy,14.5
+MD,PDM,Taxes v. Spending,11.27272701
+MD,PDM,Social,10
+MD,PDM,Privatization,11.5
+MD,PDM,EU joining,14
+MD,PDM,Environment,11.22222233
+MD,PDM,Former Communists,7.400000095
+MD,PDM,Foreign Land Ownership,8.888889313
+MD,PDM,Media Freedom,7.090909004
+MD,PDM,Nationalism,12.10000038
+MD,PDM,Religion,11.090909
+MD,PDM,Urban-Rural,11.33333302
+MD,PDM,Decentralization,7.272727489
+MD,PDM,Left-Right,11.27272701
+MD,PDM,Sympathy,11.60000038
+MD,PPCD,Taxes v. Spending,8.5
+MD,PPCD,Social,10.39999962
+MD,PPCD,Privatization,11.72727299
+MD,PPCD,EU joining,16.08333397
+MD,PPCD,Environment,12.33333302
+MD,PPCD,Former Communists,14.45454502
+MD,PPCD,Foreign Land Ownership,10.18181801
+MD,PPCD,Media Freedom,6.5
+MD,PPCD,Nationalism,13.36363602
+MD,PPCD,Religion,6.090909004
+MD,PPCD,Urban-Rural,9.333333015
+MD,PPCD,Decentralization,6.583333492
+MD,PPCD,Left-Right,14.36363602
+MD,PPCD,Sympathy,12.60000038
+MD,PSD-P,Taxes v. Spending,14.27272701
+MD,PSD-P,Social,6.900000095
+MD,PSD-P,Privatization,16.60000038
+MD,PSD-P,EU joining,17.33333397
+MD,PSD-P,Environment,9.888889313
+MD,PSD-P,Former Communists,13.39999962
+MD,PSD-P,Foreign Land Ownership,8.699999809
+MD,PSD-P,Media Freedom,5.909090996
+MD,PSD-P,Nationalism,11.5
+MD,PSD-P,Religion,8.636363983
+MD,PSD-P,Urban-Rural,9.800000191
+MD,PSD-P,Decentralization,6.099999905
+MD,PSD-P,Left-Right,15.5
+MD,PSD-P,Sympathy,8.600000381
+MD,PSDM,Taxes v. Spending,12.69999981
+MD,PSDM,Social,10
+MD,PSDM,Privatization,11.63636398
+MD,PSDM,EU joining,15.18181801
+MD,PSDM,Environment,11.5
+MD,PSDM,Former Communists,10.11111069
+MD,PSDM,Foreign Land Ownership,7.888888836
+MD,PSDM,Media Freedom,8.363636017
+MD,PSDM,Nationalism,9.300000191
+MD,PSDM,Religion,10.89999962
+MD,PSDM,Urban-Rural,8.272727013
+MD,PSDM,Decentralization,8.100000381
+MD,PSDM,Left-Right,9.399999619
+MD,PSDM,Sympathy,9.800000191
+MD,UCM,Taxes v. Spending,9.899999619
+MD,UCM,Social,11.10000038
+MD,UCM,Privatization,12.090909
+MD,UCM,EU joining,12.63636398
+MD,UCM,Environment,9.800000191
+MD,UCM,Former Communists,8.5
+MD,UCM,Foreign Land Ownership,7.444444656
+MD,UCM,Media Freedom,6.909090996
+MD,UCM,Nationalism,11.30000019
+MD,UCM,Religion,11.44444466
+MD,UCM,Urban-Rural,7.181818008
+MD,UCM,Decentralization,6.636363506
+MD,UCM,Left-Right,10.69999981
+MD,UCM,Sympathy,12.5
+PL,AWS,Taxes v. Spending,10.21428585
+PL,AWS,Social,17.69230843
+PL,AWS,Privatization,11.76923084
+PL,AWS,EU joining,13.91666698
+PL,AWS,Environment,11.81818199
+PL,AWS,Former Communists,17.15384674
+PL,AWS,Foreign Land Ownership,12.75
+PL,AWS,Media Freedom,12.41666698
+PL,AWS,Nationalism,15.66666698
+PL,AWS,Religion,4.166666508
+PL,AWS,Urban-Rural,8.666666985
+PL,AWS,Decentralization,7.75
+PL,AWS,Left-Right,13.36363602
+PL,AWS,Sympathy,11.83333302
+PL,LPR,Taxes v. Spending,8.233333588
+PL,LPR,Social,19.0625
+PL,LPR,Privatization,8.451612473
+PL,LPR,EU joining,1.46875
+PL,LPR,Environment,11.86206913
+PL,LPR,Former Communists,17.5625
+PL,LPR,Foreign Land Ownership,19.25
+PL,LPR,Media Freedom,15.63333321
+PL,LPR,Nationalism,19
+PL,LPR,Religion,1.65625
+PL,LPR,Urban-Rural,12.20689678
+PL,LPR,Decentralization,12.93548393
+PL,LPR,Left-Right,16.41935539
+PL,LPR,Sympathy,17.03448296
+PL,PO,Taxes v. Spending,16.5
+PL,PO,Social,8.677419662
+PL,PO,Privatization,17.54838753
+PL,PO,EU joining,18.375
+PL,PO,Environment,11.80000019
+PL,PO,Former Communists,9.90625
+PL,PO,Foreign Land Ownership,5.566666603
+PL,PO,Media Freedom,4.838709831
+PL,PO,Nationalism,6.935483932
+PL,PO,Religion,13.51612949
+PL,PO,Urban-Rural,3.709677458
+PL,PO,Decentralization,4.15625
+PL,PO,Left-Right,13.41935444
+PL,PO,Sympathy,9.206896782
+PL,PSL,Taxes v. Spending,6.096774101
+PL,PSL,Social,14.0666666
+PL,PSL,Privatization,7.419354916
+PL,PSL,EU joining,9.75
+PL,PSL,Environment,11.66666698
+PL,PSL,Former Communists,5.625
+PL,PSL,Foreign Land Ownership,17.5
+PL,PSL,Media Freedom,13.41379356
+PL,PSL,Nationalism,16.0625
+PL,PSL,Religion,7.03125
+PL,PSL,Urban-Rural,18.87096786
+PL,PSL,Decentralization,13.16129017
+PL,PSL,Left-Right,8.655172348
+PL,PSL,Sympathy,15.27586174
+PL,PiS,Taxes v. Spending,11.46875
+PL,PiS,Social,15.125
+PL,PiS,Privatization,13.58064556
+PL,PiS,EU joining,12.45161247
+PL,PiS,Environment,10.89285755
+PL,PiS,Former Communists,17.29032326
+PL,PiS,Foreign Land Ownership,13.46875
+PL,PiS,Media Freedom,11.0967741
+PL,PiS,Nationalism,14.65625
+PL,PiS,Religion,5.709677219
+PL,PiS,Urban-Rural,7.400000095
+PL,PiS,Decentralization,10.35483837
+PL,PiS,Left-Right,15.41935444
+PL,PiS,Sympathy,11.65517235
+PL,S,Taxes v. Spending,5.225806236
+PL,S,Social,13.13333321
+PL,S,Privatization,4.400000095
+PL,S,EU joining,3.612903118
+PL,S,Environment,12.75
+PL,S,Former Communists,6.59375
+PL,S,Foreign Land Ownership,18.51612854
+PL,S,Media Freedom,12.96551704
+PL,S,Nationalism,16.125
+PL,S,Religion,9.903225899
+PL,S,Urban-Rural,17.12903214
+PL,S,Decentralization,13.5666666
+PL,S,Left-Right,5.466666698
+PL,S,Sympathy,17.27586174
+PL,SLD,Taxes v. Spending,6
+PL,SLD,Social,5.161290169
+PL,SLD,Privatization,8.266666412
+PL,SLD,EU joining,18.34375
+PL,SLD,Environment,12.62068939
+PL,SLD,Former Communists,1.375
+PL,SLD,Foreign Land Ownership,8.032258034
+PL,SLD,Media Freedom,11.74193573
+PL,SLD,Nationalism,7.03125
+PL,SLD,Religion,17.06451607
+PL,SLD,Urban-Rural,6.903225899
+PL,SLD,Decentralization,11.9375
+PL,SLD,Left-Right,6.032258034
+PL,SLD,Sympathy,11.37931061
+PL,UP,Taxes v. Spending,3.90625
+PL,UP,Social,3.59375
+PL,UP,Privatization,4.866666794
+PL,UP,EU joining,17.33333397
+PL,UP,Environment,11.20689678
+PL,UP,Former Communists,2.65625
+PL,UP,Foreign Land Ownership,8.25
+PL,UP,Media Freedom,9.25806427
+PL,UP,Nationalism,5.903225899
+PL,UP,Religion,18.78125
+PL,UP,Urban-Rural,5.800000191
+PL,UP,Decentralization,11.16129017
+PL,UP,Left-Right,3.032258034
+PL,UP,Sympathy,11.86206913
+PL,UPR,Taxes v. Spending,19
+PL,UPR,Social,16.5
+PL,UPR,Privatization,20
+PL,UPR,EU joining,5.5
+PL,UPR,Environment,15.5
+PL,UPR,Former Communists,14.5
+PL,UPR,Foreign Land Ownership,9
+PL,UPR,Media Freedom,12
+PL,UPR,Nationalism,11
+PL,UPR,Religion,5.5
+PL,UPR,Urban-Rural,7
+PL,UPR,Decentralization,7
+PL,UPR,Left-Right,19.5
+PL,UPR,Sympathy,9.5
+PL,UW,Taxes v. Spending,14.375
+PL,UW,Social,6.34375
+PL,UW,Privatization,16.8064518
+PL,UW,EU joining,19.1935482
+PL,UW,Environment,10.36666679
+PL,UW,Former Communists,7.75
+PL,UW,Foreign Land Ownership,5.806451797
+PL,UW,Media Freedom,4.096774101
+PL,UW,Nationalism,5.25
+PL,UW,Religion,14.59375
+PL,UW,Urban-Rural,3.733333349
+PL,UW,Decentralization,4.25
+PL,UW,Left-Right,11.33333302
+PL,UW,Sympathy,8.214285851
+RO,PD,Taxes v. Spending,9
+RO,PD,Social,8
+RO,PD,Privatization,12.47058868
+RO,PD,EU joining,18.52941132
+RO,PD,Environment,10.9375
+RO,PD,Former Communists,10.8125
+RO,PD,Foreign Land Ownership,6.823529243
+RO,PD,Media Freedom,6.529411793
+RO,PD,Nationalism,7.888888836
+RO,PD,Religion,15.52941132
+RO,PD,Urban-Rural,5.875
+RO,PD,Decentralization,5.823529243
+RO,PD,Left-Right,11.05555534
+RO,PD,Sympathy,8.647058487
+RO,PNL,Taxes v. Spending,14.0625
+RO,PNL,Social,6.875
+RO,PNL,Privatization,15.76470566
+RO,PNL,EU joining,19
+RO,PNL,Environment,13.25
+RO,PNL,Former Communists,14.70588207
+RO,PNL,Foreign Land Ownership,5.352941036
+RO,PNL,Media Freedom,4.529411793
+RO,PNL,Nationalism,7.277777672
+RO,PNL,Religion,15.52941132
+RO,PNL,Urban-Rural,5.4375
+RO,PNL,Decentralization,4.941176414
+RO,PNL,Left-Right,14.27777767
+RO,PNL,Sympathy,6.764705658
+RO,PNTCD,Taxes v. Spending,10.38461494
+RO,PNTCD,Social,14
+RO,PNTCD,Privatization,14.5625
+RO,PNTCD,EU joining,17.75
+RO,PNTCD,Environment,11.80000019
+RO,PNTCD,Former Communists,17.1764698
+RO,PNTCD,Foreign Land Ownership,8.8125
+RO,PNTCD,Media Freedom,7.411764622
+RO,PNTCD,Nationalism,11.33333302
+RO,PNTCD,Religion,5.705882549
+RO,PNTCD,Urban-Rural,11.5882349
+RO,PNTCD,Decentralization,7.705882549
+RO,PNTCD,Left-Right,12.52941132
+RO,PNTCD,Sympathy,11.76470566
+RO,PRM,Taxes v. Spending,5.615384579
+RO,PRM,Social,18.6875
+RO,PRM,Privatization,4.733333111
+RO,PRM,EU joining,11
+RO,PRM,Environment,10.27272701
+RO,PRM,Former Communists,2.75
+RO,PRM,Foreign Land Ownership,18.1764698
+RO,PRM,Media Freedom,13.1875
+RO,PRM,Nationalism,19.61111069
+RO,PRM,Religion,8.133333206
+RO,PRM,Urban-Rural,10.0714283
+RO,PRM,Decentralization,16.94117737
+RO,PRM,Left-Right,11.52941132
+RO,PRM,Sympathy,19.35294151
+RO,PSD,Taxes v. Spending,5
+RO,PSD,Social,12.52941132
+RO,PSD,Privatization,7.470588207
+RO,PSD,EU joining,17.41176414
+RO,PSD,Environment,12.4117651
+RO,PSD,Former Communists,3.705882311
+RO,PSD,Foreign Land Ownership,11.88235283
+RO,PSD,Media Freedom,14.05882359
+RO,PSD,Nationalism,12.88888931
+RO,PSD,Religion,14.11764717
+RO,PSD,Urban-Rural,11.52941132
+RO,PSD,Decentralization,13.5
+RO,PSD,Left-Right,6.777777672
+RO,PSD,Sympathy,13.47058868
+RO,PUR,Taxes v. Spending,9.666666985
+RO,PUR,Social,13.090909
+RO,PUR,Privatization,12.125
+RO,PUR,EU joining,16.4375
+RO,PUR,Environment,11.26666641
+RO,PUR,Former Communists,6.142857075
+RO,PUR,Foreign Land Ownership,11.53333378
+RO,PUR,Media Freedom,9.625
+RO,PUR,Nationalism,12.94117641
+RO,PUR,Religion,12.33333302
+RO,PUR,Urban-Rural,6.230769157
+RO,PUR,Decentralization,11.28571415
+RO,PUR,Left-Right,9.5625
+RO,PUR,Sympathy,12.86666679
+RO,UDMR,Taxes v. Spending,11.3125
+RO,UDMR,Social,7.733333111
+RO,UDMR,Privatization,14.625
+RO,UDMR,EU joining,18.58823586
+RO,UDMR,Environment,9.600000381
+RO,UDMR,Former Communists,13.52941132
+RO,UDMR,Foreign Land Ownership,4.352941036
+RO,UDMR,Media Freedom,5.8125
+RO,UDMR,Nationalism,2.5
+RO,UDMR,Religion,12.125
+RO,UDMR,Urban-Rural,10
+RO,UDMR,Decentralization,1.647058845
+RO,UDMR,Left-Right,12.83333302
+RO,UDMR,Sympathy,10.94117641
+RU,ER,Taxes v. Spending,11.14999962
+RU,ER,Social,10.94999981
+RU,ER,Privatization,10.19999981
+RU,ER,Environment,13.47368431
+RU,ER,Former Communists,4.449999809
+RU,ER,Foreign Land Ownership,10.85000038
+RU,ER,Media Freedom,13.10000038
+RU,ER,Nationalism,11.68421078
+RU,ER,Religion,9.736842155
+RU,ER,Urban-Rural,9.888889313
+RU,ER,Decentralization,13.05263138
+RU,ER,Left-Right,12.42105293
+RU,ER,Relations with West,9.631579399
+RU,ER,Sympathy,11.68421078
+RU,KPRF,Taxes v. Spending,3.5
+RU,KPRF,Social,14.30000019
+RU,KPRF,Privatization,3.650000095
+RU,KPRF,Environment,13.05263138
+RU,KPRF,Former Communists,1.950000048
+RU,KPRF,Foreign Land Ownership,18.04999924
+RU,KPRF,Media Freedom,14.80000019
+RU,KPRF,Nationalism,16.2631588
+RU,KPRF,Religion,8.350000381
+RU,KPRF,Urban-Rural,14.83333302
+RU,KPRF,Decentralization,13.6315794
+RU,KPRF,Left-Right,4.842105389
+RU,KPRF,Relations with West,17.20000076
+RU,KPRF,Sympathy,14.94736862
+RU,LDPR,Taxes v. Spending,9.449999809
+RU,LDPR,Social,14.10000038
+RU,LDPR,Privatization,7.800000191
+RU,LDPR,Environment,13.94117641
+RU,LDPR,Former Communists,12.39999962
+RU,LDPR,Foreign Land Ownership,15.68421078
+RU,LDPR,Media Freedom,14.39999962
+RU,LDPR,Nationalism,17.5
+RU,LDPR,Religion,10.33333302
+RU,LDPR,Urban-Rural,11
+RU,LDPR,Decentralization,17.36842155
+RU,LDPR,Left-Right,13.89473724
+RU,LDPR,Relations with West,15.89999962
+RU,LDPR,Sympathy,17.2631588
+RU,RODINA,Taxes v. Spending,5.050000191
+RU,RODINA,Social,12.39999962
+RU,RODINA,Privatization,5.449999809
+RU,RODINA,Environment,13
+RU,RODINA,Former Communists,3.150000095
+RU,RODINA,Foreign Land Ownership,15.68421078
+RU,RODINA,Media Freedom,13.05263138
+RU,RODINA,Nationalism,16.15789413
+RU,RODINA,Religion,7.157894611
+RU,RODINA,Urban-Rural,12.94444466
+RU,RODINA,Decentralization,14
+RU,RODINA,Left-Right,5.947368622
+RU,RODINA,Relations with West,15.25
+RU,RODINA,Sympathy,13.94736862
+RU,SPS,Taxes v. Spending,17.04999924
+RU,SPS,Social,5.650000095
+RU,SPS,Privatization,17.25
+RU,SPS,Environment,12.42105293
+RU,SPS,Former Communists,11.64999962
+RU,SPS,Foreign Land Ownership,3.299999952
+RU,SPS,Media Freedom,3.049999952
+RU,SPS,Nationalism,3.473684311
+RU,SPS,Religion,17
+RU,SPS,Urban-Rural,3.166666746
+RU,SPS,Decentralization,5.6842103
+RU,SPS,Left-Right,16.2631588
+RU,SPS,Relations with West,3.200000048
+RU,SPS,Sympathy,10.42105293
+RU,YABLOKO,Taxes v. Spending,13.30000019
+RU,YABLOKO,Social,5.349999905
+RU,YABLOKO,Privatization,12.75
+RU,YABLOKO,Environment,5.473684311
+RU,YABLOKO,Former Communists,9.5
+RU,YABLOKO,Foreign Land Ownership,5.949999809
+RU,YABLOKO,Media Freedom,3.400000095
+RU,YABLOKO,Nationalism,4.736842155
+RU,YABLOKO,Religion,16.47368431
+RU,YABLOKO,Urban-Rural,3.833333254
+RU,YABLOKO,Decentralization,5.789473534
+RU,YABLOKO,Left-Right,12
+RU,YABLOKO,Relations with West,3.578947306
+RU,YABLOKO,Sympathy,8.052631378
+SR,DS,Taxes v. Spending,12
+SR,DS,Social,5
+SR,DS,Privatization,18.75
+SR,DS,EU joining,18.5
+SR,DS,Environment,14.75
+SR,DS,Former Communists,14.25
+SR,DS,Foreign Land Ownership,8.333333015
+SR,DS,Media Freedom,8.5
+SR,DS,Nationalism,13.5
+SR,DS,Religion,15
+SR,DS,Urban-Rural,5.5
+SR,DS,Decentralization,13
+SR,DS,Left-Right,11.5
+SR,DS,Sympathy,9.75
+SR,DSS,Taxes v. Spending,12.75
+SR,DSS,Social,12.25
+SR,DSS,Privatization,17
+SR,DSS,EU joining,12.75
+SR,DSS,Environment,14.25
+SR,DSS,Former Communists,15.5
+SR,DSS,Foreign Land Ownership,11
+SR,DSS,Media Freedom,9.25
+SR,DSS,Nationalism,7
+SR,DSS,Religion,4.75
+SR,DSS,Urban-Rural,11
+SR,DSS,Decentralization,7.666666508
+SR,DSS,Left-Right,14.25
+SR,DSS,Sympathy,15
+SR,SPO,Taxes v. Spending,11.25
+SR,SPO,Social,13.75
+SR,SPO,Privatization,14.75
+SR,SPO,EU joining,15.25
+SR,SPO,Environment,12.25
+SR,SPO,Former Communists,15
+SR,SPO,Foreign Land Ownership,11
+SR,SPO,Media Freedom,8.25
+SR,SPO,Nationalism,6.5
+SR,SPO,Religion,4.25
+SR,SPO,Urban-Rural,12
+SR,SPO,Decentralization,11.33333302
+SR,SPO,Left-Right,15.25
+SR,SPO,Sympathy,15.5
+SR,SPS,Taxes v. Spending,4
+SR,SPS,Social,10.5
+SR,SPS,Privatization,5.5
+SR,SPS,EU joining,8.25
+SR,SPS,Environment,12.75
+SR,SPS,Former Communists,1
+SR,SPS,Foreign Land Ownership,19
+SR,SPS,Media Freedom,13.75
+SR,SPS,Nationalism,6.75
+SR,SPS,Religion,18.75
+SR,SPS,Urban-Rural,11.5
+SR,SPS,Decentralization,15.33333302
+SR,SPS,Left-Right,9
+SR,SPS,Sympathy,16
+SR,SRS,Taxes v. Spending,6.5
+SR,SRS,Social,16.75
+SR,SRS,Privatization,11
+SR,SRS,EU joining,4.5
+SR,SRS,Environment,12.5
+SR,SRS,Former Communists,11
+SR,SRS,Foreign Land Ownership,19.33333397
+SR,SRS,Media Freedom,14
+SR,SRS,Nationalism,1.25
+SR,SRS,Religion,11.5
+SR,SRS,Urban-Rural,14.25
+SR,SRS,Decentralization,19.33333397
+SR,SRS,Left-Right,19
+SR,SRS,Sympathy,19.5
+SK,ANO,Taxes v. Spending,16.94117737
+SK,ANO,Social,1.764705896
+SK,ANO,Privatization,18.76470566
+SK,ANO,EU joining,19.35294151
+SK,ANO,Environment,15.0666666
+SK,ANO,Former Communists,13.23529434
+SK,ANO,Foreign Land Ownership,5.3125
+SK,ANO,Media Freedom,6.705882549
+SK,ANO,Nationalism,6.4375
+SK,ANO,Religion,17.8235302
+SK,ANO,Urban-Rural,3.066666603
+SK,ANO,Decentralization,4.882352829
+SK,ANO,Left-Right,15.76470566
+SK,ANO,Sympathy,10.23076916
+SK,HZDS,Taxes v. Spending,10.17647076
+SK,HZDS,Social,9.470588684
+SK,HZDS,Privatization,12.17647076
+SK,HZDS,EU joining,14.88235283
+SK,HZDS,Environment,13.60000038
+SK,HZDS,Former Communists,7.117647171
+SK,HZDS,Foreign Land Ownership,13.86666679
+SK,HZDS,Media Freedom,12.11764717
+SK,HZDS,Nationalism,13.82352924
+SK,HZDS,Religion,8.294117928
+SK,HZDS,Urban-Rural,14.14285755
+SK,HZDS,Decentralization,10.35294151
+SK,HZDS,Left-Right,10.88235283
+SK,HZDS,Sympathy,15.4285717
+SK,KDH,Taxes v. Spending,14.375
+SK,KDH,Social,19.70588303
+SK,KDH,Privatization,15.375
+SK,KDH,EU joining,15.88235283
+SK,KDH,Environment,12
+SK,KDH,Former Communists,17.35294151
+SK,KDH,Foreign Land Ownership,9.733333588
+SK,KDH,Media Freedom,13.4375
+SK,KDH,Nationalism,15.70588207
+SK,KDH,Religion,1.294117689
+SK,KDH,Urban-Rural,13.33333302
+SK,KDH,Decentralization,9.9375
+SK,KDH,Left-Right,17.0625
+SK,KDH,Sympathy,15.5714283
+SK,KSS,Taxes v. Spending,4.117647171
+SK,KSS,Social,5.199999809
+SK,KSS,Privatization,1.882352948
+SK,KSS,EU joining,9.529411316
+SK,KSS,Environment,11
+SK,KSS,Former Communists,1.294117689
+SK,KSS,Foreign Land Ownership,17.13333321
+SK,KSS,Media Freedom,14.11764717
+SK,KSS,Nationalism,11.29411793
+SK,KSS,Religion,19.23529434
+SK,KSS,Urban-Rural,12.39999962
+SK,KSS,Decentralization,12.3125
+SK,KSS,Left-Right,1.764705896
+SK,KSS,Sympathy,16.2857151
+SK,LU,Taxes v. Spending,11
+SK,LU,Social,13
+SK,LU,Privatization,7
+SK,LU,EU joining,19
+SK,LU,Former Communists,6
+SK,LU,Media Freedom,12
+SK,LU,Nationalism,12
+SK,LU,Religion,10
+SK,LU,Urban-Rural,7
+SK,LU,Decentralization,11
+SK,LU,Left-Right,15
+SK,LU,Sympathy,14
+SK,OKS,Taxes v. Spending,17
+SK,OKS,Social,17
+SK,OKS,Privatization,19
+SK,OKS,EU joining,6
+SK,OKS,Environment,17
+SK,OKS,Former Communists,18
+SK,OKS,Media Freedom,4
+SK,OKS,Nationalism,7
+SK,OKS,Religion,7
+SK,OKS,Urban-Rural,6
+SK,OKS,Decentralization,6
+SK,OKS,Left-Right,17
+SK,OKS,Sympathy,6
+SK,RPS,Taxes v. Spending,5
+SK,RPS,Social,20
+SK,RPS,Privatization,7
+SK,RPS,EU joining,12
+SK,RPS,Environment,17
+SK,RPS,Former Communists,2
+SK,RPS,Foreign Land Ownership,12
+SK,RPS,Media Freedom,20
+SK,RPS,Nationalism,1
+SK,RPS,Religion,8
+SK,RPS,Urban-Rural,18
+SK,RPS,Decentralization,15
+SK,RPS,Left-Right,7
+SK,RPS,Sympathy,20
+SK,SDA,Taxes v. Spending,5.933333397
+SK,SDA,Social,4.333333492
+SK,SDA,Privatization,6.866666794
+SK,SDA,EU joining,16.53333282
+SK,SDA,Environment,8.642857552
+SK,SDA,Former Communists,4.866666794
+SK,SDA,Foreign Land Ownership,15.0714283
+SK,SDA,Media Freedom,9.5
+SK,SDA,Nationalism,9.3125
+SK,SDA,Religion,17.93333244
+SK,SDA,Urban-Rural,8.199999809
+SK,SDA,Decentralization,9.625
+SK,SDA,Left-Right,6.800000191
+SK,SDA,Sympathy,10.38461494
+SK,SDL',Taxes v. Spending,5.875
+SK,SDL',Social,4.625
+SK,SDL',Privatization,5.75
+SK,SDL',EU joining,15.8125
+SK,SDL',Environment,9.333333015
+SK,SDL',Former Communists,3.5625
+SK,SDL',Foreign Land Ownership,16.23077011
+SK,SDL',Media Freedom,10.5
+SK,SDL',Nationalism,10.0625
+SK,SDL',Religion,17.875
+SK,SDL',Urban-Rural,11.19999981
+SK,SDL',Decentralization,10.9375
+SK,SDL',Left-Right,4.866666794
+SK,SDL',Sympathy,13.38461494
+SK,SKDU,Taxes v. Spending,13.88235283
+SK,SKDU,Social,14.47058868
+SK,SKDU,Privatization,16.64705849
+SK,SKDU,EU joining,19.47058868
+SK,SKDU,Environment,15
+SK,SKDU,Former Communists,14
+SK,SKDU,Foreign Land Ownership,8.125
+SK,SKDU,Media Freedom,10.82352924
+SK,SKDU,Nationalism,8.941176414
+SK,SKDU,Religion,5.294117451
+SK,SKDU,Urban-Rural,4.599999905
+SK,SKDU,Decentralization,7.411764622
+SK,SKDU,Left-Right,15.625
+SK,SKDU,Sympathy,12.5
+SK,SMK,Taxes v. Spending,13.125
+SK,SMK,Social,15
+SK,SMK,Privatization,14.47058868
+SK,SMK,EU joining,18.9375
+SK,SMK,Environment,13.13333321
+SK,SMK,Former Communists,13.125
+SK,SMK,Foreign Land Ownership,5.625
+SK,SMK,Media Freedom,11.29411793
+SK,SMK,Nationalism,6.4375
+SK,SMK,Religion,5.625
+SK,SMK,Urban-Rural,13.60000038
+SK,SMK,Decentralization,7
+SK,SMK,Left-Right,13.60000038
+SK,SMK,Sympathy,15.64285755
+SK,SNS,Taxes v. Spending,10.28571415
+SK,SNS,Social,16.1428566
+SK,SNS,Privatization,10.39999962
+SK,SNS,EU joining,8.5
+SK,SNS,Environment,12.28571415
+SK,SNS,Former Communists,11.4285717
+SK,SNS,Foreign Land Ownership,19.5
+SK,SNS,Media Freedom,12.625
+SK,SNS,Nationalism,19.375
+SK,SNS,Religion,4
+SK,SNS,Urban-Rural,13.39999962
+SK,SNS,Decentralization,12.5
+SK,SNS,Left-Right,15.0625
+SK,SNS,Sympathy,17.16666603
+SK,Smer,Taxes v. Spending,9.411765099
+SK,Smer,Social,4.941176414
+SK,Smer,Privatization,7.823529243
+SK,Smer,EU joining,16.05882263
+SK,Smer,Environment,10.46666622
+SK,Smer,Former Communists,7.875
+SK,Smer,Foreign Land Ownership,13.8125
+SK,Smer,Media Freedom,9.294117928
+SK,Smer,Nationalism,13.0625
+SK,Smer,Religion,16.47058868
+SK,Smer,Urban-Rural,8.857142448
+SK,Smer,Decentralization,9.352941513
+SK,Smer,Left-Right,7.6875
+SK,Smer,Sympathy,9.785714149
+SI,DeSUS,Taxes v. Spending,7.982758522
+SI,DeSUS,Social,10.33333302
+SI,DeSUS,Privatization,7.661016941
+SI,DeSUS,EU joining,14.83333302
+SI,DeSUS,Environment,10.77966118
+SI,DeSUS,Former Communists,5.116666794
+SI,DeSUS,Foreign Land Ownership,11.9830513
+SI,DeSUS,Media Freedom,10.73333359
+SI,DeSUS,Nationalism,11.06779671
+SI,DeSUS,Religion,15.71666622
+SI,DeSUS,Urban-Rural,8.118643761
+SI,DeSUS,Decentralization,10.25
+SI,DeSUS,Left-Right,6.866666794
+SI,DeSUS,Sympathy,13.25862026
+SI,LDS,Taxes v. Spending,8.399999619
+SI,LDS,Social,4.661016941
+SI,LDS,Privatization,11.37288094
+SI,LDS,EU joining,18.54999924
+SI,LDS,Environment,14.16949177
+SI,LDS,Former Communists,5.183333397
+SI,LDS,Foreign Land Ownership,7.150000095
+SI,LDS,Media Freedom,8.333333015
+SI,LDS,Nationalism,6.189655304
+SI,LDS,Religion,16.81666756
+SI,LDS,Urban-Rural,4.288135529
+SI,LDS,Decentralization,10.41666698
+SI,LDS,Left-Right,7.849999905
+SI,LDS,Sympathy,8.327586174
+SI,NSi,Taxes v. Spending,13
+SI,NSi,Social,17.33898354
+SI,NSi,Privatization,14.69999981
+SI,NSi,EU joining,16.91525459
+SI,NSi,Environment,11.5
+SI,NSi,Former Communists,18.06666756
+SI,NSi,Foreign Land Ownership,10.36206913
+SI,NSi,Media Freedom,10.16666698
+SI,NSi,Nationalism,15.10169506
+SI,NSi,Religion,3.551724195
+SI,NSi,Urban-Rural,15.81355953
+SI,NSi,Decentralization,9.100000381
+SI,NSi,Left-Right,16.96666718
+SI,NSi,Sympathy,16.03508759
+SI,SDS,Taxes v. Spending,11.83333302
+SI,SDS,Social,14.64999962
+SI,SDS,Privatization,12.91666698
+SI,SDS,EU joining,16.9830513
+SI,SDS,Environment,11.63793087
+SI,SDS,Former Communists,17.54999924
+SI,SDS,Foreign Land Ownership,10.85000038
+SI,SDS,Media Freedom,8.949999809
+SI,SDS,Nationalism,13.44827557
+SI,SDS,Religion,6.616666794
+SI,SDS,Urban-Rural,12.79660988
+SI,SDS,Decentralization,8.948275566
+SI,SDS,Left-Right,14.67796612
+SI,SDS,Sympathy,15.10344791
+SI,SLS,Taxes v. Spending,10.66101742
+SI,SLS,Social,15.61016941
+SI,SLS,Privatization,11.78333378
+SI,SLS,EU joining,15.37288094
+SI,SLS,Environment,11.1833334
+SI,SLS,Former Communists,13.91525459
+SI,SLS,Foreign Land Ownership,13.55000019
+SI,SLS,Media Freedom,10.36666679
+SI,SLS,Nationalism,14.30508518
+SI,SLS,Religion,5.372881413
+SI,SLS,Urban-Rural,17.81355858
+SI,SLS,Decentralization,8.810344696
+SI,SLS,Left-Right,14.08333302
+SI,SLS,Sympathy,13.96551704
+SI,SMS,Taxes v. Spending,9.633333206
+SI,SMS,Social,5.183333397
+SI,SMS,Privatization,11.69999981
+SI,SMS,EU joining,14.82758617
+SI,SMS,Environment,8.796609879
+SI,SMS,Former Communists,9.576271057
+SI,SMS,Foreign Land Ownership,10.8103447
+SI,SMS,Media Freedom,6.949999809
+SI,SMS,Nationalism,6.898304939
+SI,SMS,Religion,15.59322071
+SI,SMS,Urban-Rural,6.241379261
+SI,SMS,Decentralization,8.220338821
+SI,SMS,Left-Right,8.699999809
+SI,SMS,Sympathy,11.3684206
+SI,SNS,Taxes v. Spending,10.08474541
+SI,SNS,Social,11.72413826
+SI,SNS,Privatization,9.338982582
+SI,SNS,EU joining,6.75
+SI,SNS,Environment,10.44827557
+SI,SNS,Former Communists,9.288135529
+SI,SNS,Foreign Land Ownership,17.38333321
+SI,SNS,Media Freedom,9.568965912
+SI,SNS,Nationalism,17.11864471
+SI,SNS,Religion,17.72881317
+SI,SNS,Urban-Rural,8.620689392
+SI,SNS,Decentralization,10.41071415
+SI,SNS,Left-Right,10.08620644
+SI,SNS,Sympathy,14.91228104
+SI,ZLSD,Taxes v. Spending,8.220338821
+SI,ZLSD,Social,5.355932236
+SI,ZLSD,Privatization,7.683333397
+SI,ZLSD,EU joining,16.74576187
+SI,ZLSD,Environment,10.96610165
+SI,ZLSD,Former Communists,3.433333397
+SI,ZLSD,Foreign Land Ownership,10.94999981
+SI,ZLSD,Media Freedom,8.899999619
+SI,ZLSD,Nationalism,7.666666508
+SI,ZLSD,Religion,18.28813553
+SI,ZLSD,Urban-Rural,6.327586174
+SI,ZLSD,Decentralization,9.183333397
+SI,ZLSD,Left-Right,4.783333302
+SI,ZLSD,Sympathy,8.879310608
+UA,JT,Taxes v. Spending,11
+UA,JT,Social,12
+UA,JT,Privatization,12.63636398
+UA,JT,EU joining,15.63636398
+UA,JT,Environment,10.72727299
+UA,JT,Former Communists,14.10000038
+UA,JT,Foreign Land Ownership,12.63636398
+UA,JT,Media Freedom,5.363636494
+UA,JT,Nationalism,13.72727299
+UA,JT,Religion,12.18181801
+UA,JT,Urban-Rural,10.36363602
+UA,JT,Decentralization,9.363636017
+UA,JT,Left-Right,13.80000019
+UA,JT,Sympathy,8.181818008
+UA,KPU,Taxes v. Spending,4
+UA,KPU,Social,15
+UA,KPU,Privatization,3.818181753
+UA,KPU,EU joining,5.090909004
+UA,KPU,Environment,9.181818008
+UA,KPU,Former Communists,1.909090877
+UA,KPU,Foreign Land Ownership,17.63636398
+UA,KPU,Media Freedom,13
+UA,KPU,Nationalism,4.909090996
+UA,KPU,Religion,15.36363602
+UA,KPU,Urban-Rural,11.54545498
+UA,KPU,Decentralization,12.72727299
+UA,KPU,Left-Right,2.272727251
+UA,KPU,Sympathy,15.81818199
+UA,NU,Taxes v. Spending,9.363636017
+UA,NU,Social,11.80000019
+UA,NU,Privatization,13.45454502
+UA,NU,EU joining,18.36363602
+UA,NU,Environment,9.181818008
+UA,NU,Former Communists,14.27272701
+UA,NU,Foreign Land Ownership,10.45454502
+UA,NU,Media Freedom,5.909090996
+UA,NU,Nationalism,17
+UA,NU,Religion,9.545454979
+UA,NU,Urban-Rural,12.63636398
+UA,NU,Decentralization,8.090909004
+UA,NU,Left-Right,15.63636398
+UA,NU,Sympathy,5.363636494
+UA,SDPU-o,Taxes v. Spending,8.636363983
+UA,SDPU-o,Social,11.30000019
+UA,SDPU-o,Privatization,11.72727299
+UA,SDPU-o,EU joining,13.45454502
+UA,SDPU-o,Environment,11.63636398
+UA,SDPU-o,Former Communists,6.818181992
+UA,SDPU-o,Foreign Land Ownership,9.545454979
+UA,SDPU-o,Media Freedom,11.18181801
+UA,SDPU-o,Nationalism,7.909090996
+UA,SDPU-o,Religion,12.909091
+UA,SDPU-o,Urban-Rural,7.909090996
+UA,SDPU-o,Decentralization,10.27272701
+UA,SDPU-o,Left-Right,11.36363602
+UA,SDPU-o,Sympathy,12.63636398
+UA,SPU,Taxes v. Spending,4.454545498
+UA,SPU,Social,13.10000038
+UA,SPU,Privatization,6.818181992
+UA,SPU,EU joining,9.181818008
+UA,SPU,Environment,8.090909004
+UA,SPU,Former Communists,5.181818008
+UA,SPU,Foreign Land Ownership,16.36363602
+UA,SPU,Media Freedom,7.636363506
+UA,SPU,Nationalism,9.909090996
+UA,SPU,Religion,14.63636398
+UA,SPU,Urban-Rural,15.36363602
+UA,SPU,Decentralization,8.600000381
+UA,SPU,Left-Right,4.818181992
+UA,SPU,Sympathy,12.18181801
+UA,ZYU,Taxes v. Spending,10.5
+UA,ZYU,Social,11.875
+UA,ZYU,Privatization,10.77777767
+UA,ZYU,EU joining,12.44444466
+UA,ZYU,Environment,12.22222233
+UA,ZYU,Former Communists,5.444444656
+UA,ZYU,Foreign Land Ownership,11.33333302
+UA,ZYU,Media Freedom,12
+UA,ZYU,Nationalism,8.666666985
+UA,ZYU,Religion,13
+UA,ZYU,Urban-Rural,8.555555344
+UA,ZYU,Decentralization,9.111110687
+UA,ZYU,Left-Right,10.625
+UA,ZYU,Sympathy,15.125
+AU,AD,Taxes v. Spending,7.400000095
+AU,AD,Social,3.200000048
+AU,AD,Environment,5.199999809
+AU,AD,Decentralization,10.15384579
+AU,AD,Left-Right,7.800000191
+AU,AD,Immigration,4.5
+AU,AD,Deregulation,7.933333397
+AU,AD,Health Care,4.866666794
+AU,AD,US Affairs,14.78571415
+AU,AD,Sympathy,7.333333492
+AU,ALP,Taxes v. Spending,8.666666985
+AU,ALP,Social,7.199999809
+AU,ALP,Environment,9.933333397
+AU,ALP,Decentralization,14.5
+AU,ALP,Left-Right,9.866666794
+AU,ALP,Immigration,6.928571224
+AU,ALP,Deregulation,10
+AU,ALP,Health Care,3.599999905
+AU,ALP,US Affairs,9.399999619
+AU,ALP,Sympathy,8.333333015
+AU,GRN,Taxes v. Spending,3.466666698
+AU,GRN,Social,2.066666603
+AU,GRN,Environment,1.533333302
+AU,GRN,Decentralization,7.571428776
+AU,GRN,Left-Right,3.933333397
+AU,GRN,Immigration,4.230769157
+AU,GRN,Deregulation,3
+AU,GRN,Health Care,2.799999952
+AU,GRN,US Affairs,16.33333397
+AU,GRN,Sympathy,7.199999809
+AU,LPA,Taxes v. Spending,17
+AU,LPA,Social,14.26666641
+AU,LPA,Environment,15.9333334
+AU,LPA,Decentralization,11.0714283
+AU,LPA,Left-Right,15.9333334
+AU,LPA,Immigration,12
+AU,LPA,Deregulation,16.86666679
+AU,LPA,Health Care,16.46666718
+AU,LPA,US Affairs,3.666666746
+AU,LPA,Sympathy,15.80000019
+AU,NP,Taxes v. Spending,12.86666679
+AU,NP,Social,17.06666756
+AU,NP,Environment,16
+AU,NP,Decentralization,8.384614944
+AU,NP,Left-Right,14.9333334
+AU,NP,Immigration,12.71428585
+AU,NP,Deregulation,8.866666794
+AU,NP,Health Care,12.30769253
+AU,NP,US Affairs,4.533333302
+AU,NP,Sympathy,15.19999981
+AU,ON,Taxes v. Spending,11.0714283
+AU,ON,Social,16.13333321
+AU,ON,Environment,14.53846169
+AU,ON,Decentralization,7.909090996
+AU,ON,Left-Right,16.5
+AU,ON,Immigration,17
+AU,ON,Deregulation,5
+AU,ON,Health Care,6.5
+AU,ON,US Affairs,11.89999962
+AU,ON,Sympathy,16.3571434
+AT,FPO,Taxes v. Spending,13.875
+AT,FPO,Social,16.75
+AT,FPO,Environment,13.9333334
+AT,FPO,Decentralization,8.5
+AT,FPO,Left-Right,17.375
+AT,FPO,EU: Peacekeeping,9.399999619
+AT,FPO,Immigration,18.5
+AT,FPO,EU: Accountability,13.13333321
+AT,FPO,EU: Authority,16.3125
+AT,FPO,Sympathy,18
+AT,Gru,Taxes v. Spending,5.875
+AT,Gru,Social,3.875
+AT,Gru,Environment,4.4375
+AT,Gru,Decentralization,9
+AT,Gru,Left-Right,5.4375
+AT,Gru,EU: Peacekeeping,11.75
+AT,Gru,Immigration,3.6875
+AT,Gru,EU: Accountability,5.866666794
+AT,Gru,EU: Authority,8.9375
+AT,Gru,Sympathy,8.5
+AT,OVP,Taxes v. Spending,14.6875
+AT,OVP,Social,16.3125
+AT,OVP,Environment,12.5625
+AT,OVP,Decentralization,6.133333206
+AT,OVP,Left-Right,14.3125
+AT,OVP,EU: Peacekeeping,6
+AT,OVP,Immigration,13.625
+AT,OVP,EU: Accountability,10.39999962
+AT,OVP,EU: Authority,9.375
+AT,OVP,Sympathy,11.25
+AT,SPO,Taxes v. Spending,7.5
+AT,SPO,Social,6.75
+AT,SPO,Environment,10.875
+AT,SPO,Decentralization,13.33333302
+AT,SPO,Left-Right,8.75
+AT,SPO,EU: Peacekeeping,10.3125
+AT,SPO,Immigration,8.9375
+AT,SPO,EU: Accountability,8.5625
+AT,SPO,EU: Authority,9.333333015
+AT,SPO,Sympathy,9.75
+BE,CD&V,Taxes v. Spending,10.91304302
+BE,CD&V,Social,14.69565201
+BE,CD&V,Environment,12.04761887
+BE,CD&V,Decentralization,6.318181992
+BE,CD&V,Left-Right,12.31818199
+BE,CD&V,EU: Peacekeeping,5.9375
+BE,CD&V,Immigration,10.590909
+BE,CD&V,Deregulation,11.09523773
+BE,CD&V,EU: Accountability,6.352941036
+BE,CD&V,EU: Authority,6.6842103
+BE,CD&V,Sympathy,10.66666698
+BE,CDH,Taxes v. Spending,9.368420601
+BE,CDH,Social,13.47368431
+BE,CDH,Environment,10.61111069
+BE,CDH,Decentralization,14.10526276
+BE,CDH,Left-Right,10.64999962
+BE,CDH,EU: Peacekeeping,5.307692528
+BE,CDH,Immigration,7.6842103
+BE,CDH,Deregulation,9.823529243
+BE,CDH,EU: Accountability,6.199999809
+BE,CDH,EU: Authority,6.764705658
+BE,CDH,Sympathy,10.22222233
+BE,Eco,Taxes v. Spending,4.619047642
+BE,Eco,Social,2.857142925
+BE,Eco,Environment,2.476190567
+BE,Eco,Decentralization,12.52380943
+BE,Eco,Left-Right,3.450000048
+BE,Eco,EU: Peacekeeping,10.19999981
+BE,Eco,Immigration,1.850000024
+BE,Eco,Deregulation,4.904761791
+BE,Eco,EU: Accountability,4.222222328
+BE,Eco,EU: Authority,6.777777672
+BE,Eco,Sympathy,8.444444656
+BE,FN,Taxes v. Spending,15.090909
+BE,FN,Social,17.20000076
+BE,FN,Environment,15.66666698
+BE,FN,Decentralization,13.25
+BE,FN,Left-Right,18.89999962
+BE,FN,EU: Peacekeeping,13.5
+BE,FN,Immigration,19.21052551
+BE,FN,Deregulation,13.55555534
+BE,FN,EU: Accountability,18
+BE,FN,EU: Authority,17.7142849
+BE,FN,Sympathy,19.21052551
+BE,Gro!,Taxes v. Spending,4.478260994
+BE,Gro!,Social,2.260869503
+BE,Gro!,Environment,2.521739244
+BE,Gro!,Decentralization,10.45454502
+BE,Gro!,Left-Right,3.5
+BE,Gro!,EU: Peacekeeping,10.44444466
+BE,Gro!,Immigration,1.956521749
+BE,Gro!,Deregulation,4.5
+BE,Gro!,EU: Accountability,4
+BE,Gro!,EU: Authority,7.150000095
+BE,Gro!,Sympathy,7.904761791
+BE,MR,Taxes v. Spending,14.25
+BE,MR,Social,7.699999809
+BE,MR,Environment,14.39999962
+BE,MR,Decentralization,12.66666698
+BE,MR,Left-Right,12.69999981
+BE,MR,EU: Peacekeeping,3.857142925
+BE,MR,Immigration,9.736842155
+BE,MR,Deregulation,14.89473724
+BE,MR,EU: Accountability,7.1875
+BE,MR,EU: Authority,8.235294342
+BE,MR,Sympathy,12.5
+BE,N-VA,Taxes v. Spending,11.875
+BE,N-VA,Social,12.39999962
+BE,N-VA,Environment,12
+BE,N-VA,Decentralization,2.84210515
+BE,N-VA,Left-Right,14.38888931
+BE,N-VA,EU: Peacekeeping,11.18181801
+BE,N-VA,Immigration,12.70588207
+BE,N-VA,Deregulation,11.66666698
+BE,N-VA,EU: Accountability,8.769230843
+BE,N-VA,EU: Authority,9.857142448
+BE,N-VA,Sympathy,13.31578922
+BE,PS,Taxes v. Spending,4.952381134
+BE,PS,Social,4.761904716
+BE,PS,Environment,10.5714283
+BE,PS,Decentralization,13.04761887
+BE,PS,Left-Right,4.400000095
+BE,PS,EU: Peacekeeping,6.800000191
+BE,PS,Immigration,5.476190567
+BE,PS,Deregulation,3.400000095
+BE,PS,EU: Accountability,6.388888836
+BE,PS,EU: Authority,8.052631378
+BE,PS,Sympathy,10.47368431
+BE,SPSp,Taxes v. Spending,7.304347992
+BE,SPSp,Social,4.652173996
+BE,SPSp,Environment,8.727272987
+BE,SPSp,Decentralization,10.13043499
+BE,SPSp,Left-Right,6.636363506
+BE,SPSp,EU: Peacekeeping,7.294117451
+BE,SPSp,Immigration,5.227272511
+BE,SPSp,Deregulation,6
+BE,SPSp,EU: Accountability,5.722222328
+BE,SPSp,EU: Authority,8.409090996
+BE,SPSp,Sympathy,6.761904716
+BE,VB,Taxes v. Spending,14.30000019
+BE,VB,Social,19
+BE,VB,Environment,15
+BE,VB,Decentralization,2.380952358
+BE,VB,Left-Right,18.86363602
+BE,VB,EU: Peacekeeping,14.66666698
+BE,VB,Immigration,19.82608604
+BE,VB,Deregulation,13
+BE,VB,EU: Accountability,16.91666603
+BE,VB,EU: Authority,15.83333302
+BE,VB,Sympathy,18.25
+BE,VLD,Taxes v. Spending,16.39130402
+BE,VLD,Social,7.043478489
+BE,VLD,Environment,16.04347801
+BE,VLD,Decentralization,8.043478012
+BE,VLD,Left-Right,14.5
+BE,VLD,EU: Peacekeeping,5.277777672
+BE,VLD,Immigration,12.86363602
+BE,VLD,Deregulation,16.68181801
+BE,VLD,EU: Accountability,7.470588207
+BE,VLD,EU: Authority,8.100000381
+BE,VLD,Sympathy,12.61904716
+UK,Con,Taxes v. Spending,15.3214283
+UK,Con,Social,15.26315784
+UK,Con,Environment,15.61818218
+UK,Con,Decentralization,12.60714245
+UK,Con,Left-Right,16.38596535
+UK,Con,EU: Peacekeeping,14.96551704
+UK,Con,Immigration,13.78571415
+UK,Con,Northern Ireland,16.38888931
+UK,Con,Deregulation,16.98148155
+UK,Con,EU: Accountability,17.80701828
+UK,Con,EU: Authority,17.59649086
+UK,Con,Sympathy,16.5
+UK,LD,Taxes v. Spending,5.789473534
+UK,LD,Social,4.142857075
+UK,LD,Environment,7
+UK,LD,Decentralization,4.363636494
+UK,LD,Left-Right,7.91228056
+UK,LD,EU: Peacekeeping,4.727272511
+UK,LD,Immigration,6
+UK,LD,Northern Ireland,9.836734772
+UK,LD,Deregulation,9.962264061
+UK,LD,EU: Accountability,4.631578922
+UK,LD,EU: Authority,5.145454407
+UK,LD,Sympathy,7.775862217
+UK,Lab,Taxes v. Spending,8.087718964
+UK,Lab,Social,6.91228056
+UK,Lab,Environment,12.39999962
+UK,Lab,Decentralization,10.71428585
+UK,Lab,Left-Right,10.94736862
+UK,Lab,EU: Peacekeeping,8.086206436
+UK,Lab,Immigration,8.964285851
+UK,Lab,Northern Ireland,11.14814854
+UK,Lab,Deregulation,11.48148155
+UK,Lab,EU: Accountability,11.82456112
+UK,Lab,EU: Authority,10.01754379
+UK,Lab,Sympathy,8.931034088
+UK,PCy,Taxes v. Spending,5.222222328
+UK,PCy,Social,7.702702522
+UK,PCy,Environment,7.282051086
+UK,PCy,Decentralization,4.136363506
+UK,PCy,Left-Right,6.01886797
+UK,PCy,EU: Peacekeeping,7.809523582
+UK,PCy,Immigration,8.214285851
+UK,PCy,Northern Ireland,5.925925732
+UK,PCy,Deregulation,6.368421078
+UK,PCy,EU: Accountability,6.900000095
+UK,PCy,EU: Authority,6.243243217
+UK,PCy,Sympathy,10.54166698
+UK,SNP,Taxes v. Spending,6.065217495
+UK,SNP,Social,8.05405426
+UK,SNP,Environment,9.810811043
+UK,SNP,Decentralization,4.380952358
+UK,SNP,Left-Right,7.134615421
+UK,SNP,EU: Peacekeeping,8.043478012
+UK,SNP,Immigration,8.300000191
+UK,SNP,Northern Ireland,6.884615421
+UK,SNP,Deregulation,7.179487228
+UK,SNP,EU: Accountability,6.696969509
+UK,SNP,EU: Authority,6.425000191
+UK,SNP,Sympathy,10.95918369
+CA,BQ,Taxes v. Spending,6.929293156
+CA,BQ,Social,5.191919327
+CA,BQ,Environment,8.527472496
+CA,BQ,Decentralization,3.821052551
+CA,BQ,Left-Right,7.204081535
+CA,BQ,Immigration,7.897727489
+CA,BQ,Deregulation,6.898989677
+CA,BQ,Health Care,4.375
+CA,BQ,US Affairs,15.64772701
+CA,BQ,Quebec,1.29126215
+CA,BQ,Sympathy,12.70833302
+CA,CA,Taxes v. Spending,17.65686226
+CA,CA,Social,18.23077011
+CA,CA,Environment,16.71153831
+CA,CA,Decentralization,4.415841579
+CA,CA,Left-Right,17.45544624
+CA,CA,Immigration,13.63265324
+CA,CA,Deregulation,18.19230843
+CA,CA,Health Care,14.82692337
+CA,CA,US Affairs,4.028846264
+CA,CA,Quebec,16.6764698
+CA,CA,Sympathy,17.12121201
+CA,GPC,Taxes v. Spending,5.268656731
+CA,GPC,Social,4.86206913
+CA,GPC,Environment,1.586206913
+CA,GPC,Decentralization,11.07547188
+CA,GPC,Left-Right,4.613333225
+CA,GPC,Immigration,6.357142925
+CA,GPC,Deregulation,4.897058964
+CA,GPC,Health Care,4.086956501
+CA,GPC,US Affairs,17.69841194
+CA,GPC,Quebec,12.35897446
+CA,GPC,Sympathy,9.442856789
+CA,LPC,Taxes v. Spending,11.16666698
+CA,LPC,Social,7.576922894
+CA,LPC,Environment,10.75
+CA,LPC,Decentralization,12.87378597
+CA,LPC,Left-Right,11.08910847
+CA,LPC,Immigration,5.049504757
+CA,LPC,Deregulation,11.25
+CA,LPC,Health Care,5.307692528
+CA,LPC,US Affairs,11.85576916
+CA,LPC,Quebec,18.51922989
+CA,LPC,Sympathy,8.515151978
+CA,NDP,Taxes v. Spending,4.647058964
+CA,NDP,Social,3.115384579
+CA,NDP,Environment,5.666666508
+CA,NDP,Decentralization,14.14999962
+CA,NDP,Left-Right,4.93069315
+CA,NDP,Immigration,4.484848499
+CA,NDP,Deregulation,4.471153736
+CA,NDP,Health Care,1.807692289
+CA,NDP,US Affairs,18.01922989
+CA,NDP,Quebec,14.81372547
+CA,NDP,Sympathy,7.626262665
+CA,PC,Taxes v. Spending,14.23529434
+CA,PC,Social,12.39423084
+CA,PC,Environment,13.35576916
+CA,PC,Decentralization,8.892156601
+CA,PC,Left-Right,13.60396004
+CA,PC,Immigration,9.309278488
+CA,PC,Deregulation,14.43269253
+CA,PC,Health Care,9.728155136
+CA,PC,US Affairs,7.823529243
+CA,PC,Quebec,16.36538506
+CA,PC,Sympathy,12.01010132
+CY,ADIK,Taxes v. Spending,11
+CY,ADIK,Social,10.5
+CY,ADIK,EU joining,16.5
+CY,ADIK,Environment,13.75
+CY,ADIK,Decentralization,10.75
+CY,ADIK,Left-Right,15.75
+CY,ADIK,Immigration,14
+CY,ADIK,NATO/Peacekeeping,8.5
+CY,ADIK,Deregulation,11.25
+CY,ADIK,Sympathy,16.75
+CY,AKEL,Taxes v. Spending,6
+CY,AKEL,Social,12.75
+CY,AKEL,EU joining,12.75
+CY,AKEL,Environment,7.75
+CY,AKEL,Decentralization,14
+CY,AKEL,Left-Right,3
+CY,AKEL,Immigration,7.5
+CY,AKEL,NATO/Peacekeeping,14
+CY,AKEL,Deregulation,3
+CY,AKEL,Sympathy,15.75
+CY,DIKO,Taxes v. Spending,8.75
+CY,DIKO,Social,12.5
+CY,DIKO,EU joining,16.25
+CY,DIKO,Environment,13.5
+CY,DIKO,Decentralization,11.25
+CY,DIKO,Left-Right,10.75
+CY,DIKO,Immigration,13
+CY,DIKO,NATO/Peacekeeping,10
+CY,DIKO,Deregulation,6.75
+CY,DIKO,Sympathy,16
+CY,DISI,Taxes v. Spending,15
+CY,DISI,Social,10.5
+CY,DISI,EU joining,19
+CY,DISI,Environment,13
+CY,DISI,Decentralization,6.5
+CY,DISI,Left-Right,17.5
+CY,DISI,Immigration,11.5
+CY,DISI,NATO/Peacekeeping,4
+CY,DISI,Deregulation,16.75
+CY,DISI,Sympathy,12.25
+CY,EDEK,Taxes v. Spending,10
+CY,EDEK,Social,12.25
+CY,EDEK,EU joining,17.75
+CY,EDEK,Environment,7.5
+CY,EDEK,Decentralization,10
+CY,EDEK,Left-Right,7.25
+CY,EDEK,Immigration,9.5
+CY,EDEK,NATO/Peacekeeping,8.75
+CY,EDEK,Deregulation,7.5
+CY,EDEK,Sympathy,14.75
+CY,EDI,Taxes v. Spending,12.5
+CY,EDI,Social,9.25
+CY,EDI,EU joining,19.5
+CY,EDI,Environment,9
+CY,EDI,Decentralization,6.25
+CY,EDI,Left-Right,14.5
+CY,EDI,Immigration,5.5
+CY,EDI,NATO/Peacekeeping,5
+CY,EDI,Deregulation,16.75
+CY,EDI,Sympathy,9.5
+CY,KOP,Taxes v. Spending,11.5
+CY,KOP,Social,12
+CY,KOP,EU joining,15.25
+CY,KOP,Environment,3.75
+CY,KOP,Decentralization,10
+CY,KOP,Left-Right,12
+CY,KOP,Immigration,9.5
+CY,KOP,NATO/Peacekeeping,13
+CY,KOP,Deregulation,11.5
+CY,KOP,Sympathy,13.75
+CY,NEO,Taxes v. Spending,13.5
+CY,NEO,Social,14.5
+CY,NEO,EU joining,15.5
+CY,NEO,Environment,10.25
+CY,NEO,Decentralization,7.75
+CY,NEO,Left-Right,18.75
+CY,NEO,Immigration,14.75
+CY,NEO,NATO/Peacekeeping,11.66666698
+CY,NEO,Deregulation,12.25
+CY,NEO,Sympathy,18.5
+DK,CD,Taxes v. Spending,9.208333015
+DK,CD,Social,7.956521511
+DK,CD,Environment,11.652174
+DK,CD,Decentralization,10.52380943
+DK,CD,Left-Right,11.29166698
+DK,CD,EU: Peacekeeping,5.818181992
+DK,CD,Immigration,6.217391491
+DK,CD,EU: Accountability,7.3157897
+DK,CD,EU: Authority,4.818181992
+DK,CD,Sympathy,10.95454502
+DK,DF,Taxes v. Spending,9.961538315
+DK,DF,Social,14.35999966
+DK,DF,Environment,14.88000011
+DK,DF,Decentralization,12.125
+DK,DF,Left-Right,15.30769253
+DK,DF,EU: Peacekeeping,15.75
+DK,DF,Immigration,19.44000053
+DK,DF,EU: Accountability,17.61904716
+DK,DF,EU: Authority,18.54166603
+DK,DF,Sympathy,17.26086998
+DK,Enh,Taxes v. Spending,3.799999952
+DK,Enh,Social,3.458333254
+DK,Enh,Environment,2.359999895
+DK,Enh,Decentralization,9.772727013
+DK,Enh,Left-Right,2.279999971
+DK,Enh,EU: Peacekeeping,16.27272797
+DK,Enh,Immigration,2.5
+DK,Enh,EU: Accountability,16.25
+DK,Enh,EU: Authority,17.43478203
+DK,Enh,Sympathy,13.590909
+DK,FrP,Taxes v. Spending,17.76190567
+DK,FrP,Social,11.83333302
+DK,FrP,Environment,16.57894707
+DK,FrP,Decentralization,8.705882072
+DK,FrP,Left-Right,18.26086998
+DK,FrP,EU: Peacekeeping,15.6875
+DK,FrP,Immigration,19.27272797
+DK,FrP,EU: Accountability,16
+DK,FrP,EU: Authority,17.66666603
+DK,FrP,Sympathy,17.95238113
+DK,KF,Taxes v. Spending,15.31999969
+DK,KF,Social,12.47999954
+DK,KF,Environment,14.52000046
+DK,KF,Decentralization,12.23999977
+DK,KF,Left-Right,15.19230747
+DK,KF,EU: Peacekeeping,5.956521511
+DK,KF,Immigration,15.72000027
+DK,KF,EU: Accountability,12.14285755
+DK,KF,EU: Authority,7.5
+DK,KF,Sympathy,10.95652199
+DK,KrF,Taxes v. Spending,9.479999542
+DK,KrF,Social,17.52000046
+DK,KrF,Environment,8.359999657
+DK,KrF,Decentralization,10.08333302
+DK,KrF,Left-Right,11.19230747
+DK,KrF,EU: Peacekeeping,8.761904716
+DK,KrF,Immigration,8.56000042
+DK,KrF,EU: Accountability,12.64999962
+DK,KrF,EU: Authority,11.60869598
+DK,KrF,Sympathy,11.13043499
+DK,RV,Taxes v. Spending,10.35999966
+DK,RV,Social,4.079999924
+DK,RV,Environment,6.230769157
+DK,RV,Decentralization,7.519999981
+DK,RV,Left-Right,9.346154213
+DK,RV,EU: Peacekeeping,7.304347992
+DK,RV,Immigration,4.400000095
+DK,RV,EU: Accountability,8.428571701
+DK,RV,EU: Authority,6.583333492
+DK,RV,Sympathy,5.956521511
+DK,SD,Taxes v. Spending,7.400000095
+DK,SD,Social,7.800000191
+DK,SD,Environment,9
+DK,SD,Decentralization,12.43999958
+DK,SD,Left-Right,7.576922894
+DK,SD,EU: Peacekeeping,6.782608509
+DK,SD,Immigration,11.35999966
+DK,SD,EU: Accountability,11.27272701
+DK,SD,EU: Authority,8.25
+DK,SD,Sympathy,8.565217018
+DK,SF,Taxes v. Spending,4.840000153
+DK,SF,Social,4.25
+DK,SF,Environment,3.576923132
+DK,SF,Decentralization,8.079999924
+DK,SF,Left-Right,4.576922894
+DK,SF,EU: Peacekeeping,12.69565201
+DK,SF,Immigration,3.160000086
+DK,SF,EU: Accountability,13.95238113
+DK,SF,EU: Authority,14.54166698
+DK,SF,Sympathy,10.47826099
+DK,V,Taxes v. Spending,14.84000015
+DK,V,Social,9.840000153
+DK,V,Environment,15.30769253
+DK,V,Decentralization,6.960000038
+DK,V,Left-Right,15.07692337
+DK,V,EU: Peacekeeping,4.958333492
+DK,V,Immigration,15.11999989
+DK,V,EU: Accountability,10.31818199
+DK,V,EU: Authority,5.875
+DK,V,Sympathy,10.60869598
+FI,KD,Taxes v. Spending,8.515151978
+FI,KD,Social,18.57575798
+FI,KD,Environment,10.27272701
+FI,KD,Decentralization,8.935483932
+FI,KD,Left-Right,14.30303001
+FI,KD,EU: Peacekeeping,13.1935482
+FI,KD,Immigration,11.45454502
+FI,KD,Deregulation,10.1875
+FI,KD,EU: Accountability,13.89655209
+FI,KD,EU: Authority,14.42424202
+FI,KD,Sympathy,15.6875
+FI,KESK,Taxes v. Spending,9.454545021
+FI,KESK,Social,14.60606098
+FI,KESK,Environment,11.30303001
+FI,KESK,Decentralization,6.1875
+FI,KESK,Left-Right,12
+FI,KESK,EU: Peacekeeping,14
+FI,KESK,Immigration,12.30303001
+FI,KESK,Deregulation,9.57575798
+FI,KESK,EU: Accountability,14.26666641
+FI,KESK,EU: Authority,15.090909
+FI,KESK,Sympathy,11.25
+FI,KOK,Taxes v. Spending,15.78787899
+FI,KOK,Social,12.30303001
+FI,KOK,Environment,15.030303
+FI,KOK,Decentralization,11.3125
+FI,KOK,Left-Right,15.57575798
+FI,KOK,EU: Peacekeeping,6.333333492
+FI,KOK,Immigration,12.84375
+FI,KOK,Deregulation,16.81818199
+FI,KOK,EU: Accountability,11.63333321
+FI,KOK,EU: Authority,7.606060505
+FI,KOK,Sympathy,12.21875
+FI,PS,Taxes v. Spending,9.366666794
+FI,PS,Social,17.25806427
+FI,PS,Environment,12.84615421
+FI,PS,Decentralization,9
+FI,PS,Left-Right,15.4375
+FI,PS,EU: Peacekeeping,15
+FI,PS,Immigration,18.83870888
+FI,PS,Deregulation,10.22580624
+FI,PS,EU: Accountability,14.55555534
+FI,PS,EU: Authority,17.79310417
+FI,PS,Sympathy,18.375
+FI,SDP,Taxes v. Spending,8.393939018
+FI,SDP,Social,7.606060505
+FI,SDP,Environment,12.42424202
+FI,SDP,Decentralization,13.46875
+FI,SDP,Left-Right,8.393939018
+FI,SDP,EU: Peacekeeping,7.484848499
+FI,SDP,Immigration,7.878787994
+FI,SDP,Deregulation,8.636363983
+FI,SDP,EU: Accountability,10.63333321
+FI,SDP,EU: Authority,6.848484993
+FI,SDP,Sympathy,9.25
+FI,SFP,Taxes v. Spending,12.909091
+FI,SFP,Social,6.59375
+FI,SFP,Environment,10.51515198
+FI,SFP,Decentralization,6.78125
+FI,SFP,Left-Right,13.75757599
+FI,SFP,EU: Peacekeeping,7.0625
+FI,SFP,Immigration,5.969696999
+FI,SFP,Deregulation,14.030303
+FI,SFP,EU: Accountability,9.933333397
+FI,SFP,EU: Authority,8.393939018
+FI,SFP,Sympathy,9.78125
+FI,VAS,Taxes v. Spending,4.333333492
+FI,VAS,Social,5.545454502
+FI,VAS,Environment,8.303030014
+FI,VAS,Decentralization,10.9375
+FI,VAS,Left-Right,4.454545498
+FI,VAS,EU: Peacekeeping,15.40625
+FI,VAS,Immigration,6.484848499
+FI,VAS,Deregulation,4.545454502
+FI,VAS,EU: Accountability,10.75862026
+FI,VAS,EU: Authority,11.909091
+FI,VAS,Sympathy,9.46875
+FI,VIHR,Taxes v. Spending,7.121212006
+FI,VIHR,Social,3.030303001
+FI,VIHR,Environment,2.272727251
+FI,VIHR,Decentralization,7.3125
+FI,VIHR,Left-Right,7.515151501
+FI,VIHR,EU: Peacekeeping,13
+FI,VIHR,Immigration,3.75
+FI,VIHR,Deregulation,8.0625
+FI,VIHR,EU: Accountability,7.033333302
+FI,VIHR,EU: Authority,8.939393997
+FI,VIHR,Sympathy,7.625
+FR,FN,Taxes v. Spending,16.69387817
+FR,FN,Social,18.8571434
+FR,FN,Environment,14.82978725
+FR,FN,Decentralization,15.5625
+FR,FN,Immigration,19.26000023
+FR,FN,EU: Larger/Stronger,1.899999976
+FR,FN,Globalization,3.122448921
+FR,MPF,Taxes v. Spending,15.60000038
+FR,MPF,Social,18.29166603
+FR,MPF,Environment,14
+FR,MPF,Decentralization,11.89130402
+FR,MPF,Immigration,17.19565201
+FR,MPF,EU: Larger/Stronger,2.914893627
+FR,MPF,Globalization,4.822222233
+FR,PCF,Taxes v. Spending,2.400000095
+FR,PCF,Social,7.916666508
+FR,PCF,Environment,12.77999973
+FR,PCF,Decentralization,13.29787254
+FR,PCF,Immigration,5.764705658
+FR,PCF,EU: Larger/Stronger,5.699999809
+FR,PCF,Globalization,3.428571463
+FR,PS,Taxes v. Spending,7.099999905
+FR,PS,Social,5.104166508
+FR,PS,Environment,8.448979378
+FR,PS,Decentralization,7.4375
+FR,PS,Immigration,6.333333492
+FR,PS,EU: Larger/Stronger,15.68000031
+FR,PS,Globalization,10.71428585
+FR,RPF,Taxes v. Spending,13.89130402
+FR,RPF,Social,17.15909004
+FR,RPF,Environment,14.95454502
+FR,RPF,Decentralization,14.64444447
+FR,RPF,Immigration,15.23404217
+FR,RPF,EU: Larger/Stronger,3.068181753
+FR,RPF,Globalization,5.717391491
+FR,RPR,Taxes v. Spending,14.347826
+FR,RPR,Social,14.44444466
+FR,RPR,Environment,13.62222195
+FR,RPR,Decentralization,9.954545021
+FR,RPR,Immigration,12.37777805
+FR,RPR,EU: Larger/Stronger,12.43181801
+FR,RPR,Globalization,12.57777786
+FR,UDF,Taxes v. Spending,14.02040863
+FR,UDF,Social,12
+FR,UDF,Environment,11.95744705
+FR,UDF,Decentralization,4.458333492
+FR,UDF,Immigration,10.51020432
+FR,UDF,EU: Larger/Stronger,17.53061295
+FR,UDF,Globalization,14.6875
+FR,UEM,Taxes v. Spending,14.25
+FR,UEM,Social,13.43243217
+FR,UEM,Environment,13.27027035
+FR,UEM,Decentralization,9.07692337
+FR,UEM,Immigration,11.68421078
+FR,UEM,EU: Larger/Stronger,14.05263138
+FR,UEM,Globalization,13.53846169
+FR,V,Taxes v. Spending,4.571428776
+FR,V,Social,2.480000019
+FR,V,Environment,2.176470518
+FR,V,Decentralization,4.795918465
+FR,V,Immigration,2.392156839
+FR,V,EU: Larger/Stronger,14.625
+FR,V,Globalization,5.479166508
+DE,CDU/CSU,Taxes v. Spending,14.39999962
+DE,CDU/CSU,Social,15.91489315
+DE,CDU/CSU,Environment,14.51063824
+DE,CDU/CSU,Decentralization,8.505746841
+DE,CDU/CSU,Left-Right,13.58333302
+DE,CDU/CSU,EU: Peacekeeping,6.584269524
+DE,CDU/CSU,Immigration,14.62365627
+DE,CDU/CSU,EU: Accountability,10.63218403
+DE,CDU/CSU,EU: Authority,10.77272701
+DE,CDU/CSU,Sympathy,11.30000019
+DE,DKP,Taxes v. Spending,1.6875
+DE,DKP,Social,6.083333492
+DE,DKP,Environment,9.794117928
+DE,DKP,Decentralization,15.35294151
+DE,DKP,Left-Right,1.97647059
+DE,DKP,EU: Peacekeeping,15.375
+DE,DKP,Immigration,5.675675869
+DE,DKP,EU: Accountability,5.411764622
+DE,DKP,EU: Authority,13.80000019
+DE,DKP,Sympathy,17.92207718
+DE,DVU,Taxes v. Spending,9.551724434
+DE,DVU,Social,19
+DE,DVU,Environment,14.57575798
+DE,DVU,Decentralization,14.93103409
+DE,DVU,Left-Right,19.39560509
+DE,DVU,EU: Peacekeeping,17.12820435
+DE,DVU,Immigration,19.5
+DE,DVU,EU: Accountability,13.79411793
+DE,DVU,EU: Authority,18.22413826
+DE,DVU,Sympathy,19.73563194
+DE,FDP,Taxes v. Spending,18.71276665
+DE,FDP,Social,5.290322781
+DE,FDP,Environment,16.7553196
+DE,FDP,Decentralization,5.917646885
+DE,FDP,Left-Right,13.36458302
+DE,FDP,EU: Peacekeeping,6.679487228
+DE,FDP,Immigration,7.86956501
+DE,FDP,EU: Accountability,7.914634228
+DE,FDP,EU: Authority,9.951219559
+DE,FDP,Sympathy,12.01098919
+DE,GRU,Taxes v. Spending,11.02061844
+DE,GRU,Social,2.368421078
+DE,GRU,Environment,3.189473629
+DE,GRU,Decentralization,5.363636494
+DE,GRU,Left-Right,7.104166508
+DE,GRU,EU: Peacekeeping,6.595505714
+DE,GRU,Immigration,2.67368412
+DE,GRU,EU: Accountability,4
+DE,GRU,EU: Authority,6.941860676
+DE,GRU,Sympathy,6.622222424
+DE,NPD,Taxes v. Spending,9
+DE,NPD,Social,18.90163994
+DE,NPD,Environment,14.73333359
+DE,NPD,Decentralization,15.39999962
+DE,NPD,Left-Right,19.66666603
+DE,NPD,EU: Peacekeeping,17.34210587
+DE,NPD,Immigration,19.82608604
+DE,NPD,EU: Accountability,14.79310322
+DE,NPD,EU: Authority,18.4821434
+DE,NPD,Sympathy,19.8571434
+DE,PDS,Taxes v. Spending,2.989130497
+DE,PDS,Social,4.86956501
+DE,PDS,Environment,9.136363983
+DE,PDS,Decentralization,13.61538506
+DE,PDS,Left-Right,3.553191423
+DE,PDS,EU: Peacekeeping,14.22222233
+DE,PDS,Immigration,5.146067619
+DE,PDS,EU: Accountability,5.027397156
+DE,PDS,EU: Authority,10.68253994
+DE,PDS,Sympathy,13.67816067
+DE,Rep,Taxes v. Spending,10.80000019
+DE,Rep,Social,18.77941132
+DE,Rep,Environment,14.41666698
+DE,Rep,Decentralization,14.30000019
+DE,Rep,Left-Right,18.83908081
+DE,Rep,EU: Peacekeeping,16.74285698
+DE,Rep,Immigration,19.36111069
+DE,Rep,EU: Accountability,13.78787899
+DE,Rep,EU: Authority,17.92982483
+DE,Rep,Sympathy,19.55421638
+DE,SPD,Taxes v. Spending,9.322916985
+DE,SPD,Social,7.263157845
+DE,SPD,Environment,10.93684196
+DE,SPD,Decentralization,11.70786476
+DE,SPD,Left-Right,8.364583015
+DE,SPD,EU: Peacekeeping,5.544444561
+DE,SPD,Immigration,7.65263176
+DE,SPD,EU: Accountability,7.808988571
+DE,SPD,EU: Authority,8.04494381
+DE,SPD,Sympathy,8.010989189
+DE,Schil,Taxes v. Spending,14.08888912
+DE,Schil,Social,17.3064518
+DE,Schil,Environment,15.78947353
+DE,Schil,Decentralization,10.5
+DE,Schil,Left-Right,17.53932571
+DE,Schil,EU: Peacekeeping,14.57692337
+DE,Schil,Immigration,18.2394371
+DE,Schil,EU: Accountability,12.1785717
+DE,Schil,EU: Authority,16.5
+DE,Schil,Sympathy,18.4352932
+GR,KKE,Taxes v. Spending,4.428571224
+GR,KKE,Social,10.46666622
+GR,KKE,Environment,10.26666641
+GR,KKE,Decentralization,8.933333397
+GR,KKE,Left-Right,6.375
+GR,KKE,EU: Peacekeeping,19
+GR,KKE,Immigration,8.714285851
+GR,KKE,Deregulation,2.266666651
+GR,KKE,EU: Accountability,13.35714245
+GR,KKE,EU: Authority,19.1875
+GR,KKE,Sympathy,16.7142849
+GR,ND,Taxes v. Spending,14.80000019
+GR,ND,Social,14
+GR,ND,Environment,13.75
+GR,ND,Decentralization,10.5625
+GR,ND,Left-Right,15.5625
+GR,ND,EU: Peacekeeping,6.1875
+GR,ND,Immigration,14.5625
+GR,ND,Deregulation,16.6875
+GR,ND,EU: Accountability,10.13333321
+GR,ND,EU: Authority,7.25
+GR,ND,Sympathy,14.64285755
+GR,PASOK,Taxes v. Spending,10.9375
+GR,PASOK,Social,7.8125
+GR,PASOK,Environment,11.4375
+GR,PASOK,Decentralization,8.8125
+GR,PASOK,Left-Right,10.4375
+GR,PASOK,EU: Peacekeeping,5.75
+GR,PASOK,Immigration,9.25
+GR,PASOK,Deregulation,11.375
+GR,PASOK,EU: Accountability,8.800000191
+GR,PASOK,EU: Authority,5.875
+GR,PASOK,Sympathy,9
+GR,SYN,Taxes v. Spending,6.533333302
+GR,SYN,Social,4.8125
+GR,SYN,Environment,5.125
+GR,SYN,Decentralization,4.375
+GR,SYN,Left-Right,6.5
+GR,SYN,EU: Peacekeeping,12.0625
+GR,SYN,Immigration,3.375
+GR,SYN,Deregulation,6.6875
+GR,SYN,EU: Accountability,5.533333302
+GR,SYN,EU: Authority,6.4375
+GR,SYN,Sympathy,8.642857552
+IS,X-B,Taxes v. Spending,11.75
+IS,X-B,Social,8.333333015
+IS,X-B,Environment,15.83333302
+IS,X-B,Decentralization,10.75
+IS,X-B,Left-Right,12.75
+IS,X-B,Immigration,9.166666985
+IS,X-B,Deregulation,10.41666698
+IS,X-B,Sympathy,10.75
+IS,X-D,Taxes v. Spending,15.5
+IS,X-D,Social,8.666666985
+IS,X-D,Environment,17.16666603
+IS,X-D,Decentralization,8
+IS,X-D,Left-Right,16.25
+IS,X-D,Immigration,9.583333015
+IS,X-D,Deregulation,16.75
+IS,X-D,Sympathy,11.75
+IS,X-F,Taxes v. Spending,11.63636398
+IS,X-F,Social,6.699999809
+IS,X-F,Environment,10.16666698
+IS,X-F,Decentralization,8.300000191
+IS,X-F,Left-Right,12.81818199
+IS,X-F,Immigration,7.727272511
+IS,X-F,Deregulation,11.36363602
+IS,X-F,Sympathy,12.41666698
+IS,X-N,Taxes v. Spending,8.333333015
+IS,X-N,Social,8.399999619
+IS,X-N,Environment,9.166666985
+IS,X-N,Decentralization,9
+IS,X-N,Left-Right,8
+IS,X-N,Immigration,7.800000191
+IS,X-N,Deregulation,7.599999905
+IS,X-N,Sympathy,11.16666698
+IS,X-S,Taxes v. Spending,9.166666985
+IS,X-S,Social,2.916666746
+IS,X-S,Environment,10.16666698
+IS,X-S,Decentralization,8.666666985
+IS,X-S,Left-Right,8.75
+IS,X-S,Immigration,5.5
+IS,X-S,Deregulation,10
+IS,X-S,Sympathy,6
+IS,X-U,Taxes v. Spending,3.75
+IS,X-U,Social,4.166666508
+IS,X-U,Environment,2.166666746
+IS,X-U,Decentralization,12.58333302
+IS,X-U,Left-Right,3.25
+IS,X-U,Immigration,5.166666508
+IS,X-U,Deregulation,2.916666746
+IS,X-U,Sympathy,15.75
+IE,FF,Taxes v. Spending,13.75471687
+IE,FF,Social,14.8113203
+IE,FF,Environment,15.96226406
+IE,FF,Decentralization,13.05660343
+IE,FF,Left-Right,13.28301907
+IE,FF,EU: Enlargement,7.038461685
+IE,FF,EU: Peacekeeping,7.188679218
+IE,FF,EU: Strengthening,12.69230747
+IE,FF,Immigration,14.69230747
+IE,FF,Northern Ireland,6.365384579
+IE,FF,Sympathy,13.05769253
+IE,FG,Taxes v. Spending,12.45283031
+IE,FG,Social,11.47169781
+IE,FG,Environment,13.75
+IE,FG,Decentralization,11.79166698
+IE,FG,Left-Right,12.73584938
+IE,FG,EU: Enlargement,5.230769157
+IE,FG,EU: Peacekeeping,4.88679266
+IE,FG,EU: Strengthening,8.307692528
+IE,FG,Immigration,12.88235283
+IE,FG,Northern Ireland,10.96153831
+IE,FG,Sympathy,11.05769253
+IE,GR,Taxes v. Spending,5.784313679
+IE,GR,Social,5.619999886
+IE,GR,Environment,2.339622736
+IE,GR,Decentralization,4.490196228
+IE,GR,Left-Right,5.705882549
+IE,GR,EU: Enlargement,9.795918465
+IE,GR,EU: Peacekeeping,17.51922989
+IE,GR,EU: Strengthening,17.05882263
+IE,GR,Immigration,5.816326618
+IE,GR,Northern Ireland,8.658536911
+IE,GR,Sympathy,8.730769157
+IE,LB,Taxes v. Spending,6.596153736
+IE,LB,Social,5.98113203
+IE,LB,Environment,9.452830315
+IE,LB,Decentralization,8.612244606
+IE,LB,Left-Right,7.377358437
+IE,LB,EU: Enlargement,5.634615421
+IE,LB,EU: Peacekeeping,9.73584938
+IE,LB,EU: Strengthening,10.22641468
+IE,LB,Immigration,6.666666508
+IE,LB,Northern Ireland,9.098039627
+IE,LB,Sympathy,6.884615421
+IE,PD,Taxes v. Spending,17.42307663
+IE,PD,Social,6.980769157
+IE,PD,Environment,15.46153831
+IE,PD,Decentralization,11.95918369
+IE,PD,Left-Right,16.37735939
+IE,PD,EU: Enlargement,6.673077106
+IE,PD,EU: Peacekeeping,6.711538315
+IE,PD,EU: Strengthening,13.23529434
+IE,PD,Immigration,14.09615421
+IE,PD,Northern Ireland,11
+IE,PD,Sympathy,13.37254906
+IE,SF,Taxes v. Spending,4.860000134
+IE,SF,Social,9.551020622
+IE,SF,Environment,10.08108139
+IE,SF,Decentralization,6.615384579
+IE,SF,Left-Right,6.307692528
+IE,SF,EU: Enlargement,12.02222252
+IE,SF,EU: Peacekeeping,17.77551079
+IE,SF,EU: Strengthening,17.03846169
+IE,SF,Immigration,8.600000381
+IE,SF,Northern Ireland,1.5
+IE,SF,Sympathy,15.69230747
+IL,AE,Taxes v. Spending,4.239999771
+IL,AE,Social,9.263157845
+IL,AE,Environment,12.05263138
+IL,AE,Religion,13.04166698
+IL,AE,Left-Right,6.666666508
+IL,AE,Deregulation,3.653846264
+IL,AE,Palestinian State,8.291666985
+IL,AE,Security,8.239999771
+IL,AE,Sympathy,8.359999657
+IL,Bala,Taxes v. Spending,5.590909004
+IL,Bala,Social,10.94117641
+IL,Bala,Environment,10.86666679
+IL,Bala,Religion,12.60000038
+IL,Bala,Left-Right,2.407407522
+IL,Bala,Deregulation,8.444444656
+IL,Bala,Palestinian State,1.481481433
+IL,Bala,Security,1.111111164
+IL,Bala,Sympathy,14.79166698
+IL,Hada,Taxes v. Spending,2.5
+IL,Hada,Social,4.86956501
+IL,Hada,Environment,8.315789223
+IL,Hada,Religion,19.04000092
+IL,Hada,Left-Right,1.481481433
+IL,Hada,Deregulation,2.640000105
+IL,Hada,Palestinian State,1.076923132
+IL,Hada,Security,1.148148179
+IL,Hada,Sympathy,12.34615421
+IL,IHUD,Taxes v. Spending,12
+IL,IHUD,Social,16.47999954
+IL,IHUD,Environment,14.4285717
+IL,IHUD,Religion,6.461538315
+IL,IHUD,Left-Right,19.22222137
+IL,IHUD,Deregulation,14
+IL,IHUD,Palestinian State,19.70370293
+IL,IHUD,Security,19.81481552
+IL,IHUD,Sympathy,17.76922989
+IL,Lab,Taxes v. Spending,9.800000191
+IL,Lab,Social,7.133333206
+IL,Lab,Environment,11.07692337
+IL,Lab,Religion,14.41379356
+IL,Lab,Left-Right,7.482758522
+IL,Lab,Deregulation,11
+IL,Lab,Palestinian State,5.066666603
+IL,Lab,Security,5.466666698
+IL,Lab,Sympathy,6.629629612
+IL,Lik,Taxes v. Spending,15.23333359
+IL,Lik,Social,12.39999962
+IL,Lik,Environment,13.85185146
+IL,Lik,Religion,9
+IL,Lik,Left-Right,13.6896553
+IL,Lik,Deregulation,16.63333321
+IL,Lik,Palestinian State,13.0666666
+IL,Lik,Security,13.66666698
+IL,Lik,Sympathy,13
+IL,Merz,Taxes v. Spending,7.199999809
+IL,Merz,Social,2.266666651
+IL,Merz,Environment,4.551723957
+IL,Merz,Religion,19.27586174
+IL,Merz,Left-Right,4.379310131
+IL,Merz,Deregulation,8.399999619
+IL,Merz,Palestinian State,2.333333254
+IL,Merz,Security,2.666666746
+IL,Merz,Sympathy,6.888888836
+IL,NRP,Taxes v. Spending,8.416666985
+IL,NRP,Social,18.75862122
+IL,NRP,Environment,12.80000019
+IL,NRP,Religion,2.827586174
+IL,NRP,Left-Right,17.37931061
+IL,NRP,Deregulation,8.26086998
+IL,NRP,Palestinian State,18.65517235
+IL,NRP,Security,18.56666756
+IL,NRP,Sympathy,16.6785717
+IL,Raam,Taxes v. Spending,5.823529243
+IL,Raam,Social,16.05882263
+IL,Raam,Environment,12.66666698
+IL,Raam,Religion,6.25
+IL,Raam,Left-Right,3
+IL,Raam,Deregulation,7.3125
+IL,Raam,Palestinian State,1.153846145
+IL,Raam,Security,1.307692289
+IL,Raam,Sympathy,15.08695698
+IL,Shas,Taxes v. Spending,5.111111164
+IL,Shas,Social,19.39999962
+IL,Shas,Environment,14.4117651
+IL,Shas,Religion,1.379310369
+IL,Shas,Left-Right,14.37931061
+IL,Shas,Deregulation,5.875
+IL,Shas,Palestinian State,13.46428585
+IL,Shas,Security,13.26666641
+IL,Shas,Sympathy,16.85185242
+IL,Shin,Taxes v. Spending,17.37931061
+IL,Shin,Social,4.310344696
+IL,Shin,Environment,10.89655209
+IL,Shin,Religion,19.6785717
+IL,Shin,Left-Right,11.40740776
+IL,Shin,Deregulation,18.58620644
+IL,Shin,Palestinian State,8.72413826
+IL,Shin,Security,8.758620262
+IL,Shin,Sympathy,10.38461494
+IL,YhT,Taxes v. Spending,6.347826004
+IL,YhT,Social,19.5357151
+IL,YhT,Environment,13
+IL,YhT,Religion,1.928571463
+IL,YhT,Left-Right,14.18518543
+IL,YhT,Deregulation,8.421052933
+IL,YhT,Palestinian State,13.46153831
+IL,YhT,Security,13.69230747
+IL,YhT,Sympathy,17.69230843
+IT,AN,Taxes v. Spending,10.06382942
+IT,AN,Social,18.27083397
+IT,AN,Environment,13.48076916
+IT,AN,Decentralization,14.88235283
+IT,AN,Left-Right,16.94444466
+IT,AN,EU: Peacekeeping,6.843137264
+IT,AN,Immigration,15.71698093
+IT,AN,Deregulation,7.807692528
+IT,AN,EU: Accountability,14.72340393
+IT,AN,EU: Authority,13.53999996
+IT,AN,Sympathy,16.80392075
+IT,DS,Taxes v. Spending,6.666666508
+IT,DS,Social,4.979166508
+IT,DS,Environment,7.340000153
+IT,DS,Decentralization,7.365384579
+IT,DS,Left-Right,5.98113203
+IT,DS,EU: Peacekeeping,7.269230843
+IT,DS,Immigration,4.358490467
+IT,DS,Deregulation,7.529411793
+IT,DS,EU: Accountability,5.723404408
+IT,DS,EU: Authority,5.115384579
+IT,DS,Sympathy,5.490196228
+IT,FI,Taxes v. Spending,17.48936081
+IT,FI,Social,12.875
+IT,FI,Environment,17.21999931
+IT,FI,Decentralization,8.865385056
+IT,FI,Left-Right,15.59259224
+IT,FI,EU: Peacekeeping,7.5
+IT,FI,Immigration,14.35849094
+IT,FI,Deregulation,16.61538506
+IT,FI,EU: Accountability,14.1875
+IT,FI,EU: Authority,14.61538506
+IT,FI,Sympathy,17.07843208
+IT,Green,Taxes v. Spending,4.86956501
+IT,Green,Social,3.354166746
+IT,Green,Environment,1.711538434
+IT,Green,Decentralization,9.531914711
+IT,Green,Left-Right,4.018518448
+IT,Green,EU: Peacekeeping,14.652174
+IT,Green,Immigration,3.25
+IT,Green,Deregulation,5.920000076
+IT,Green,EU: Accountability,5.666666508
+IT,Green,EU: Authority,5.666666508
+IT,Green,Sympathy,8.340000153
+IT,It.Val.,Taxes v. Spending,8.636363983
+IT,It.Val.,Social,9.92307663
+IT,It.Val.,Environment,8.333333015
+IT,It.Val.,Decentralization,9.064516068
+IT,It.Val.,Left-Right,10.08888912
+IT,It.Val.,EU: Peacekeeping,8.633333206
+IT,It.Val.,Immigration,7.84375
+IT,It.Val.,Deregulation,8.864865303
+IT,It.Val.,EU: Accountability,7.433333397
+IT,It.Val.,EU: Authority,6.5
+IT,It.Val.,Sympathy,11.28888893
+IT,LN,Taxes v. Spending,15.06382942
+IT,LN,Social,17.06382942
+IT,LN,Environment,15.31914902
+IT,LN,Decentralization,2.423076868
+IT,LN,Left-Right,16.88679314
+IT,LN,EU: Peacekeeping,13.04081631
+IT,LN,Immigration,19.30188751
+IT,LN,Deregulation,15.24489784
+IT,LN,EU: Accountability,16.52173996
+IT,LN,EU: Authority,17.94230843
+IT,LN,Sympathy,18.54000092
+IT,MSFT,Taxes v. Spending,6.714285851
+IT,MSFT,Social,18.51515198
+IT,MSFT,Environment,10.69565201
+IT,MSFT,Decentralization,16.22857094
+IT,MSFT,Left-Right,19.02272797
+IT,MSFT,EU: Peacekeeping,12.5
+IT,MSFT,Immigration,17.8571434
+IT,MSFT,Deregulation,4.694444656
+IT,MSFT,EU: Accountability,15.875
+IT,MSFT,EU: Authority,16.75862122
+IT,MSFT,Sympathy,18.8292675
+IT,Marg,Taxes v. Spending,8.458333015
+IT,Marg,Social,11.85106373
+IT,Marg,Environment,8.313725471
+IT,Marg,Decentralization,8.117647171
+IT,Marg,Left-Right,8.037036896
+IT,Marg,EU: Peacekeeping,6.882352829
+IT,Marg,Immigration,5.403846264
+IT,Marg,Deregulation,9.17307663
+IT,Marg,EU: Accountability,5.717391491
+IT,Marg,EU: Authority,4.627450943
+IT,Marg,Sympathy,6.352941036
+IT,PDCI,Taxes v. Spending,3.886363745
+IT,PDCI,Social,4.155555725
+IT,PDCI,Environment,6.425531864
+IT,PDCI,Decentralization,12.51063824
+IT,PDCI,Left-Right,3.326923132
+IT,PDCI,EU: Peacekeeping,15.38297844
+IT,PDCI,Immigration,3.428571463
+IT,PDCI,Deregulation,3.416666746
+IT,PDCI,EU: Accountability,7.952381134
+IT,PDCI,EU: Authority,8.409090996
+IT,PDCI,Sympathy,10.65999985
+IT,Pann,Taxes v. Spending,15.22500038
+IT,Pann,Social,2.021276712
+IT,Pann,Environment,9.340909004
+IT,Pann,Decentralization,6.809523582
+IT,Pann,Left-Right,12
+IT,Pann,EU: Peacekeeping,6.341463566
+IT,Pann,Immigration,5.066666603
+IT,Pann,Deregulation,17.78723335
+IT,Pann,EU: Accountability,5.341463566
+IT,Pann,EU: Authority,6.731707096
+IT,Pann,Sympathy,11.31999969
+IT,RC,Taxes v. Spending,2.916666746
+IT,RC,Social,3.6875
+IT,RC,Environment,5.634615421
+IT,RC,Decentralization,13.42000008
+IT,RC,Left-Right,2.14814806
+IT,RC,EU: Peacekeeping,16.72549057
+IT,RC,Immigration,2.692307711
+IT,RC,Deregulation,2.653846264
+IT,RC,EU: Accountability,8.044444084
+IT,RC,EU: Authority,10.65306091
+IT,RC,Sympathy,11.56862736
+IT,SDI,Taxes v. Spending,9.342104912
+IT,SDI,Social,7.095238209
+IT,SDI,Environment,9.594594955
+IT,SDI,Decentralization,8.948718071
+IT,SDI,Left-Right,8.579999924
+IT,SDI,EU: Peacekeeping,6.534883499
+IT,SDI,Immigration,7.333333492
+IT,SDI,Deregulation,9.8139534
+IT,SDI,EU: Accountability,7.333333492
+IT,SDI,EU: Authority,6.574999809
+IT,SDI,Sympathy,9.80851078
+IT,UDC,Taxes v. Spending,10.62222195
+IT,UDC,Social,16
+IT,UDC,Environment,11.652174
+IT,UDC,Decentralization,10.46938801
+IT,UDC,Left-Right,12.38888931
+IT,UDC,EU: Peacekeeping,6.75
+IT,UDC,Immigration,8.877551079
+IT,UDC,Deregulation,10.53061199
+IT,UDC,EU: Accountability,9.511628151
+IT,UDC,EU: Authority,8.25
+IT,UDC,Sympathy,13.6078434
+LU,ADR,Taxes v. Spending,13
+LU,ADR,Social,15.25
+LU,ADR,Environment,13.5
+LU,ADR,Decentralization,9.25
+LU,ADR,Left-Right,17.75
+LU,ADR,EU: Peacekeeping,11.5
+LU,ADR,Immigration,17.5
+LU,ADR,Deregulation,10.25
+LU,ADR,EU: Accountability,17
+LU,ADR,EU: Authority,17.5
+LU,ADR,Sympathy,16.66666603
+LU,CSV,Taxes v. Spending,13.75
+LU,CSV,Social,15.25
+LU,CSV,Environment,10.5
+LU,CSV,Decentralization,7.25
+LU,CSV,Left-Right,13.25
+LU,CSV,EU: Peacekeeping,3.75
+LU,CSV,Immigration,14.5
+LU,CSV,Deregulation,9.75
+LU,CSV,EU: Accountability,10.5
+LU,CSV,EU: Authority,6.75
+LU,CSV,Sympathy,9
+LU,DL,Taxes v. Spending,2.666666746
+LU,DL,Social,3
+LU,DL,Environment,7
+LU,DL,Decentralization,12.66666698
+LU,DL,Left-Right,2
+LU,DL,EU: Peacekeeping,19.66666603
+LU,DL,Immigration,1.333333373
+LU,DL,Deregulation,1
+LU,DL,EU: Accountability,17.66666603
+LU,DL,EU: Authority,18.33333397
+LU,DL,Sympathy,13.5
+LU,DP,Taxes v. Spending,15
+LU,DP,Social,6.25
+LU,DP,Environment,15.75
+LU,DP,Decentralization,9.25
+LU,DP,Left-Right,13.5
+LU,DP,EU: Peacekeeping,4
+LU,DP,Immigration,13
+LU,DP,Deregulation,16
+LU,DP,EU: Accountability,11.5
+LU,DP,EU: Authority,9.25
+LU,DP,Sympathy,13.33333302
+LU,G,Taxes v. Spending,4
+LU,G,Social,2.5
+LU,G,Environment,2
+LU,G,Decentralization,5
+LU,G,Left-Right,5.75
+LU,G,EU: Peacekeeping,10.5
+LU,G,Immigration,1.75
+LU,G,Deregulation,4.75
+LU,G,EU: Accountability,9.75
+LU,G,EU: Authority,5.75
+LU,G,Sympathy,6.333333492
+LU,LSAP,Taxes v. Spending,8.5
+LU,LSAP,Social,3.5
+LU,LSAP,Environment,10.33333302
+LU,LSAP,Decentralization,6.25
+LU,LSAP,Left-Right,7.25
+LU,LSAP,EU: Peacekeeping,5
+LU,LSAP,Immigration,5.5
+LU,LSAP,Deregulation,6.25
+LU,LSAP,EU: Accountability,9.75
+LU,LSAP,EU: Authority,7.5
+LU,LSAP,Sympathy,7
+MT,AD,Taxes v. Spending,7.199999809
+MT,AD,Social,9.800000191
+MT,AD,EU joining,18.60000038
+MT,AD,Environment,5.400000095
+MT,AD,Decentralization,8.199999809
+MT,AD,Left-Right,8.199999809
+MT,AD,Immigration,7.5
+MT,AD,NATO/Peacekeeping,13
+MT,AD,Deregulation,12
+MT,AD,Sympathy,9.5
+MT,MLP,Taxes v. Spending,10.71428585
+MT,MLP,Social,13
+MT,MLP,EU joining,5.571428776
+MT,MLP,Environment,14
+MT,MLP,Decentralization,11.28571415
+MT,MLP,Left-Right,9
+MT,MLP,Immigration,13.33333302
+MT,MLP,NATO/Peacekeeping,15.85714245
+MT,MLP,Deregulation,12
+MT,MLP,Sympathy,11
+MT,NP,Taxes v. Spending,9.857142448
+MT,NP,Social,14.14285755
+MT,NP,EU joining,18.8571434
+MT,NP,Environment,13.14285755
+MT,NP,Decentralization,8.142857552
+MT,NP,Left-Right,11.85714245
+MT,NP,Immigration,14
+MT,NP,NATO/Peacekeeping,7.285714149
+MT,NP,Deregulation,13.4285717
+MT,NP,Sympathy,10.33333302
+NL,CDA,Taxes v. Spending,13.27272701
+NL,CDA,Social,13.22727299
+NL,CDA,Environment,12.68181801
+NL,CDA,Decentralization,7.882352829
+NL,CDA,Left-Right,13.5714283
+NL,CDA,EU: Peacekeeping,7.8125
+NL,CDA,Immigration,11.4285717
+NL,CDA,Deregulation,12.36363602
+NL,CDA,EU: Accountability,11.35714245
+NL,CDA,EU: Authority,9.699999809
+NL,CDA,Sympathy,14.35000038
+NL,CU,Taxes v. Spending,9.684210777
+NL,CU,Social,17.38095284
+NL,CU,Environment,7.849999905
+NL,CU,Decentralization,8.909090996
+NL,CU,Left-Right,12.19047642
+NL,CU,EU: Peacekeeping,10.19999981
+NL,CU,Immigration,9.555555344
+NL,CU,Deregulation,9.611110687
+NL,CU,EU: Accountability,12.909091
+NL,CU,EU: Authority,12.78571415
+NL,CU,Sympathy,15.19999981
+NL,D66,Taxes v. Spending,10
+NL,D66,Social,2.590909004
+NL,D66,Environment,7.454545498
+NL,D66,Decentralization,7.210526466
+NL,D66,Left-Right,10.38095284
+NL,D66,EU: Peacekeeping,7.400000095
+NL,D66,Immigration,7.333333492
+NL,D66,Deregulation,12.33333302
+NL,D66,EU: Accountability,4.5625
+NL,D66,EU: Authority,7.099999905
+NL,D66,Sympathy,8.300000191
+NL,GL,Taxes v. Spending,5.090909004
+NL,GL,Social,2.571428537
+NL,GL,Environment,3.318181753
+NL,GL,Decentralization,10.4375
+NL,GL,Left-Right,4.952381134
+NL,GL,EU: Peacekeeping,11.125
+NL,GL,Immigration,3.285714388
+NL,GL,Deregulation,4.818181992
+NL,GL,EU: Accountability,6
+NL,GL,EU: Authority,9.526315689
+NL,GL,Sympathy,5.199999809
+NL,LPF,Taxes v. Spending,16.2857151
+NL,LPF,Social,8.8125
+NL,LPF,Environment,16.52631569
+NL,LPF,Decentralization,8.615385056
+NL,LPF,Left-Right,17.61904716
+NL,LPF,EU: Peacekeeping,11.27272701
+NL,LPF,Immigration,18.31579018
+NL,LPF,Deregulation,16.42105293
+NL,LPF,EU: Accountability,14.07692337
+NL,LPF,EU: Authority,15.83333302
+NL,LPF,Sympathy,18
+NL,PvdA,Taxes v. Spending,8.090909004
+NL,PvdA,Social,5.227272511
+NL,PvdA,Environment,9.318181992
+NL,PvdA,Decentralization,11.05882359
+NL,PvdA,Left-Right,8.571428299
+NL,PvdA,EU: Peacekeeping,8.4375
+NL,PvdA,Immigration,7.619047642
+NL,PvdA,Deregulation,8.227272987
+NL,PvdA,EU: Accountability,7.285714149
+NL,PvdA,EU: Authority,7.473684311
+NL,PvdA,Sympathy,8.100000381
+NL,SGP,Taxes v. Spending,13.0625
+NL,SGP,Social,19.5714283
+NL,SGP,Environment,12.0666666
+NL,SGP,Decentralization,8.222222328
+NL,SGP,Left-Right,16.52380943
+NL,SGP,EU: Peacekeeping,10.28571415
+NL,SGP,Immigration,13.47058868
+NL,SGP,Deregulation,13
+NL,SGP,EU: Accountability,14.72727299
+NL,SGP,EU: Authority,14.5
+NL,SGP,Sympathy,18.39999962
+NL,SP,Taxes v. Spending,3.619047642
+NL,SP,Social,7.25
+NL,SP,Environment,8.476190567
+NL,SP,Decentralization,12.46666622
+NL,SP,Left-Right,3.095238209
+NL,SP,EU: Peacekeeping,14.86666679
+NL,SP,Immigration,8.944444656
+NL,SP,Deregulation,2.428571463
+NL,SP,EU: Accountability,10.21428585
+NL,SP,EU: Authority,15.52941132
+NL,SP,Sympathy,9.5
+NL,VVD,Taxes v. Spending,16.77272797
+NL,VVD,Social,4.772727489
+NL,VVD,Environment,16.77272797
+NL,VVD,Decentralization,9.352941513
+NL,VVD,Left-Right,16.33333397
+NL,VVD,EU: Peacekeeping,8.25
+NL,VVD,Immigration,15.5714283
+NL,VVD,Deregulation,17.5
+NL,VVD,EU: Accountability,13.9375
+NL,VVD,EU: Authority,12.60000038
+NL,VVD,Sympathy,13.80000019
+NZ,ACT,Taxes v. Spending,18.05263138
+NZ,ACT,Environment,17.78947449
+NZ,ACT,Decentralization,5.611111164
+NZ,ACT,Left-Right,18.14999962
+NZ,ACT,Immigration,9.476190567
+NZ,ACT,Deregulation,18.94736862
+NZ,ACT,Health Care,17.61904716
+NZ,ACT,US Affairs,4.857142925
+NZ,ACT,Sympathy,18
+NZ,Allc,Taxes v. Spending,3.111111164
+NZ,Allc,Environment,7.588235378
+NZ,Allc,Decentralization,11.125
+NZ,Allc,Left-Right,3.166666746
+NZ,Allc,Immigration,5.117647171
+NZ,Allc,Deregulation,4
+NZ,Allc,Health Care,1.899999976
+NZ,Allc,US Affairs,17.20000076
+NZ,Allc,Sympathy,7.666666508
+NZ,GPA,Taxes v. Spending,5.263157845
+NZ,GPA,Environment,1.684210539
+NZ,GPA,Decentralization,6.611111164
+NZ,GPA,Left-Right,4.368421078
+NZ,GPA,Immigration,4.368421078
+NZ,GPA,Deregulation,5.421052456
+NZ,GPA,Health Care,3.5
+NZ,GPA,US Affairs,17.38095284
+NZ,GPA,Sympathy,7.052631378
+NZ,NP,Taxes v. Spending,14.73684216
+NZ,NP,Environment,14.73684216
+NZ,NP,Decentralization,9.277777672
+NZ,NP,Left-Right,14.60000038
+NZ,NP,Immigration,9.619047165
+NZ,NP,Deregulation,15.31578922
+NZ,NP,Health Care,13.04761887
+NZ,NP,US Affairs,6.238095284
+NZ,NP,Sympathy,14.47368431
+NZ,NZFP,Taxes v. Spending,11.33333302
+NZ,NZFP,Environment,13.5
+NZ,NZFP,Decentralization,11.13333321
+NZ,NZFP,Left-Right,12.47368431
+NZ,NZFP,Immigration,17
+NZ,NZFP,Deregulation,10.82352924
+NZ,NZFP,Health Care,8.333333015
+NZ,NZFP,US Affairs,9.941176414
+NZ,NZFP,Sympathy,15.84210491
+NZ,NZLP,Taxes v. Spending,8.578947067
+NZ,NZLP,Environment,9.789473534
+NZ,NZLP,Decentralization,10.61111069
+NZ,NZLP,Left-Right,9.199999809
+NZ,NZLP,Immigration,6.476190567
+NZ,NZLP,Deregulation,9.631579399
+NZ,NZLP,Health Care,7
+NZ,NZLP,US Affairs,12
+NZ,NZLP,Sympathy,6.052631378
+NZ,PC,Taxes v. Spending,6
+NZ,PC,Environment,9.882352829
+NZ,PC,Decentralization,12
+NZ,PC,Left-Right,6.736842155
+NZ,PC,Immigration,5.894736767
+NZ,PC,Deregulation,5.888888836
+NZ,PC,Health Care,5.050000191
+NZ,PC,US Affairs,13.94736862
+NZ,PC,Sympathy,7
+NZ,UF,Taxes v. Spending,13
+NZ,UF,Environment,13.17647076
+NZ,UF,Decentralization,9.692307472
+NZ,UF,Left-Right,12.6315794
+NZ,UF,Immigration,7.823529243
+NZ,UF,Deregulation,13.0625
+NZ,UF,Health Care,11.5
+NZ,UF,US Affairs,8.333333015
+NZ,UF,Sympathy,13.11111069
+NI,APNI,Taxes v. Spending,10.11111069
+NI,APNI,Social,5.900000095
+NI,APNI,Environment,8.444444656
+NI,APNI,Decentralization,5.285714149
+NI,APNI,Left-Right,9.899999619
+NI,APNI,Immigration,5.625
+NI,APNI,Northern Ireland,6.909090996
+NI,APNI,Deregulation,12.19999981
+NI,APNI,EU: Accountability,6.333333492
+NI,APNI,EU: Authority,6
+NI,APNI,Sympathy,9.699999809
+NI,DUP,Taxes v. Spending,7.454545498
+NI,DUP,Social,18.81818199
+NI,DUP,Environment,13.80000019
+NI,DUP,Decentralization,10.75
+NI,DUP,Left-Right,12.72727299
+NI,DUP,Immigration,15.375
+NI,DUP,Northern Ireland,1
+NI,DUP,Deregulation,8.454545021
+NI,DUP,EU: Accountability,16.10000038
+NI,DUP,EU: Authority,17.36363602
+NI,DUP,Sympathy,16.54545403
+NI,NIWC,Taxes v. Spending,6.444444656
+NI,NIWC,Social,5.699999809
+NI,NIWC,Environment,7.333333492
+NI,NIWC,Decentralization,4.428571224
+NI,NIWC,Left-Right,6.75
+NI,NIWC,Immigration,4.428571224
+NI,NIWC,Northern Ireland,9.666666985
+NI,NIWC,Deregulation,8
+NI,NIWC,EU: Accountability,4.166666508
+NI,NIWC,EU: Authority,5.857142925
+NI,NIWC,Sympathy,6.888888836
+NI,PUP,Taxes v. Spending,4.555555344
+NI,PUP,Social,7.75
+NI,PUP,Environment,12
+NI,PUP,Decentralization,6.833333492
+NI,PUP,Left-Right,8.090909004
+NI,PUP,Immigration,11
+NI,PUP,Northern Ireland,2.636363745
+NI,PUP,Deregulation,6.428571224
+NI,PUP,EU: Accountability,11
+NI,PUP,EU: Authority,11.75
+NI,PUP,Sympathy,12.63636398
+NI,SDLP,Taxes v. Spending,6.454545498
+NI,SDLP,Social,12.72727299
+NI,SDLP,Environment,8.444444656
+NI,SDLP,Decentralization,7.111111164
+NI,SDLP,Left-Right,8.454545021
+NI,SDLP,Immigration,7.375
+NI,SDLP,Northern Ireland,17.27272797
+NI,SDLP,Deregulation,8.181818008
+NI,SDLP,EU: Accountability,5.900000095
+NI,SDLP,EU: Authority,4.545454502
+NI,SDLP,Sympathy,8.454545021
+NI,SF,Taxes v. Spending,4.818181992
+NI,SF,Social,9.090909004
+NI,SF,Environment,9.300000191
+NI,SF,Decentralization,7.111111164
+NI,SF,Left-Right,6.272727489
+NI,SF,Immigration,6.625
+NI,SF,Northern Ireland,19.45454597
+NI,SF,Deregulation,5.636363506
+NI,SF,EU: Accountability,14
+NI,SF,EU: Authority,13.18181801
+NI,SF,Sympathy,11.090909
+NI,UUP,Taxes v. Spending,12.18181801
+NI,UUP,Social,13.54545498
+NI,UUP,Environment,13.39999962
+NI,UUP,Decentralization,12.33333302
+NI,UUP,Left-Right,13.81818199
+NI,UUP,Immigration,12.25
+NI,UUP,Northern Ireland,1.818181872
+NI,UUP,Deregulation,13.72727299
+NI,UUP,EU: Accountability,15
+NI,UUP,EU: Authority,13.81818199
+NI,UUP,Sympathy,13.36363602
+NO,DNA,Taxes v. Spending,6.619047642
+NO,DNA,Social,6.150000095
+NO,DNA,EU joining,16.1428566
+NO,DNA,Environment,12.80952358
+NO,DNA,Decentralization,13.04761887
+NO,DNA,Left-Right,7.904761791
+NO,DNA,Immigration,9.285714149
+NO,DNA,NATO/Peacekeeping,4.166666508
+NO,DNA,Deregulation,7.904761791
+NO,DNA,Sympathy,7.263157845
+NO,FrP,Taxes v. Spending,15.25
+NO,FrP,Social,11.52380943
+NO,FrP,EU joining,10.95238113
+NO,FrP,Environment,17.66666603
+NO,FrP,Decentralization,12.76190472
+NO,FrP,Left-Right,15.80000019
+NO,FrP,Immigration,19.09523773
+NO,FrP,NATO/Peacekeeping,6.058823586
+NO,FrP,Deregulation,16.2857151
+NO,FrP,Sympathy,18
+NO,H,Taxes v. Spending,16.76190567
+NO,H,Social,7.809523582
+NO,H,EU joining,18.5714283
+NO,H,Environment,13.95238113
+NO,H,Decentralization,12.19047642
+NO,H,Left-Right,16.61904716
+NO,H,Immigration,11.47619057
+NO,H,NATO/Peacekeeping,3.666666746
+NO,H,Deregulation,17.47619057
+NO,H,Sympathy,12.78947353
+NO,KrF,Taxes v. Spending,9.714285851
+NO,KrF,Social,18.47619057
+NO,KrF,EU joining,7.809523582
+NO,KrF,Environment,8.190476418
+NO,KrF,Decentralization,7.333333492
+NO,KrF,Left-Right,11.04761887
+NO,KrF,Immigration,7.761904716
+NO,KrF,NATO/Peacekeeping,8.111110687
+NO,KrF,Deregulation,10.76190472
+NO,KrF,Sympathy,14.57894707
+NO,RV,Taxes v. Spending,2.095238209
+NO,RV,Social,2.900000095
+NO,RV,EU joining,1.857142806
+NO,RV,Environment,4.555555344
+NO,RV,Decentralization,7.6842103
+NO,RV,Left-Right,1.857142806
+NO,RV,Immigration,2.047619104
+NO,RV,NATO/Peacekeeping,17.72222137
+NO,RV,Deregulation,2
+NO,RV,Sympathy,15.68421078
+NO,SV,Taxes v. Spending,3.571428537
+NO,SV,Social,3.857142925
+NO,SV,EU joining,4.952381134
+NO,SV,Environment,3.142857075
+NO,SV,Decentralization,8.142857552
+NO,SV,Left-Right,4.476190567
+NO,SV,Immigration,3.428571463
+NO,SV,NATO/Peacekeeping,15.33333302
+NO,SV,Deregulation,4.142857075
+NO,SV,Sympathy,6.6842103
+NO,Sp,Taxes v. Spending,6.333333492
+NO,Sp,Social,11.95238113
+NO,Sp,EU joining,1.714285731
+NO,Sp,Environment,7.857142925
+NO,Sp,Decentralization,3.619047642
+NO,Sp,Left-Right,7.380952358
+NO,Sp,Immigration,9.285714149
+NO,Sp,NATO/Peacekeeping,12.05555534
+NO,Sp,Deregulation,6.238095284
+NO,Sp,Sympathy,10.38888931
+NO,V,Taxes v. Spending,12.23809528
+NO,V,Social,7.190476418
+NO,V,EU joining,9.714285851
+NO,V,Environment,5.476190567
+NO,V,Decentralization,7.238095284
+NO,V,Left-Right,12.47619057
+NO,V,Immigration,6.809523582
+NO,V,NATO/Peacekeeping,8.529411316
+NO,V,Deregulation,13.52380943
+NO,V,Sympathy,9.368420601
+PT,BE,Taxes v. Spending,5.099999905
+PT,BE,Social,1.761904716
+PT,BE,Environment,3.200000048
+PT,BE,Decentralization,6.473684311
+PT,BE,Left-Right,2.952380896
+PT,BE,EU: Peacekeeping,13.05000019
+PT,BE,Immigration,2.619047642
+PT,BE,EU: Accountability,12.1875
+PT,BE,EU: Authority,13.14999962
+PT,BE,Sympathy,12.25
+PT,CDS/PP,Taxes v. Spending,16.47619057
+PT,CDS/PP,Social,19.10000038
+PT,CDS/PP,Environment,15.4285717
+PT,CDS/PP,Decentralization,14.14285755
+PT,CDS/PP,Left-Right,16.90476227
+PT,CDS/PP,EU: Peacekeeping,10.19047642
+PT,CDS/PP,Immigration,15.28571415
+PT,CDS/PP,EU: Accountability,16.05555534
+PT,CDS/PP,EU: Authority,15.39999962
+PT,CDS/PP,Sympathy,14.25
+PT,PCP,Taxes v. Spending,4.105263233
+PT,PCP,Social,4.095238209
+PT,PCP,Environment,5.900000095
+PT,PCP,Decentralization,6.523809433
+PT,PCP,Left-Right,3.714285612
+PT,PCP,EU: Peacekeeping,14.23809528
+PT,PCP,Immigration,3.900000095
+PT,PCP,EU: Accountability,13.16666698
+PT,PCP,EU: Authority,14.60000038
+PT,PCP,Sympathy,14.5
+PT,PEV,Taxes v. Spending,5.125
+PT,PEV,Social,3.5
+PT,PEV,Environment,2.333333254
+PT,PEV,Decentralization,6.470588207
+PT,PEV,Left-Right,4.150000095
+PT,PEV,EU: Peacekeeping,14.64705849
+PT,PEV,Immigration,4.176470757
+PT,PEV,EU: Accountability,12
+PT,PEV,EU: Authority,11.66666698
+PT,PEV,Sympathy,12.77777767
+PT,PS,Taxes v. Spending,8.649999619
+PT,PS,Social,8.095237732
+PT,PS,Environment,8.809523582
+PT,PS,Decentralization,7.333333492
+PT,PS,Left-Right,8.666666985
+PT,PS,EU: Peacekeeping,6.571428776
+PT,PS,Immigration,7.666666508
+PT,PS,EU: Accountability,7.722222328
+PT,PS,EU: Authority,6.699999809
+PT,PS,Sympathy,9.050000191
+PT,PSD,Taxes v. Spending,14.5
+PT,PSD,Social,14.85000038
+PT,PSD,Environment,13.61904716
+PT,PSD,Decentralization,10.76190472
+PT,PSD,Left-Right,13.85714245
+PT,PSD,EU: Peacekeeping,7
+PT,PSD,Immigration,12.23809528
+PT,PSD,EU: Accountability,10.77777767
+PT,PSD,EU: Authority,9.399999619
+PT,PSD,Sympathy,10.80000019
+ES,CiU,Taxes v. Spending,12.06944466
+ES,CiU,Social,12.01351357
+ES,CiU,Environment,12.81159401
+ES,CiU,Decentralization,3.095890522
+ES,CiU,Left-Right,13.67105293
+ES,CiU,EU: Peacekeeping,8.045454979
+ES,CiU,Immigration,12.5714283
+ES,CiU,Deregulation,14.32394409
+ES,CiU,EU: Accountability,7.245614052
+ES,CiU,EU: Authority,7.366666794
+ES,CiU,Sympathy,12.3815794
+ES,IU,Taxes v. Spending,3.789473772
+ES,IU,Social,2.631578922
+ES,IU,Environment,4.346666813
+ES,IU,Decentralization,5.868421078
+ES,IU,Left-Right,3.605263233
+ES,IU,EU: Peacekeeping,15.82432461
+ES,IU,Immigration,3.421052694
+ES,IU,Deregulation,3.960000038
+ES,IU,EU: Accountability,6.603448391
+ES,IU,EU: Authority,9.806451797
+ES,IU,Sympathy,8.894737244
+ES,PNV,Taxes v. Spending,11.31884098
+ES,PNV,Social,13.93055534
+ES,PNV,Environment,12
+ES,PNV,Decentralization,2.16438365
+ES,PNV,Left-Right,14.5
+ES,PNV,EU: Peacekeeping,11.35849094
+ES,PNV,Immigration,12.8730154
+ES,PNV,Deregulation,12.26865673
+ES,PNV,EU: Accountability,8.210526466
+ES,PNV,EU: Authority,8.293103218
+ES,PNV,Sympathy,15.50666714
+ES,PP,Taxes v. Spending,16.65789413
+ES,PP,Social,17.15789413
+ES,PP,Environment,16.63999939
+ES,PP,Decentralization,14.67105293
+ES,PP,Left-Right,16.9868412
+ES,PP,EU: Peacekeeping,4.351351261
+ES,PP,Immigration,16.60526276
+ES,PP,Deregulation,17.31579018
+ES,PP,EU: Accountability,14.7903223
+ES,PP,EU: Authority,12.609375
+ES,PP,Sympathy,16.4868412
+ES,PSOE,Taxes v. Spending,7.360000134
+ES,PSOE,Social,5.5657897
+ES,PSOE,Environment,9.079999924
+ES,PSOE,Decentralization,8.539473534
+ES,PSOE,Left-Right,8.197368622
+ES,PSOE,EU: Peacekeeping,7.432432652
+ES,PSOE,Immigration,7.4342103
+ES,PSOE,Deregulation,9.276315689
+ES,PSOE,EU: Accountability,8.393442154
+ES,PSOE,EU: Authority,6.825397015
+ES,PSOE,Sympathy,7.223684311
+SE,C,Taxes v. Spending,11.439394
+SE,C,Social,11.64615345
+SE,C,Environment,6.924242496
+SE,C,Decentralization,3.716418028
+SE,C,Left-Right,12.22388077
+SE,C,EU: Peacekeeping,12.36206913
+SE,C,Immigration,9.983606339
+SE,C,Deregulation,11.74242401
+SE,C,EU: Accountability,13.01785755
+SE,C,EU: Authority,13.45454502
+SE,C,Sympathy,12.55737686
+SE,FP,Taxes v. Spending,13.46268654
+SE,FP,Social,4.611940384
+SE,FP,Environment,13.10447788
+SE,FP,Decentralization,8.907691956
+SE,FP,Left-Right,14.23880577
+SE,FP,EU: Peacekeeping,3.587301493
+SE,FP,Immigration,6.015151501
+SE,FP,Deregulation,15.985075
+SE,FP,EU: Accountability,5.3157897
+SE,FP,EU: Authority,4.681818008
+SE,FP,Sympathy,8.672131538
+SE,KD,Taxes v. Spending,13.72727299
+SE,KD,Social,17.74626923
+SE,KD,Environment,12.125
+SE,KD,Decentralization,9.129032135
+SE,KD,Left-Right,16.04477692
+SE,KD,EU: Peacekeeping,8.207547188
+SE,KD,Immigration,9.484375
+SE,KD,Deregulation,14.04477596
+SE,KD,EU: Accountability,10.54901981
+SE,KD,EU: Authority,8.370967865
+SE,KD,Sympathy,15.91803265
+SE,M,Taxes v. Spending,17.68656731
+SE,M,Social,12.68656731
+SE,M,Environment,16.11940384
+SE,M,Decentralization,10.51515198
+SE,M,Left-Right,17.19403076
+SE,M,EU: Peacekeeping,4.199999809
+SE,M,Immigration,10.96923065
+SE,M,Deregulation,17.88059616
+SE,M,EU: Accountability,10.58181858
+SE,M,EU: Authority,5.969696999
+SE,M,Sympathy,13.91803265
+SE,MP,Taxes v. Spending,7.164179325
+SE,MP,Social,5.045454502
+SE,MP,Environment,1.955223918
+SE,MP,Decentralization,4.909090996
+SE,MP,Left-Right,7.462686539
+SE,MP,EU: Peacekeeping,17.296875
+SE,MP,Immigration,5.225806236
+SE,MP,Deregulation,7.70149231
+SE,MP,EU: Accountability,14.74545479
+SE,MP,EU: Authority,17.46969604
+SE,MP,Sympathy,11.0666666
+SE,SAP,Taxes v. Spending,7.119402885
+SE,SAP,Social,7.104477406
+SE,SAP,Environment,11.83582115
+SE,SAP,Decentralization,12.55223846
+SE,SAP,Left-Right,8.29850769
+SE,SAP,EU: Peacekeeping,9.709677696
+SE,SAP,Immigration,7.363636494
+SE,SAP,Deregulation,7.656716347
+SE,SAP,EU: Accountability,14.32758617
+SE,SAP,EU: Authority,8.681818008
+SE,SAP,Sympathy,8
+SE,V,Taxes v. Spending,3.268656731
+SE,V,Social,3.611940384
+SE,V,Environment,4.776119232
+SE,V,Decentralization,10.33333302
+SE,V,Left-Right,3.626865625
+SE,V,EU: Peacekeeping,18.15384674
+SE,V,Immigration,4.1875
+SE,V,Deregulation,3.343283653
+SE,V,EU: Accountability,15.53448296
+SE,V,EU: Authority,17.88059616
+SE,V,Sympathy,11.65573788
+CH,CVP,Taxes v. Spending,11.72000027
+CH,CVP,Social,14.56862736
+CH,CVP,EU joining,10.52000046
+CH,CVP,Environment,11.84313679
+CH,CVP,Decentralization,7.375
+CH,CVP,Left-Right,11.79166698
+CH,CVP,Immigration,10.42000008
+CH,CVP,Deregulation,11.86274529
+CH,CVP,Sympathy,10.27659607
+CH,EDU,Taxes v. Spending,13.125
+CH,EDU,Social,18.9069767
+CH,EDU,EU joining,2.875
+CH,EDU,Environment,11.8717947
+CH,EDU,Decentralization,7.94594574
+CH,EDU,Left-Right,17.45000076
+CH,EDU,Immigration,16.82500076
+CH,EDU,Deregulation,10.8648653
+CH,EDU,Sympathy,18.375
+CH,EVP,Taxes v. Spending,9.454545021
+CH,EVP,Social,15.40425491
+CH,EVP,EU joining,9.899999619
+CH,EVP,Environment,8.558139801
+CH,EVP,Decentralization,9.358974457
+CH,EVP,Left-Right,10.35714245
+CH,EVP,Immigration,9.024390221
+CH,EVP,Deregulation,10.069767
+CH,EVP,Sympathy,12.04761887
+CH,FDP,Taxes v. Spending,16.21999931
+CH,FDP,Social,7.490196228
+CH,FDP,EU joining,10.92000008
+CH,FDP,Environment,15.52941132
+CH,FDP,Decentralization,8.081632614
+CH,FDP,Left-Right,14.47916698
+CH,FDP,Immigration,12.96000004
+CH,FDP,Deregulation,17
+CH,FDP,Sympathy,9.553191185
+CH,GPS,Taxes v. Spending,4.28000021
+CH,GPS,Social,2.960000038
+CH,GPS,EU joining,14.32653046
+CH,GPS,Environment,1.862745047
+CH,GPS,Decentralization,12.38297844
+CH,GPS,Left-Right,4.208333492
+CH,GPS,Immigration,3.079999924
+CH,GPS,Deregulation,4.920000076
+CH,GPS,Sympathy,8.108695984
+CH,LPS,Taxes v. Spending,17.10638237
+CH,LPS,Social,9.063829422
+CH,LPS,EU joining,13.66666698
+CH,LPS,Environment,16.10638237
+CH,LPS,Decentralization,6.363636494
+CH,LPS,Left-Right,15.63636398
+CH,LPS,Immigration,12.79545498
+CH,LPS,Deregulation,17.70833397
+CH,LPS,Sympathy,10.85714245
+CH,PdA,Taxes v. Spending,2.108695745
+CH,PdA,Social,4.068181992
+CH,PdA,EU joining,14.51282024
+CH,PdA,Environment,6.428571224
+CH,PdA,Decentralization,15.80000019
+CH,PdA,Left-Right,2
+CH,PdA,Immigration,3.146341562
+CH,PdA,Deregulation,1.755555511
+CH,PdA,Sympathy,14.21428585
+CH,SD,Taxes v. Spending,12.88888931
+CH,SD,Social,18.17777824
+CH,SD,EU joining,1.272727251
+CH,SD,Environment,10.5581398
+CH,SD,Decentralization,8.256410599
+CH,SD,Left-Right,18.9069767
+CH,SD,Immigration,19.68181801
+CH,SD,Deregulation,10.069767
+CH,SD,Sympathy,19.4285717
+CH,SPS,Taxes v. Spending,4.340000153
+CH,SPS,Social,3.333333254
+CH,SPS,EU joining,17.70000076
+CH,SPS,Environment,5.431372643
+CH,SPS,Decentralization,14.27083302
+CH,SPS,Left-Right,4.583333492
+CH,SPS,Immigration,3.200000048
+CH,SPS,Deregulation,5.019608021
+CH,SPS,Sympathy,7.13043499
+CH,SVP,Taxes v. Spending,18.04000092
+CH,SVP,Social,16.84313774
+CH,SVP,EU joining,1.519999981
+CH,SVP,Environment,16.90196037
+CH,SVP,Decentralization,5.270833492
+CH,SVP,Left-Right,17.875
+CH,SVP,Immigration,18.79999924
+CH,SVP,Deregulation,15.11764717
+CH,SVP,Sympathy,16.2553196
+TR,AKP,Taxes v. Spending,8.214285851
+TR,AKP,Social,17.14814758
+TR,AKP,EU joining,17.3928566
+TR,AKP,Environment,15.71428585
+TR,AKP,Nationalism,11.17241383
+TR,AKP,Religion,4.678571224
+TR,AKP,Decentralization,6.428571224
+TR,AKP,Left-Right,14.27586174
+TR,AKP,Immigration,10.3684206
+TR,AKP,NATO/Peacekeeping,6.428571224
+TR,AKP,Deregulation,13.35714245
+TR,AKP,Sympathy,15.92592621
+TR,ANAP,Taxes v. Spending,11.88461494
+TR,ANAP,Social,12.20833302
+TR,ANAP,EU joining,18.53846169
+TR,ANAP,Environment,15.60000038
+TR,ANAP,Nationalism,10.40740776
+TR,ANAP,Religion,11.30769253
+TR,ANAP,Decentralization,7.230769157
+TR,ANAP,Left-Right,12.89285755
+TR,ANAP,Immigration,8.941176414
+TR,ANAP,NATO/Peacekeeping,4.800000191
+TR,ANAP,Deregulation,16.5
+TR,ANAP,Sympathy,12.76923084
+TR,CHP,Taxes v. Spending,6.346153736
+TR,CHP,Social,9.769230843
+TR,CHP,EU joining,15.03846169
+TR,CHP,Environment,8.555555344
+TR,CHP,Nationalism,11.03571415
+TR,CHP,Religion,18.74073982
+TR,CHP,Decentralization,11.48148155
+TR,CHP,Left-Right,7.5
+TR,CHP,Immigration,8.421052933
+TR,CHP,NATO/Peacekeeping,8
+TR,CHP,Deregulation,7.407407284
+TR,CHP,Sympathy,9.730769157
+TR,DEHAP,Taxes v. Spending,5.8125
+TR,DEHAP,Social,10.53333378
+TR,DEHAP,EU joining,17.16666603
+TR,DEHAP,Environment,9.0625
+TR,DEHAP,Nationalism,2.319999933
+TR,DEHAP,Religion,14.04545498
+TR,DEHAP,Decentralization,5.458333492
+TR,DEHAP,Left-Right,5.230769157
+TR,DEHAP,Immigration,7
+TR,DEHAP,NATO/Peacekeeping,12.13333321
+TR,DEHAP,Deregulation,7.157894611
+TR,DEHAP,Sympathy,14.03846169
+TR,DSP,Taxes v. Spending,6.346153736
+TR,DSP,Social,11.04166698
+TR,DSP,EU joining,11.88000011
+TR,DSP,Environment,9.880000114
+TR,DSP,Nationalism,14.92592621
+TR,DSP,Religion,17.19230843
+TR,DSP,Decentralization,13
+TR,DSP,Left-Right,9.25
+TR,DSP,Immigration,10.05882359
+TR,DSP,NATO/Peacekeeping,8.079999924
+TR,DSP,Deregulation,7.346153736
+TR,DSP,Sympathy,13.23076916
+TR,DYP,Taxes v. Spending,10.88888931
+TR,DYP,Social,15.5
+TR,DYP,EU joining,13.74074078
+TR,DYP,Environment,15.57692337
+TR,DYP,Nationalism,16.07407379
+TR,DYP,Religion,10.40740776
+TR,DYP,Decentralization,11.55555534
+TR,DYP,Left-Right,15.21428585
+TR,DYP,Immigration,12.72222233
+TR,DYP,NATO/Peacekeeping,6.880000114
+TR,DYP,Deregulation,13.60000038
+TR,DYP,Sympathy,16
+TR,GP,Taxes v. Spending,12.90476227
+TR,GP,Social,15.38888931
+TR,GP,EU joining,5.818181992
+TR,GP,Environment,15.81818199
+TR,GP,Nationalism,17.71999931
+TR,GP,Religion,11.30000019
+TR,GP,Decentralization,10.25
+TR,GP,Left-Right,16.92592621
+TR,GP,Immigration,14.46666622
+TR,GP,NATO/Peacekeeping,10.46666622
+TR,GP,Deregulation,13.347826
+TR,GP,Sympathy,19.5
+TR,MHP,Taxes v. Spending,8.615385056
+TR,MHP,Social,18.92307663
+TR,MHP,EU joining,4.814815044
+TR,MHP,Environment,14.56000042
+TR,MHP,Nationalism,19.7857151
+TR,MHP,Religion,9.555555344
+TR,MHP,Decentralization,16.57692337
+TR,MHP,Left-Right,18.4285717
+TR,MHP,Immigration,15.94736862
+TR,MHP,NATO/Peacekeeping,8.269230843
+TR,MHP,Deregulation,6.153846264
+TR,MHP,Sympathy,18.61538506
+US,Dem,Taxes v. Spending,6.295180798
+US,Dem,Social,4.975903511
+US,Dem,Environment,6.012048244
+US,Dem,Decentralization,12.22360229
+US,Dem,Left-Right,7.083832264
+US,Dem,Immigration,6.765431881
+US,Dem,Deregulation,7.836363792
+US,Dem,Health Care,6.563636303
+US,Dem,US Affairs,10.53374195
+US,Dem,Sympathy,7.518292904
+US,Rep,Taxes v. Spending,16.77108383
+US,Rep,Social,17.21084404
+US,Rep,Environment,16.77108383
+US,Rep,Decentralization,7.78881979
+US,Rep,Left-Right,16.62874222
+US,Rep,Immigration,12.320755
+US,Rep,Deregulation,16.61445808
+US,Rep,Health Care,16.81818199
+US,Rep,US Affairs,6.408536434
+US,Rep,Sympathy,15.35975647
+JP,DP,Taxes v. Spending,10.61403465
+JP,DP,Social,8.892857552
+JP,DP,Environment,10.25862026
+JP,DP,Decentralization,5.034482956
+JP,DP,Left-Right,11.58620644
+JP,DP,Immigration,8.5
+JP,DP,Deregulation,12.71428585
+JP,DP,US Affairs,10.67241383
+JP,DP,Deficit bonds,11.85714245
+JP,DP,Defense policy,11.56896591
+JP,DP,National identity,14.43103409
+JP,DP,Sympathy,8.909090996
+JP,JCP,Taxes v. Spending,8.736842155
+JP,JCP,Social,8.660714149
+JP,JCP,Environment,5.344827652
+JP,JCP,Decentralization,10.36206913
+JP,JCP,Left-Right,3.103448391
+JP,JCP,Immigration,7.732142925
+JP,JCP,Deregulation,3.793103456
+JP,JCP,US Affairs,1.551724195
+JP,JCP,Deficit bonds,7.446428776
+JP,JCP,Defense policy,2.120689631
+JP,JCP,National identity,3.982758522
+JP,JCP,Sympathy,13.97727299
+JP,Kom.,Taxes v. Spending,9.464285851
+JP,Kom.,Social,12.875
+JP,Kom.,Environment,10.70689678
+JP,Kom.,Decentralization,9.431034088
+JP,Kom.,Left-Right,12.22413826
+JP,Kom.,Immigration,11.03508759
+JP,Kom.,Deregulation,10.15789509
+JP,Kom.,US Affairs,12.19298267
+JP,Kom.,Deficit bonds,8.982142448
+JP,Kom.,Defense policy,11.22807026
+JP,Kom.,National identity,12.4912281
+JP,Kom.,Sympathy,15.97727299
+JP,LDP,Taxes v. Spending,10.13793087
+JP,LDP,Social,15.77192974
+JP,LDP,Environment,15.01724148
+JP,LDP,Decentralization,10.56896591
+JP,LDP,Left-Right,15.8103447
+JP,LDP,Immigration,14.3684206
+JP,LDP,Deregulation,12.94827557
+JP,LDP,US Affairs,17.39655113
+JP,LDP,Deficit bonds,9.535714149
+JP,LDP,Defense policy,17
+JP,LDP,National identity,17.67241287
+JP,LDP,Sympathy,11.63636398
+JP,NCP,Taxes v. Spending,11.73913002
+JP,NCP,Social,16.26086998
+JP,NCP,Environment,14.60416698
+JP,NCP,Decentralization,10.31914902
+JP,NCP,Left-Right,16.70833397
+JP,NCP,Immigration,15.26086998
+JP,NCP,Deregulation,13.58333302
+JP,NCP,US Affairs,16.95833397
+JP,NCP,Deficit bonds,10.673913
+JP,NCP,Defense policy,17.04166603
+JP,NCP,National identity,17.04166603
+JP,NCP,Sympathy,14.5882349
+JP,SDP,Taxes v. Spending,8.859648705
+JP,SDP,Social,6.929824352
+JP,SDP,Environment,5.465517044
+JP,SDP,Decentralization,8.758620262
+JP,SDP,Left-Right,5.120689869
+JP,SDP,Immigration,6.5
+JP,SDP,Deregulation,5.526315689
+JP,SDP,US Affairs,3.051724195
+JP,SDP,Deficit bonds,7.636363506
+JP,SDP,Defense policy,2.879310369
+JP,SDP,National identity,7.368421078
+JP,SDP,Sympathy,11.61363602

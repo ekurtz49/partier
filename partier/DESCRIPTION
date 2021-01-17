@@ -1,0 +1,20 @@
+Package: partier
+Title: Compares choices, i.e. political party preferences, via the taxicab metric
+Version: 0.0.0.9000
+Authors@R: person("Emily", "Kurtz", email = "kurtz217@umn.edu", role = c("aut", "cre"))
+Description: Compares choices, i.e. political party preferences, via the cityblock metric: a theoretically superior
+   method of choice comparion than the Euclidean metric, which is more widely used due to its ease of use. Many
+   parties or choices can be compared on many dimensions, and their influence over all possible views on all of
+   the dimensions can be seen with ease. Furthermore, the package provides visualization tools, and a function to simulate voters. 
+   Appropriate data to practice with the package's functions are included.
+Depends: R (>= 3.3.0)
+Imports: MASS
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+RoxygenNote: 7.1.1
